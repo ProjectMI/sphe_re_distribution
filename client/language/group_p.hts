@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>Grupo<cl=A2A2A2><br><br>
+<tab>A janela do grupo é chamada pela tecla " G "(Por padrão) ou pelo botão" clã " em <l="hts:\\language\constwin.hts">painel do sistema direito.<\l><br>
+<tab>Se você não faz parte de um grupo, você verá <cl=FFFFFF>janela de criação de grupo.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Criar um grupo<cl=A2A2A2><br>
+<tab>Seleccionando <cl=FFFFFF>"Criar grupo"<cl=B0B0B0> Você automaticamente se torna <cl=FFFFFF>capítulo<cl=B0B0B0> em um novo grupo. <cl=FF0000>  <br>
+<tab>Depois de selecionar o item <cl=FFFFFF>"entrar no grupo"<cl=B0B0B0> a inscrição correspondente é "colada" ao cursor. Depois disso, você deve clicar com o botão esquerdo do mouse em <cl=FFFFFF>chefe do grupo<cl=B0B0B0>. Ele recebe o seu pedido para se juntar ao grupo e decide se aceita ou não. Após a aceitação, você se torna um membro comum do grupo.<br>
+<cl=FFFFFF>Chefe do grupo<cl=B0B0B0> pode remover qualquer membro de um grupo, bem como dissolver o grupo. Quando um grupo é dissolvido, o membro que atualmente está no topo da lista se torna o chefe. <cl=FFFFFF>O número máximo de participantes do grupo é 5.<cl=B0B0B0><br>
+<br><tab><cl=00FF00>Obtenção de títulos e graus no grupo<cl=A2A2A2><br>
+A experiência recebida pela destruição de monstros é dividida entre todos os membros do grupo que estão a uma distância não superior a 50 metros, proporcionalmente ao seu nível. Para destruir um monstro, o grupo ganha mais experiência do que um personagem, e mais, quanto mais membros do grupo.<br>
+}

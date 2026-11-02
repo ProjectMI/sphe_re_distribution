@@ -1,0 +1,19 @@
+hypertext
+{
+<tab><cl=F0F010>Chat<cl=A2A2A2><br><br>
+<tab>La finestra di chat ha due forme: completa e piccola. Il passaggio tra i moduli avviene tramite il pulsante "chat" in <l="hts:\\language\constwin.hts">Pannello di sistema destro<\l>.<br>
+<tab><cl=FFFFFF>In Forma Piccola<cl=B0B0B0> Vengono visualizzate le ultime due righe di messaggi. Per digitare il messaggio, premere il pulsante " / " (predefinito). In questo modo verrà visualizzato il campo di immissione del testo. La digitazione termina premendo il tasto Invio. Per annullare la digitazione, fare clic sul pulsante Chiudi finestra o digitare una riga vuota.<br>
+<tab>I messaggi possono essere inviati nelle seguenti modalità:<br>
+<tab><cl=FFFFFF>Sussurro<cl=B0B0B0> - Il tuo messaggio sarà visto da coloro che si trovano a una distanza non superiore a 10 metri.<br>
+<tab><cl=FFFFFF>Discorso normale<cl=B0B0B0> - Il tuo messaggio sarà visto da coloro che si trovano a una distanza non superiore a 50 metri.<br>
+<tab><cl=FFFFFF>Commercio<cl=B0B0B0> - Messaggi commerciali.<br>
+<tab><cl=FFFFFF>Clan<cl=B0B0B0> - Il tuo messaggio sarà visto da coloro che fanno parte dello stesso clan con te.<br><br>
+<tab><cl=FFFFFF>Gruppo<cl=B0B0B0> - Il tuo messaggio sarà visto da coloro che fanno parte dello stesso gruppo con te.<br><br>
+<tab><cl=FFFFFF>In una grande forma di chat<cl=B0B0B0> Vedi le ultime righe e puoi visualizzare alcune centinaia di post recenti utilizzando la barra di scorrimento. L'input viene effettuato anche con il tasto " / " o facendo clic sul campo di input, che in questo modulo è sempre sullo schermo.<br> Inoltre, puoi inserire filtri per i messaggi utilizzando i pulsanti nella parte superiore della finestra della chat: conversazione normale, messaggi per Clan, messaggi di sistema, messaggi di corruzione, messaggi per gruppo, messaggi commerciali.<br>
+<tab><cl=FFFFFF>Cambia tipo di conversazione<cl=B0B0B0> È possibile utilizzare i tasti funzione:<br>
+<cl=FFFFFF>F2<cl=B0B0B0><tab>- sussurro<br>
+<cl=FFFFFF>F3<cl=B0B0B0><tab>- discorso normale<br>
+<cl=FFFFFF>F4<cl=B0B0B0><tab>- commercio<br>
+<cl=FFFFFF>F6<cl=B0B0B0><tab>- messaggi per il clan<br>
+<cl=FFFFFF>F7<cl=B0B0B0><tab>- messaggi per il gruppo<br>
+}

@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>GESTION<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Gestion<cl=A2A2A2><br>
+<tab>Le jeu dispose de deux modes de contrôle: <cl=FFFFFF>général<cl=B0B0B0> et <cl=FFFFFF>combat<cl=B0B0B0>.  En mode général, le curseur de la souris traditionnel (sous la forme d'une flèche) est présent à l'écran. Vous pouvez manipuler les fenêtres et les objets de jeu. Le mode de combat est principalement conçu pour les duels dynamiques et les transitions à longue distance. Il n'y a pas de curseur de souris mobile à l'écran - le curseur est indiqué par un réticule situé au centre de l'écran. La touche TAB (par DÉFAUT) permet de basculer entre les modes.<br>
+<br><tab><cl=00FF00>Main<cl=A2A2A2><br>
+<tab>La main de Votre personnage peut être soit <cl=FFFFFF>"libre"<cl=B0B0B0>, soit <cl=FFFFFF>"occupée"<cl=B0B0B0>. <cl=FFFFFF>Main<cl=B0B0B0> "prenez" des objets (par exemple, des armes) qui doivent constamment effectuer une action. Lorsque la main est occupée, une image de la main avec l'objet qui s'y trouve apparaît dans le coin inférieur droit de l'écran. Vous ne pouvez placer que des objets dans la main <l="hts:\\language\inventory.hts">inventaire<\l>. Pour libérer votre main, appuyez sur la touche
+"-".<br>
+<br><tab><cl=00FF00>Gestion en mode général<cl=A2A2A2><br>
+<tab>L'apparence du curseur reflète l'action que votre personnage veut (ou a la capacité) de faire.<br>
+<tab><cl=FFFFFF>En surbrillance<cl=B0B0B0> en jaune, le curseur indique un objet à Votre portée (3 mètres). Vous pouvez <cl=FFFFFF>utiliser<cl=B0B0B0> cliquez avec le bouton gauche de la souris sur cet objet. Lors de l'utilisation, certains objets (principalement des armes, des poudres médicinales, des mantras) sont automatiquement déplacés vers <cl=FFFFFF>main<cl=B0B0B0> Votre personnage.<br>
+<tab>Quand <cl=FFFFFFF>dans la main est un objet<cl=B0B0B0> . son pictogramme est constamment "collé" au curseur. Selon la portée de l'objet dans Votre main, il peut <cl=FFFFFF>utiliser<cl=B0B0B0> pour influencer des objets plus ou moins éloignés dans le monde environnant avec un clic gauche de la souris.<br>
+<tab><cl=FFFFFF>Oeil<cl=B0B0B0> le curseur apparaît lorsque vous maintenez la touche Maj enfoncée. Dans cet état, Vous pouvez <cl=FFFFFF>voir<cl=B0B0B0> cliquez avec le bouton gauche de la souris sur l'objet souhaité. Si l'objet dont vous avez besoin est assez proche, vous obtiendrez une Description complète, si l'objet est loin - vous ne verrez que le nom.<br>
+<tab><cl=FFFFFF>L'homme<cl=B0B0B0> le curseur s'affiche lorsque vous maintenez la touche Alt enfoncée. Avec cela, Vous pouvez <cl=FFFFFF>utiliser<cl=B0B0B0> l'objet est sur lui-même.<br>
+<tab><cl=FFFFFF>Lorsque vous faites glisser<cl=B0B0B0> l'icône d'un objet apparaît temporairement près du curseur. Pour faire glisser, vous devez cliquer sur l'objet avec le bouton gauche de la souris et, sans le relâcher, le déplacer à l'endroit souhaité Si la main est occupée, vous ne pouvez pas déplacer l'objet.<br>
+<tab>En mode général, Vous pouvez également manipuler les fenêtres, en particulier-les déplacer sur l'écran, personnaliser la vue qui vous convient. L'emplacement des fenêtres est conservé lors de la prochaine connexion au jeu, sauf si le mode vidéo a été modifié.
+<br><tab>Appuyer sur le bouton droit de la souris et le maintenir enfoncé en mode général verrouille le curseur au centre de l'écran et vous permet de passer temporairement en mode combat.<br>
+<br><tab><cl=00FF00>Contrôle en mode combat<cl=A2A2A2><br>
+Dans ce mode, il n'y a pas de curseur caché et le curseur est placé au centre de l'écran. La souris est utilisée pour faire pivoter. La réaction au mouvement de la souris vers le haut et vers le bas peut être définie dans les paramètres de contrôle, dans le point "inversion de la souris".<br>
+<tab>Les touches Maj, Alt et bouton gauche de la souris sont utilisées de la même manière qu'en mode général. Vous ne pouvez pas faire glisser des objets en mode combat.<br>
+<br><tab><cl=00FF00>Raccourcis clavier<cl=A2A2A2><br>
+<tab>Pour rapide <cl=FFFFFF>utilisation<cl=B0B0B0> vous pouvez utiliser les raccourcis clavier pour les objets de votre inventaire. Ce sont les touches 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 sur le clavier principal. En combinaison avec la touche Ctrl, vous pouvez définir 20 raccourcis clavier au total. Pour affecter un objet à une touche de raccourci, utilisez <l="hts:\\language\hotkeys.hts">fenêtre raccourcis clavier<\l>.<br>
+<br><tab><cl=00FF00>Poing<cl=A2A2A2><br>
+<tab>Dans le cas où l'utilisation d'une arme est impossible pour une raison quelconque, vous pouvez utiliser vos propres poings (tilde: "`"). Avec l'aide d'un poing, vous pouvez infliger des blessures faibles mais fréquentes à l'ennemi.<br>
+}

@@ -1,0 +1,8 @@
+hypertext
+{
+<tab><cl=F0F010>TORNEOS<cl=A2A2A2><br><br>
+<tab>
+Durante el grupo <l="hts:\\language\tournament.hts">torneo<\l> nombres de los participantes
+tienen el color del equipo para el que juegan.<br>
+Ten en cuenta que si infliges daño a alguien de tu grupo o tratas a enemigos, entonces te quitan los puntos de daño o la salud curada de los aliados, respectivamente.
+}

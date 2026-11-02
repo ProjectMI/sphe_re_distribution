@@ -1,0 +1,81 @@
+hypertext
+{
+<cl=FFFF00>Assassin's Guild<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 16<br>
+<tab><tab>Minimum degree: 16<br>
+<br><cl=ABCDEF>
+<tab>Dexterity: +10<br>
+<tab>Endurance: -12<br>
+<tab>Elements: -3<br>
+<br>
+<tab>Invisibility:<br>
+<tab>Critical Hit: 500 damage<br>
+<tab>Poison: damage 120<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 21<br>
+<tab><tab>Minimum degree: 21<br>
+<br><cl=ABCDEF>
+<tab>Agility: +30<br>
+<tab>Endurance: -24<br>
+<tab>Elements: -6<br>
+<br>
+<tab>Invisibility: <br>
+<tab>Critical Hit: damage 750<br>
+<tab>Poison: damage 200<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 31<br>
+<tab><tab>Minimum degree: 31<br>
+<br><cl=ABCDEF>
+<tab>Agility: +44<br>
+<tab>Endurance: -36<br>
+<tab>Elements: -10<br>
+<br>
+<tab>Invisibility: <br>
+<tab>Critical Hit: 1230 damage<br>
+<tab>Poison: damage 350 <br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 41<br>
+<tab><tab>Minimum degree: 41<br>
+<br><cl=ABCDEF>
+<tab>Agility: +65<br>
+<tab>Endurance: -46<br>
+<tab>Elements: -14<br>
+<br>
+<tab>Invisibility: <br>
+<tab>Critical Hit: 1620 damage<br>
+<tab>Poison: damage 560<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 51<br>
+<tab><tab>Minimum degree: 51<br>
+<br><cl=ABCDEF>
+<tab>Agility: +72<br>
+<tab>Endurance: -62<br>
+<tab>Elements: -21<br>
+<br>
+<tab>Invisibility: <br>
+<tab>Critical Hit: Damage 2150<br>
+<tab>Poison: damage 820<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 60<br>
+<tab><tab>Minimum degree: 60<br>
+<br><cl=ABCDEF>
+<tab>Agility: +96<br>
+<tab>Endurance: -72<br>
+<tab>Elements: -25<br>
+<br>
+<tab>Invisibility: <br>
+<tab>Critical Hit: 2600 damage<br>
+<tab>Poison: damage 1150, from a distance of 7 m., <br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guilda.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descn.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_descb.hts">next guild<\l><br>
+}

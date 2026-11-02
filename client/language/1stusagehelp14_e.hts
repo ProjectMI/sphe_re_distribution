@@ -1,0 +1,9 @@
+hypertext
+{
+<cl=00FF00>ENTRANCE TO THE DUNGEON<br>
+<br>
+<cl=FFFFFF>You have entered the dungeon.<br>
+Depending on the mission, there is a hostage, a package or an evil monster somewhere here.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Full help for the game (F1)<\l><br>
+}

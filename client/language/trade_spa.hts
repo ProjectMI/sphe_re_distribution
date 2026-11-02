@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>COMPRA<cl=A2A2A2><br><br>
+Con esta ventana, puedes comprar productos de los habitantes de la Esfera y de otros personajes. En la columna de la izquierda hay iconos de productos. Para obtener la descripción del producto, es necesario <cl=FFFFFF>ver<cl=B0B0B0>. La siguiente columna muestra el precio de este artículo. Luego viene el campo para ingresar la oferta de precio. Al hacer clic izquierdo En él, puede hacer una oferta.<br>
+<tab>La compra del producto se realiza haciendo clic en la marca de verificación "comprar" o arrastrando la bolsa con su dinero al icono del producto. Si no hay suficiente efectivo, la marca de verificación se sombreará.<br>
+<tab>También puede vender sus productos. Para ello, simultáneamente con <cl=FFFFFF>ventana de compra<cl=B0B0B0> Tienes que abrir <l="hts:\\language\tradechar.hts">ventana de venta <\l> (tecla " T " por defecto).<br>
+}

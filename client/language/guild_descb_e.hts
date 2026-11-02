@@ -1,0 +1,93 @@
+hypertext
+{
+<cl=FFFF00>Guild of the Crusader<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 16<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +120<br>
+<tab>Mekost: -6<br>
+<tab>Endurance: +10<br>
+<tab>Fire: -8<br>
+<tab>Other elements: -4<br>
+<tab><br>
+<tab>Divine transference: once every 3 hours<br>
+<tab>Prana Shield: for 10 minutes, once every 6 hours<br>
+<tab>Running time: for 5 minutes every 4 hours<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 21<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +280<br>
+<tab>Mekost: -20<br>
+<tab>Endurance: +30<br>
+<tab>Fire: -10<br>
+<tab>Other elements: -6<br>
+<tab><br>
+<tab>Divine transference: once every 3 hours<br>
+<tab>Prana Shield: for 15 minutes, once every 5 hours<br>
+<tab>Running time: for 10 minutes every 3 hours<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 31<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +650<br>
+<tab>Mekost: -28<br>
+<tab>Endurance: +44<br>
+<tab>Fire: -12<br>
+<tab>Other elements: -10<br>
+<tab><br>
+<tab>Divine transference: every 2 hours<br>
+<tab>Prana Shield: for 20 minutes, once every 5 hours<br>
+<tab>Running time: for 10 minutes every 3 hours<br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 41<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +910<br>
+<tab>Mekost: -42<br>
+<tab>Endurance: +62<br>
+<tab>Fire: -16<br>
+<tab>Other elements: -15<br>
+<tab><br>
+<tab>Divine transference: every 2 hours<br>
+<tab>Prana Shield: for 30 minutes, every 4 hours<br>
+<tab>Running time: for 10 minutes every 3 hours<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 51<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +1450<br>
+<tab>Mekost: -60<br>
+<tab>Endurance: +72<br>
+<tab>Fire: -24<br>
+<tab>Other elements: -20<br>
+<tab><br>
+<tab>Divine transference: every 2 hours<br>
+<tab>Prana Shield: for 40 minutes, every 4 hours<br>
+<tab>Running time: for 15 minutes every 2 hours<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 60<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +2100<br>
+<tab>Mekost: -96<br>
+<tab>Endurance: +84<br>
+<tab>Fire: -36<br>
+<tab>Other elements: -24<br>
+<tab><br>
+<tab>Divine transference: once every 1 hour<br>
+<tab>Prana Shield: for 50 minutes, every 3 hours<br>
+<tab>Running time: for 20 minutes every 2 hours<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildb.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_desca.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_descc.hts">next guild<\l><br>
+}

@@ -1,0 +1,111 @@
+hypertext
+{
+Gild des Inquisitors<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>+96 Magische Verteidigung<br>
+<tab>Physischer Schutz: +82<br>
+<tab>Ausdauer: -6<br>
+<tab>Übrige Fertigkeiten: -4<br>
+<tab>Boden: -6<br>
+<tab>Wasser: -10<br>
+<tab>Feuer: +12<br>
+<tab>+45 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 6 Stunden<br>
+<tab>Fesseln: 4 Minuten, alle 4 Stunden<br>
+<tab>Reinigung: 1 Mutator, alle 3 Stunden<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>+190 Magische Verteidigung<br>
+<tab>Physischer Schutz: +150<br>
+<tab>Ausdauer: -10<br>
+<tab>Übrige Fertigkeiten: -6<br>
+<tab>Erde: -10<br>
+<tab>Wasser: -14<br>
+<tab>Feuer: +28<br>
+<tab>+88 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 4 Stunden<br>
+<tab>Fesseln: 8 Minuten, alle 3 Stunden<br>
+<tab>Reinigung: 2 Mutatoren, alle 2 Stunden<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>+297 Magische Verteidigung<br>
+<tab>Physischer Schutz: +248<br>
+<tab>Ausdauer: -14<br>
+<tab>Übrige Fertigkeiten: -10<br>
+<tab>Boden: -14<br>
+<tab>Wasser: -18<br>
+<tab>Feuer: +48<br>
+<tab>+148 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 4 Stunden<br>
+<tab>Fesseln: 10 Minuten, alle 3 Stunden<br>
+<tab>Reinigung: 3 Mutatoren, alle 2 Stunden<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>+512 Magische Verteidigung<br>
+<tab>Physischer Schutz: +412<br>
+<tab>Ausdauer: -18<br>
+<tab>Übrige Fertigkeiten: -14<br>
+<tab>Boden: -18<br>
+<tab>Wasser: -24<br>
+<tab>Feuer: +64<br>
+<tab>+251 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 3 Stunden<br>
+<tab>Fesseln: 12 Minuten, alle 3 Stunden<br>
+<tab>Reinigung: 4 Mutatoren, einmal alle 1 Stunde<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>+808 Magische Verteidigung<br>
+<tab>Physischer Schutz: +653<br>
+<tab>Ausdauer: -24<br>
+<tab>Übrige Fertigkeiten: -18<br>
+<tab>Boden: -24<br>
+<tab>Wasser: -48<br>
+<tab>Feuer: +72<br>
+<tab>+520 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 3 Stunden<br>
+<tab>Fesseln: 14 Minuten, alle 3 Stunden<br>
+<tab>Reinigung: 4 Mutatoren, einmal alle 1 Stunde<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>+1320 Magische Verteidigung<br>
+<tab>Physischer Schutz: +960<br>
+<tab>Ausdauer: -48<br>
+<tab>Übrige Fertigkeiten: -24<br>
+<tab>Boden: -48<br>
+<tab>Wasser: -58<br>
+<tab>Feuer: +84<br>
+<tab>+1380 Magischer Angriff<br>
+<tab><br>
+<tab>Wiedergeburt: Alle 2 Stunden<br>
+<tab>Fesseln: 20 Minuten, alle 3 Stunden<br>
+<tab>Reinigung: 6 Mutatoren, einmal alle 1 Stunde<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildc.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descb.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descd.hts">Nächste Gilde<\l><br>
+}

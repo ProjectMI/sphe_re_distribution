@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>Contenitore<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>Contenitore<cl=B0B0B0> può essere un torba, una borsa, una cassa - cioè qualsiasi contenitore in cui è possibile posizionare altri oggetti. Il contenitore si apre e si chiude con un clic sinistro. Ogni contenitore ha il proprio peso, nonché il peso massimo possibile (insieme alle cose in esso contenute). Puoi scoprire questi pesi se <l="hts:\\language\i_mainp.hts">"guarda"<\l> sul contenitore. Non sarai in grado di mettere un oggetto in un contenitore Se il suo peso massimo viene superato.<br>Alcuni contenitori hanno celle speciali per determinati oggetti, ad esempio nei forzieri delle camere d'Albergo, Le ultime celle servono ingredienti alchemici e polveri magiche.<br>
+}

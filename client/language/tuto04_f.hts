@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=F0F010>Conducteur:<cl=00FF00> L'ennemi t'a blessé? Ce marchand vous vendra volontiers de la poudre de santé.<br><br>
+
+<cl=FFFFFF>Passez en mode curseur (clic droit).<br>
+Cliquez sur le vendeur avec le curseur pour commencer le commerce.<br>
+Achetez l'objet désiré en cliquant sur la coche.<br><br>
+<l="hts:\\language\trade.hts">En savoir plus sur le commerce...<\l><br>
+<l="hts:\\language\helpindex.hts">Aide complète du jeu (F1)<\l><br>
+}

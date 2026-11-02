@@ -1,0 +1,75 @@
+hypertext
+{
+Gild des Stahlmeisters<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +46<br>
+<tab>+82 Magische Verteidigung<br>
+<tab>Geschicklichkeit: +10<br>
+<tab>Ausdauer: -20<br>
+<tab>Boden: -6<br>
+<tab>Andere Elemente: -4<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +96<br>
+<tab>+150 Magische Verteidigung<br>
+<tab>Beweglichkeit: +30<br>
+<tab>Ausdauer: -32<br>
+<tab>Erde: -10<br>
+<tab>Andere Elemente: -6<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +190<br>
+<tab>+248 Magische Verteidigung<br>
+<tab>Geschicklichkeit: +44<br>
+<tab>Ausdauer: -46<br>
+<tab>Boden: -15<br>
+<tab>Andere Elemente: -10<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +297<br>
+<tab>+412 Magische Verteidigung<br>
+<tab>Beweglichkeit: +65<br>
+<tab>Ausdauer: -68<br>
+<tab>Boden: -20<br>
+<tab>Andere Elemente: -15<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +512<br>
+<tab>+653 Magische Verteidigung<br>
+<tab>Beweglichkeit: +72<br>
+<tab>Ausdauer: -86<br>
+<tab>Boden: -24<br>
+<tab>Andere Elemente: -20<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +808<br>
+<tab>+960 Magische Verteidigung<br>
+<tab>Geschicklichkeit: +96<br>
+<tab>Ausdauer: -110<br>
+<tab>Boden: -36<br>
+<tab>Andere Elemente: -24<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildi.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_desch.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descj.hts">Nächste Gilde<\l><br>
+}

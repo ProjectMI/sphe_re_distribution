@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>Inventário<cl=A2A2A2><br><br>
+<tab>As células nesta janela mostram os objetos que o personagem carrega com ele. Os itens colocados nessas células podem se perder após <l="hts:\\language\i_reincarn.hts">morte<\l> um personagem com uma probabilidade dependendo do seu karma (quanto melhor o karma, menor a probabilidade de perda).<br>
+<tab>As duas linhas inferiores são projetadas para armazenar qualquer objeto, incluindo armas. A linha superior é composta por cinco células especiais:<br>
+<tab><cl=FFFFFF>Dinheiro<cl=B0B0B0>.  O seu dinheiro está em táleres.<br>
+<tab><cl=FFFFFF>Saco<cl=B0B0B0>.  O cofre do saco. Os sacos têm células adicionais para armazenar itens.<br>
+<tab><cl=FFFFFF>2 chaves<cl=B0B0B0>.  Essas células podem armazenar chaves (no máximo duas) de quartos de hotel ou de quartos em fechaduras.<br>
+<tab><cl=FFFFFF>Chave da missão<cl=B0B0B0>.  Aqui está a chave da missão que recebeu.<br>
+<tab>Para colocar qualquer objeto no inventário, basta <l="hts:\\language\i_mainp.hts">arrastar<\l> para o cofre certo. O objeto deve corresponder à célula em sua finalidade. Se não houver correspondência, a célula será destacada em vermelho ao tentar arrastar. Se houver correspondência, a célula é destacada em verde.<br>
+<tab>Armas e outros itens comumente usados no inventário, faz sentido "atribuir" a <l="hts:\\language\hotkeys.hts">teclas de atalho<\l>.<br>
+<tab>A linha do meio no inventário-5 células-é "eterna". Isso significa que as coisas colocadas nessas células não são perdidas na morte, exceto dinheiro e sacos. Se a célula com a coisa tiver uma borda azul, isso significa que a coisa não será perdida em caso de morte. Dependendo do karma e da localização do personagem, nem todas as células podem estar ativas. Com um karma muito ruim, apenas uma das 5 células está ativa; com um bom karma, todas estão ativas. Se o personagem está localizado no continente de Charon, então é o oposto: com bom carma, 1 célula está ativa, e com muito mau-todos os 5.<br>
+}

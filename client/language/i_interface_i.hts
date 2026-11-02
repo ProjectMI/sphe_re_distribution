@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>Interfaccia<cl=A2A2A2><br><br>
+<tab><l="hts:\\language\i_mainp.hts">Gestione<\l><br><br>
+<tab><l="hts:\\language\options.hts">Menu delle impostazioni di gioco<\l><br><br>
+<tab><l="hts:\\language\constwin.hts">Pannelli di sistema<\l><br><br>
+<tab><l="hts:\\language\statinfo.hts">Finestra statistiche<\l><br><br>
+<tab><l="hts:\\language\puppet.hts">Finestra del personaggio<\l><br><br>
+<tab><l="hts:\\language\inventory.hts">Inventario<\l><br><br>
+<tab><l="hts:\\language\chat.hts">Chat<\l><br><br>
+<tab><l="hts:\\language\hotkeys.hts">Tasti di scelta rapida<\l><br><br>
+<tab><l="hts:\\language\clan.hts">Finestra del clan<\l><br><br>
+<tab><l="hts:\\language\ally.hts">Finestra di alleanze e guerre<\l><br><br>
+<tab><l="hts:\\language\group.hts">Finestra di gruppo<\l><br><br>
+<tab><l="hts:\\language\trade.hts">Finestra di trading (acquisto)<\l><br><br>
+<tab><l="hts:\\language\tradechar.hts">Finestra di trading (vendita)<\l><br><br>
+<tab><l="hts:\\language\missions.hts">Finestra di ricezione della missione<\l><br><br>
+}

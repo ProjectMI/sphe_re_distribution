@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>MENU PRINCIPAL DO JOGO<cl=A2A2A2><br><br>
+<tab>Escolha um item <cl=FFFFFF>No jogo<cl=B0B0B0> permite que você volte para a "esfera".<br><br>
+<tab><cl=00FF00>Gráficos<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Resolução<cl=B0B0B0>. Neste ponto, você pode selecionar a resolução de tela desejada a partir de um conjunto de modos de vídeo suportados pela sua placa de vídeo. Quanto maior a resolução que você escolher, mais alta será a qualidade dos gráficos na tela, mas mais lenta será a saída da imagem. Portanto, se você não estiver satisfeito com a velocidade do jogo, tente reduzir a resolução. Se a resolução for alterada, o jogo será reiniciado.<br>
+<tab><cl=FFFFFF>Profundidade de cor<cl=B0B0B0>. Uma maior profundidade de cor melhora a qualidade da imagem gráfica, mas pode afetar a velocidade de saída da imagem. Se você não estiver satisfeito com a velocidade do jogo, tente reduzir a profundidade da cor. Ao alterá-lo, o jogo será reiniciado. <br>
+<tab><cl=FFFFFF>Qualidade das sombras<cl=B0B0B0>. Outro parâmetro que permite alterar a velocidade do jogo. Você pode escolher entre sombras de baixa, média e alta qualidade, ou simplesmente desativar as sombras.<br>
+<tab><cl=FFFFFF>Grama<cl=B0B0B0>. Se a exibição de uma imagem fora da cidade estiver diminuindo, tente desativar a imagem da grama. <br><br>
+<tab><cl=00FF00>Som<cl=B0B0B0>. Neste ponto, você pode alterar individualmente o volume de reprodução <cl=FFFFFF>Música<cl=B0B0B0> e <cl=FFFFFF>Efeitos sonoros<cl=B0B0B0> e também desligar / ligar <cl=B0B0B0>Mixagem de áudio por hardware<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Gestão<cl=B0B0B0>. Esta opção permite-lhe substituir as teclas predefinidas, bem como ligar / desligar <cl=FFFFFF>Inversão do rato<cl=B0B0B0>. Pode ser devolvido a qualquer momento <cl=FFFFFF>Configuração predefinida<cl=B0B0B0> clicando no item de menu com o mesmo nome.<br><br>
+<tab><cl=00FF00> Interface<cl=B0B0B0>. Esta opção permite-lhe desactivar / activar o resultado <cl=FFFFFF>Nomes acima das cabeças<cl=B0B0B0> personagens; ativar / desativar <cl=FFFFFF>Abertura automática da porta<cl=B0B0B0> quando você se aproxima; desligar / ligar <cl=FFFFFF>Sons da interface<cl=B0B0B0> e <cl=FFFFFF>Sobreposição automática de janelas<cl=B0B0B0>. O último significa que, se várias janelas na tela forem sobrepostas, apenas a última permanecerá visível, e as outras "aparecerão" quando você fechá-la. Item <cl=FFFFFF>Janelas por omissão<cl=B0B0B0> repõe as janelas no ecrã.<br><br>
+<tab>Item <cl=FFFFFF>Autores<cl=B0B0B0> ele mostrará uma lista daqueles que fizeram a "esfera" para você.<br><br>
+<tab>Para sair do jogo, selecione <cl=FFFFFF>Sair<cl=B0B0B0>.<br><br>
+}

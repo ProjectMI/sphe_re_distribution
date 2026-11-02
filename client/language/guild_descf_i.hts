@@ -1,0 +1,63 @@
+hypertext
+{
+Guild il barbaro<br>
+<br>
+<cl=00FF00>Primo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 16<br>
+<tab><tab>Grado minimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Forza: +10<br>
+<tab>Agilità: -4<br>
+<tab>Terra: + 2<br>
+<tab>Fuoco: -12<br>
+<br>
+<cl=00FF00>Secondo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 21<br>
+<tab><tab>Grado minimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Forza: + 30<br>
+<tab>Agilità: -6<br>
+<tab>Terra: + 6<br>
+<tab>Fuoco: -24 <br>
+<br>
+<cl=00FF00>Terzo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 31<br>
+<tab><tab>Grado minimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Forza: +44<br>
+<tab>Agilità: -12<br>
+<tab>Terra: + 20<br>
+<tab>Fuoco: -36<br>
+<br>
+<cl=00FF00>Quarto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 41<br>
+<tab><tab>Grado minimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Forza: + 65<br>
+<tab>Agilità: -30<br>
+<tab>Terra: + 28<br>
+<tab>Fuoco: -48<br>
+<br>
+<cl=00FF00>Quinto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 51<br>
+<tab><tab>Grado minimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Forza: + 72<br>
+<tab>Agilità: -47<br>
+<tab>Terra: + 42<br>
+<tab>Fuoco: -56<br>
+<br>
+<cl=00FF00>Sesto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 60<br>
+<tab><tab>Grado minimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Forza: + 96<br>
+<tab>Agilità: -68<br>
+<tab>Terra: + 50<br>
+<tab>Fuoco: -70<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Torna all'elenco delle Gilde<\l><br>
+<sp><l="hts:\\language\guildf.hts">Torna alla descrizione della gilda<\l><br>
+<br>
+<l="hts:\\language\guild_desce.hts">Gilda precedente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descg.hts">Prossima gilda<\l><br>
+}

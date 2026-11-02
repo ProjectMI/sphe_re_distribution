@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>CLAN<cl=A2A2A2><br><br>
+<tab>La ventana del clan se llama con la tecla "n" (por defecto) o con el botón "clan" en <l="hts:\\language\constwin.hts">panel del sistema derecho.<\l><br>
+<tab>Si no eres miembro de un clan, verás <cl=FFFFFF>ventana de creación de clan.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Creación de un clan<cl=A2A2A2><br>
+<tab>Seleccionando el elemento <cl=FFFFFF>"crear un clan"<cl=B0B0B0>, Puede establecer el nombre de Su futuro clan y seleccionar el emblema (actualmente desactivado). Automáticamente te conviertes <cl=FFFFFF>Señor<cl=B0B0B0> en el nuevo clan. <cl=FF0000>En el nombre del clan no se permite el uso de palabras groseras y obscenas, expresiones ofensivas.<cl=B0B0B0><br>
+<tab>Después de seleccionar el elemento <cl=FFFFFF>"entrar en el clan"<cl=B0B0B0> al cursor "se pega" la inscripción correspondiente. Después de eso, debe hacer clic izquierdo en <cl=FFFFFF>Señor<cl=B0B0B0> o <cl=FFFFFF>Senescal<cl=B0B0B0> el clan que necesitas. Él recibe Su solicitud para unirse al clan y decide si acepta o no.<br>
+<br><tab><cl=00FF00>Jerarquía de clanes<cl=A2A2A2><br>
+<tab>Cada clan tiene 4 etapas:<br>
+<tab><cl=FFFFFF>Señor<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Senescal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vasallo<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Neófito<cl=B0B0B0><br>
+<cl=FFFFFF>Señor<cl=B0B0B0> tiene el derecho de aceptar en el clan, excluir del clan, elevar y degradar en el rango de senescales, vasallos, neófitos.<br>
+<cl=FFFFFF>Senescal<cl=B0B0B0> tiene el derecho de aceptar en el clan, excluir del clan, elevar y degradar en el rango de vasallos y neófitos.<br>
+<cl=FFFFFF>Vasallo<cl=B0B0B0> tiene el derecho de excluir a los neófitos del clan.<br>
+}

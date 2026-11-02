@@ -1,0 +1,19 @@
+hypertext
+{
+<tab><cl=F0F010>Chat<cl=A2A2A2><br><br>
+<tab>A janela de bate-papo tem duas formas: completa e pequena. Alterne entre formulários usando o botão "bate-papo" em <l="hts:\\language\constwin.hts">painel Sistema direito<\l>.<br>
+<tab><cl=FFFFFF>Em forma pequena<cl=B0B0B0> Você vê as duas últimas linhas de mensagens. Para inserir sua mensagem, pressione o botão " / " (padrão). Um campo de entrada de texto será exibido. A entrada é concluída pressionando a tecla Enter. Para cancelar a entrada, clique no botão "Fechar Janela" ou digite uma linha em branco.<br>
+<tab>As mensagens podem ser enviadas nos seguintes modos::<br>
+<tab><cl=FFFFFF>Sussurro<cl=B0B0B0> - Sua mensagem será vista por aqueles que estão localizados a uma distância não superior a 10 metros de você.<br>
+<tab><cl=FFFFFF>Discurso normal<cl=B0B0B0> - Sua mensagem será vista por aqueles que estão localizados a uma distância não superior a 50 metros de você.<br>
+<tab><cl=FFFFFF>Comércio<cl=B0B0B0> - Mensagens comerciais.<br>
+<tab><cl=FFFFFF>Klan<cl=B0B0B0> - Sua mensagem será vista por aqueles que estão no mesmo clã com você.<br><br>
+<tab><cl=FFFFFF>Grupo<cl=B0B0B0> - Sua mensagem será vista por aqueles que estão no mesmo grupo com você.<br><br>
+<tab><cl=FFFFFF>Em grande forma de bate-papo<cl=B0B0B0> Você vê algumas das últimas linhas e pode visualizar várias centenas de Mensagens recentes usando a barra de rolagem. A entrada também é realizada com a tecla " / " ou clicando no campo de entrada, que neste formulário está constantemente na tela.<br> Você também pode filtrar as mensagens usando os botões na parte superior da janela de bate-papo: conversa normal, mensagens para o clã, mensagens do sistema, Mensagens de danos, mensagens para o grupo, mensagens de negociação.<br>
+<tab><cl=FFFFFF>Mudar o tipo de conversa<cl=B0B0B0> Você pode usar as teclas de função:<br>
+<cl=FFFFFF>F2<cl=B0B0B0><tab>- sussurros<br>
+<cl=FFFFFF>F3<cl=B0B0B0><tab>discurso normal<br>
+<cl=FFFFFF>F4<cl=B0B0B0><tab>- comércio<br>
+<cl=FFFFFF>F6<cl=B0B0B0><tab>- mensagens para o clã<br>
+<cl=FFFFFF>F7<cl=B0B0B0><tab>- mensagens para o grupo<br>
+}

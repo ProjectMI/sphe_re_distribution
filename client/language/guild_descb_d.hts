@@ -1,0 +1,93 @@
+hypertext
+{
+<cl=FFFF00>Kreuzritter-Gild<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+120 Magische Verteidigung<br>
+<tab>Kapazität: -6<br>
+<tab>Ausdauer: +10<br>
+<tab>Feuer: -8<br>
+<tab>Andere Elemente: -4<br>
+<tab><br>
+<tab>Göttliche Übertragung: Alle 3 Stunden<br>
+<tab>Prana-Schild: für 10 Minuten, alle 6 Stunden<br>
+<tab>Laufzeitzeit: für 5 Minuten alle 4 Stunden<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+280 Magische Verteidigung<br>
+<tab>Kapazität: -20<br>
+<tab>Ausdauer: +30<br>
+<tab>Feuer: -10<br>
+<tab>Andere Elemente: -6<br>
+<tab><br>
+<tab>Göttliche Übertragung: Alle 3 Stunden<br>
+<tab>Prana-Schild: 15 Minuten lang, alle 5 Stunden<br>
+<tab>Laufzeitzeit: für 10 Minuten alle 3 Stunden<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+650 Magische Verteidigung<br>
+<tab>Kapazität: -28<br>
+<tab>Ausdauer: +44<br>
+<tab>Feuer: -12<br>
+<tab>Andere Elemente: -10<br>
+<tab><br>
+<tab>Göttliche Übertragung: Alle 2 Stunden<br>
+<tab>Prana-Schild: für 20 Minuten, alle 5 Stunden<br>
+<tab>Laufzeitzeit: für 10 Minuten alle 3 Stunden<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+910 Magische Verteidigung<br>
+<tab>Kapazität: -42<br>
+<tab>Ausdauer: +62<br>
+<tab>Feuer: -16<br>
+<tab>Andere Elemente: -15<br>
+<tab><br>
+<tab>Göttliche Übertragung: Alle 2 Stunden<br>
+<tab>Prana-Schild: für 30 Minuten, alle 4 Stunden<br>
+<tab>Laufzeitzeit: für 10 Minuten alle 3 Stunden<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+1450 Magische Verteidigung<br>
+<tab>Kapazität: -60<br>
+<tab>Ausdauer: +72<br>
+<tab>Feuer: -24<br>
+<tab>Andere Elemente: -20<br>
+<tab><br>
+<tab>Göttliche Übertragung: Alle 2 Stunden<br>
+<tab>Prana-Schild: für 40 Minuten, alle 4 Stunden<br>
+<tab>Laufzeitzeit: 15 Minuten alle 2 Stunden<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>+2100 Magische Verteidigung<br>
+<tab>Kapazität: -96<br>
+<tab>Ausdauer: +84<br>
+<tab>Feuer: -36<br>
+<tab>Andere Elemente: -24<br>
+<tab><br>
+<tab>Göttliche Übertragung: einmal alle 1 Stunde<br>
+<tab>Prana-Schild: für 50 Minuten, alle 3 Stunden<br>
+<tab>Laufzeitzeit: 20 Minuten alle 2 Stunden<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildb.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_desca.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descc.hts">Nächste Gilde<\l><br>
+}

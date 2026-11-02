@@ -1,0 +1,63 @@
+hypertext
+{
+Gild barbare<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Puissance: +10<br>
+<tab>Agilité: -4<br>
+<tab>Terrain: + 2<br>
+<tab>Feu: -12<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Puissance: + 30<br>
+<tab>Agilité: -6<br>
+<tab>Terrain: + 6<br>
+<tab>Feu: -24 <br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Puissance: + 44<br>
+<tab>Agilité: -12<br>
+<tab>Terrain: + 20<br>
+<tab>Feu: -36<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Puissance: + 65<br>
+<tab>Agilité: -30<br>
+<tab>Terrain: + 28<br>
+<tab>Feu: -48<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Puissance: + 72<br>
+<tab>Agilité: -47<br>
+<tab>Terrain: + 42<br>
+<tab>Feu: -56<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Puissance: + 96<br>
+<tab>Agilité: -68<br>
+<tab>Terrain: + 50<br>
+<tab>Feu: -70<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildf.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_desce.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descg.hts">Prochaine guilde<\l><br>
+}

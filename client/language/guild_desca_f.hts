@@ -1,0 +1,81 @@
+hypertext
+{
+<cl=FFFF00>Gild assassin<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Agilité: +10<br>
+<tab>Endurance: -12<br>
+<tab>Éléments: -3<br>
+<br>
+<tab>Invisibilité:<br>
+<tab>Coup critique: dégâts 500<br>
+<tab>Poison: dégâts 120<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Agilité: +30<br>
+<tab>Endurance: -24<br>
+<tab>Éléments: -6<br>
+<br>
+<tab>Invisibilité: <br>
+<tab>Coup critique: dégâts 750<br>
+<tab>Poison: dégâts 200<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Agilité: + 44<br>
+<tab>Endurance: -36<br>
+<tab>Éléments: -10<br>
+<br>
+<tab>Invisibilité: <br>
+<tab>Coup critique: dégâts 1230<br>
+<tab>Poison: dégâts 350 <br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Agilité: + 65<br>
+<tab>Endurance: -46<br>
+<tab>Éléments: -14<br>
+<br>
+<tab>Invisibilité: <br>
+<tab>Coup critique: dégâts 1620<br>
+<tab>Poison: dégâts 560<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Agilité: + 72<br>
+<tab>Endurance: -62<br>
+<tab>Éléments: -21<br>
+<br>
+<tab>Invisibilité: <br>
+<tab>Coup critique: dégâts 2150<br>
+<tab>Poison: dégâts 820<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Agilité: +96<br>
+<tab>Endurance: -72<br>
+<tab>Éléments: -25<br>
+<br>
+<tab>Invisibilité: <br>
+<tab>Coup critique: dégâts 2600<br>
+<tab>Poison: dégâts 1150, à une distance de 7 M., <br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guilda.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descn.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descb.hts">Prochaine guilde<\l><br>
+}

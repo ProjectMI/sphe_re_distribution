@@ -1,0 +1,57 @@
+hypertext
+{
+Gild des Diebes<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +4<br>
+<tab>Ausdauer: -6<br>
+<tab>Elemente: -10<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +6<br>
+<tab>Ausdauer: -12<br>
+<tab>Elemente: -14<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +10<br>
+<tab>Ausdauer: -24<br>
+<tab>Elemente: -21<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +20<br>
+<tab>Ausdauer: -76<br>
+<tab>Elemente: -25<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +32<br>
+<tab>Ausdauer: -110<br>
+<tab>Elemente: -44<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit und Genauigkeit: +44<br>
+<tab>Ausdauer: -156<br>
+<tab>Elemente: -59<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildh.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descg.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desci.hts">Nächste Gilde<\l><br>
+}

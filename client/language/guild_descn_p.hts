@@ -1,0 +1,100 @@
+hypertext
+{
+Gild bundyera<br>
+<br>
+
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: + 98<br>
+<tab>Proteção física: + 76<br>
+<tab>Proteção mágica: +112<br>
+<tab>Força e precisão: -6<br>
+<tab>Destreza: -4<br>
+<tab>Resistência: + 4<br>
+<tab>Terra e água: -4<br>
+<tab>Ar e fogo: -6<br>
+<tab>Ataque Mágico: -46<br>
+<br>
+
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: + 225<br>
+<tab>Proteção física: +196<br>
+<tab>Proteção mágica: +218<br>
+<tab>Força e precisão: -20<br>
+<tab>Destreza: -6<br>
+<tab>Resistência: + 6<br>
+<tab>Terra e água: -6<br>
+<tab>Ar e fogo: -14<br>
+<tab>Ataque Mágico: -98<br>
+<br>
+
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: + 372<br>
+<tab>Proteção física: + 372<br>
+<tab>Proteção mágica: +374<br>
+<tab>Força e precisão: -28<br>
+<tab>Destreza: -10<br>
+<tab>Resistência: + 10<br>
+<tab>Terra e água: -10<br>
+<tab>Ar e fogo: -22<br>
+<tab>Ataque Mágico: -222<br>
+<br>
+
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: + 618<br>
+<tab>Proteção física: +558<br>
+<tab>Proteção mágica: + 788<br>
+<tab>Força e precisão: -42<br>
+<tab>Destreza: -15<br>
+<tab>Resistência: +15<br>
+<tab>Terra e água: 15<br>
+<tab>Ar e fogo: -42<br>
+<tab>Ataque Mágico: -468<br>
+<br>
+
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: + 980<br>
+<tab>Proteção física: + 734<br>
+<tab>Proteção mágica: +1002<br>
+<tab>Força e precisão: -60<br>
+<tab>Destreza: -20<br>
+<tab>Resistência: + 20<br>
+<tab>Terra e água: -20<br>
+<tab>Ar e fogo: -60<br>
+<tab>Ataque Mágico: -926<br>
+<br>
+
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Vida: +1440<br>
+<tab>Proteção física: +1024<br>
+<tab>Proteção mágica: +1420<br>
+<tab>Força e precisão: -96<br>
+<tab>Destreza: -24<br>
+<tab>Resistência: + 24<br>
+<tab>Terra e água: 24<br>
+<tab>Ar e fogo: 86<br>
+<tab>Ataque Mágico: -1282<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildn.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descm.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desca.hts">Próxima guilda<\l><br>
+}

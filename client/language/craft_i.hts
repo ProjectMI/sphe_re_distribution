@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>Laboratorio<cl=A2A2A2><br><br>
+<tab> In <cl=FFFFFF>Officina<cl=B0B0B0> puoi incantare o riparare le cose.
+Per fare ciò, è necessario inserire la formula e gli ingredienti necessari negli slot.
+Per creare, è necessario concordare il prezzo che il crafter assegnerà facendo clic sul segno di spunta.
+Tutti gli ingredienti devono seguire la formula. In caso di creazione fallita, il denaro non viene restituito.
+La cosa artigianale viene messa nell'inventario, quindi lascia almeno uno slot libero.
+}

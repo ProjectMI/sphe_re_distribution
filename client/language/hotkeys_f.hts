@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>RACCOURCIS CLAVIER<cl=A2A2A2><br><br>
+<tab>Les raccourcis clavier sont conçus pour "arracher" rapidement les éléments précédemment "attribués" à une touche particulière.  La fenêtre des raccourcis clavier peut être représentée à l'écran sous deux formes: grande et petite. La commutation entre les formes est effectuée par la touche "K "(par défaut) ou par le bouton "raccourcis clavier" situé sur <l="hts:\\language\constwin.hts">panneau système gauche<\l>.<br>
+<tab>Dans <cl=FFFFFF>petite forme<cl=B0B0B0> la fenêtre est une rangée verticale de 10 cellules, qui reflètent les objets placés, respectivement, sur les touches 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Lorsque vous appuyez sur la touche Ctrl, cette ligne change et affiche les 10 éléments "chauds" suivants, qui peuvent être invoqués avec la combinaison de touches Ctrl+"chiffre".<br>
+<tab><cl=FFFFFF>Grande forme<cl=B0B0B0> permet de définir des raccourcis clavier. Ceci est fait en déplaçant l'objet requis de <l="hts:\\language\inventory.hts">inventaire<\l> dans n'importe quelle cellule. Si une cellule a été occupée, son ancienne affectation est annulée et remplacée par une nouvelle.<br>
+<tab><cl=FFFFFF>Important:<cl=B0B0B0> les raccourcis clavier ne se souviennent pas de l'objet lui-même, mais de son emplacement. Lorsque vous déplacez un objet donné de sa place personnelle dans l'inventaire, la touche de raccourci devient vide, et vice versa, si vous placez un autre objet dans la position mémorisée dans l'inventaire, la pression de la touche de raccourci entraînera <cl=FFFFFF>utilisation<cl=B0B0B0> nouvelle installation.<br>
+<tab>L'état des raccourcis clavier est mémorisé lorsque vous quittez le jeu.<br>
+}

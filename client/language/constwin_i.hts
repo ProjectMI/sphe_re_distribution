@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>PANNELLI DI SISTEMA<cl=A2A2A2><br><br>
+<tab>Gli angoli superiori dello schermo sono sempre presenti <cl=FFFFFF>sinistra<cl=B0B0B0> e <cl=FFFFFF>pannelli di sistema destro<cl=B0B0B0>. Se lo si desidera, possono essere ridotti al minimo facendo clic sulle frecce appropriate.<br><br>
+<tab><cl=00FF00>Pannello di sistema sinistro<cl=B0B0B0>.<br>
+<tab>Sul pannello di sistema sinistro c'è una bussola (se il tuo personaggio ha una missione, la direzione della posizione della missione è indicata sulla bussola), indicatori <cl=FFFFFF>Salute<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0> e anche i pulsanti di chiamata delle finestre: <l="hts:\\language\statinfo.hts">Statistiche<\l>; <l="hts:\\language\i_charact.hts">Personaggio<\l>; <l="hts:\\language\inventory.hts">Inventario<\l>; <l="hts:\\language\hotkeys.hts">Tasti di scelta rapida<\l>; <l="hts:\\language\tradechar.hts">Commercio (vendite)<\l> e <l="hts:\\language\options.hts">Menu principale</l>.<br><br>
+<tab><cl=00FF00>Pannello di sistema destro<cl=B0B0B0>.<br>
+<tab>Il pannello di sistema destro mostra la data e l'ora correnti nella " sfera "(l'orologio può essere convertito in una visualizzazione elettronica facendo clic con il pulsante sinistro del mouse), così come i pulsanti di chiamata: <l="hts:\\language\map.hts">Mappe<\l>; <l="hts:\\language\clan.hts">Finestre del clan<\l>; <l="hts:\\language\chat.hts">Chat<\l>; <l="hts:\\language\alchemicbook.hts">Libri di ricette<\l>; <l="hts:\\language\mantrabook.hts">Libri di mantra<\l> e <l="hts:\\language\journal.hts">Rivista<\l>.<br>
+}

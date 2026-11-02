@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CARACTÉRISTIQUES DU PERSONNAGE<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Principales caractéristiques<cl=A2A2A2><br>
+<tab>Les principales caractéristiques du personnage dans le monde de la Sphère sont <cl=FFFFFF>Santé<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Satiété<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>La santé indique l'état du corps physique du personnage. C'est l'indicateur le plus important. S'il devient zéro, le personnage <l="hts:\\language\i_reincarn.hts"> meurt<\l>. Au fil du temps, la Santé est rétablie.<br><br>
+<tab>Le Prana est une force de vie universelle, qui est dépensée dans l'accomplissement de combats et d'actions magiques. Avec un manque de Prana, Votre personnage peut devenir impuissant.<br><br>
+<tab>Le Karma est une mesure des bonnes et des mauvaises actions. Personne ne connaît l'état exact de son Karma. Vous ne pouvez voir que la valeur approximative du Karma: <br>
+<cl=FFFFFF><tab>"Très mauvaise"<br>
+<tab>"Mauvaise"<br>
+<tab>"Neutre"<br>
+<tab>"Bonne"<br>
+<tab>"Bonne"<br><br><cl=B0B0B0>
+<tab>Karma détermine où <l="hts:\\language\i_reincarn.hts">renaître<\l> personnage après la mort et affecte également la possibilité d'utiliser <l="hts:\\language\i_mantras.hts">mantras<\l>. Tuer d'autres personnages ou des créatures neutres aggrave le Karma, tuer des monstres dangereux peut l'améliorer un peu.<br><br>
+<tab>Chaque personnage de la Sphère a besoin de nourriture. Plus la Satiété est faible, plus la récupération de la Santé du personnage est lente.  Avec zéro Satiété, la Santé n'est pas restaurée du tout.<br>
+<tab>Avec une Satiété non nulle jusqu'à 1/3 du maximum, la Santé maximale augmente de 5%.<br>
+<tab>Avec une Satiété de 1/3 à 2/3 du maximum, la Santé maximale augmente de 10% et la vitesse de course augmente de 10%.<br>
+<tab>Avec une Satiété de 2/3 au maximum, la Santé maximale augmente de 15% et la vitesse de course augmente de 5%.<br>
+<br><tab><cl=00FF00>Titre et Diplôme<cl=A2A2A2><br>
+<tab><cl=FFFFFF>Titre<cl=B0B0B0> montre le niveau de développement dans les affaires militaires, <tab><cl=FFFFFF>Degré<cl=B0B0B0> - dans l'art magique. Il y a 12 titres et 12 degrés, dans chaque 5 grades, un total de 60 niveaux. Les titres et diplômes ci-dessous (entre parenthèses figurent les niveaux correspondants).<br>
+<br><tab><cl=F0F010>Titres<br>
+<tab><cl=00FF00>Wanderer (1-5)<br>
+<tab>invité (6-10)<br>
+<tab>citoyen (11-15)<br>
+<tab>les citadins (16-20)<br>
+<tab>Squire (21-25)<br>
+<tab>chevalier (26-30)<br>
+<tab>Baron (31-35)<br>
+<tab>vicomte (36-40) <br>
+<tab>comte (41-45)<br>
+<tab>marquis (46-50)<br>
+<tab>duc (51-55)<br>
+<tab>Prince (56-60)<br>
+<br><tab><cl=F0F010>Degrés<br>
+<tab><cl=00FF00>non qualifié (1-5) <br>
+<tab>candidat (6-10) <br>
+<tab>élève (11-15) <br>
+<tab>novice (16-20) <br>
+<tab>candidat (21-25) <br>
+<tab>étudiant (26-30) <br>
+<tab>Bachelor (31-35) <br>
+<tab>Master (36-40) <br>
+<tab>docteur (41-45) <br>
+<tab>professeur (46-50) <br>
+<tab>doyen (51-55) <br>
+<tab>recteur (56-60) <br><br><cl=B0B0B0>
+<tab>À partir du niveau 21 du titre (Squire) et du niveau 26 du diplôme (baccalauréat), les titres sont nobles.<br>
+<tab>Pour obtenir le prochain titre ou diplôme, vous devez marquer un certain nombre <cl=FFFFFF>timbres du titre<cl=B0B0B0> et <cl=FFFFFF>timbres de degré<cl=B0B0B0>.<br>
+<tab>Lorsque vous passez à un nouveau niveau, vous obtenez une certaine quantité <cl=FFFFFF>titre élémentaire<cl=B0B0B0> et <cl=FFFFFF>degrés élémentaires<cl=B0B0B0>. Avec leur aide, vous pouvez augmenter vos points <cl=FFFFFF>capacités et éléments<cl=B0B0B0>. Obtenir un titre donne plus d'éléments de titre, le développement d'un degré-les éléments de degré. En conséquence, dans le premier cas, les capacités se développent davantage et dans le second - les éléments. Lorsqu'un nouveau personnage entre dans le monde de la Sphère, il reçoit 4 élémentaires de titre et de degré.<br>
+<br><tab><cl=00FF00>Capacités<cl=A2A2A2><br>
+Montrer le développement physique, Votre capacité à gérer des armes non magiques et d'autres objets. Seules les fonctions principales sont répertoriées ci-dessous.<br>
+<tab><cl=FF0000>Force<cl=B0B0B0> - responsable de la possession d'une hache et, en partie, d'une épée et d'une arbalète.<br>
+<tab><cl=FF0000>Agilité<cl=B0B0B0> - possession d'une épée et, en partie, d'une hache et d'une arbalète.<br>
+<tab><cl=FF0000>Précision<cl=B0B0B0> - possession d'une arbalète et d'armes de siège (catapulte).<br>
+<tab><cl=FF0000>Endurance<cl=B0B0B0> - la capacité d'utiliser des boucliers, des cottes de mailles et d'autres moyens de protection, ainsi que, en partie, des types lourds d'épées et de haches.<br>
+<br><tab><cl=00FF00>Éléments<cl=A2A2A2><br>
+<tab>Les niveaux élémentaires reflètent Vos capacités dans différents types de magie.<br>
+<tab><cl=0000FF>Terre<cl=B0B0B0> - montre la capacité d'utiliser des moyens magiques défensifs: amulettes, bracelets, etc. la magie de La Terre est principalement destinée à la défense, les moyens d'attaque utilisant cet élément sont très rares, mais assez forts.<br>
+<tab><cl=0000FF>Air<cl=B0B0B0> - montre la capacité d'utiliser la magie à distance, ainsi que la magie associée au déplacement dans l'espace. <br>
+<tab><cl=0000FF>Eau<cl=B0B0B0> - montre la capacité d'utiliser la magie curative. Les moyens d'attaque utilisant cet élément sont aussi rares que dans le cas de la Terre.<br>
+<tab><cl=0000FF>Feu<cl=B0B0B0> - montre la capacité d'utiliser la magie de mêlée-causant les dommages les plus importants. <br><br>
+<tab>Le niveau des capacités et des éléments de Votre personnage détermine sa spécialisation et son mode d'existence dans le Domaine, il est donc recommandé de réfléchir soigneusement à la stratégie de développement <l="hts:\\language\i_starting.hts">depuis le début.<\l><br>
+<br><tab><cl=00FF00>Protection physique et protection magique<cl=A2A2A2><br> 
+<tab>Ces paramètres secondaires déterminent la capacité du personnage à résister aux dommages physiques (des armes blanches) et magiques. Ils dépendent des moyens de défense disponibles (armures, boucliers, amulettes, etc., voir aussi <l="hts:\\language\puppet.hts">"fenêtre du personnage"<\l>), ainsi que de <l="hts:\\language\i_mutators.hts">mutateurs<\l>.<br>
+<br><tab><cl=00FF00>Clan<cl=A2A2A2><br>
+<tab>Votre personnage, en plus d'être promu dans les hiérarchies de titre et de degré, peut participer à la hiérarchie des clans. Pour ce faire, Vous devez <l="hts:\\language\clan.hts">créer un nouveau ou rejoindre un clan existant.<\l><br>
+<br><tab><cl=FFFFFF>Voir aussi: <l="hts:\\language\statinfo.hts">"Fenêtre statistiques"<\l>.<cl=B0B0B0>
+}

@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>JANELA DE ESTATÍSTICAS<cl=A2A2A2><br><br>
+<tab>Nesta janela são mostrados <l="hts:\\language\i_charact.hts">características<\l> Seu personagem. Para abrir esta janela, use a tecla "H" (padrão).<br>
+<br><tab><cl=00FF00>Título e grau<cl=A2A2A2><br>
+<tab>A parte superior da janela mostra o Título e o grau mágico do seu personagem, bem como o número de selos de Título e grau obtidos e necessários para passar para o próximo nível.<br>
+<br><tab><cl=00FF00>Karma e o clã<cl=A2A2A2><br>
+<tab>Em seguida, o Karma é mostrado e, se o seu personagem pertence a um clã, o nome <l="hts:\\language\clan.hts">Clã<\l>.<br>
+Os níveis de Karma são distribuídos da seguinte forma::
+<br>menos -1000: muito ruim
+<br>-1000 a -500: ruim
+<br>-500 a 500: neutro
+<br>de 500 a 1000: bom
+<br>mais de 1000: bom
+<br>
+<br><tab><cl=00FF00>Saúde, Prana, Saciedade<cl=A2A2A2><br>
+<tab>Em seguida, a saúde, o prana e a saciedade do personagem (valores atuais e máximos) são mostrados.<br>
+<br><tab><cl=00FF00>Ataque e Defesa<cl=A2A2A2><br>
+<tab>A parte central da janela mostra os valores numéricos da força de ataque e Defesa do seu personagem.<br> 
+Nos pontos "ataque de combate" e "Ataque Mágico", os números aparecem quando você pega uma arma ou itens mágicos que podem causar danos ou ter efeitos curativos. O dano é refletido por um número negativo, o efeito curativo é refletido por um número positivo.<br>
+<tab>Itens <l="hts:\\language\i_charact.hts">"defesa de combate" e "Defesa Mágica"<\l> mostra os níveis adequados de proteção. Estes parâmetros dependem dos equipamentos de proteção disponíveis (ver "<l="hts:\\language\puppet.hts">Janela de personagem<\l>") e também de <l="hts:\\language\i_mutators.hts">mutators<\l>.<br>
+<br><tab><cl=00FF00>Habilidades e elementos<cl=A2A2A2><br>
+<tab>Na parte inferior da janela, os valores atuais de propriedade são exibidos <l="hts:\\language\i_charact.hts">habilidades e elementos<\l> e também o número de elementais de Título e elementais de grau.<br>
+<tab>Você também pode distribuir os elementais de Título por habilidade e os elementais de grau por elementos.
+}

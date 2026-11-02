@@ -1,0 +1,111 @@
+hypertext
+{
+Guild of The inquisitor<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: + 96<br>
+<tab>Protection physique: +82<br>
+<tab>Endurance: -6<br>
+<tab>Compétences restantes: -4<br>
+<tab>Terrain: -6<br>
+<tab>Eau: -10<br>
+<tab>Feu: + 12<br>
+<tab>Attaque magique: + 45<br>
+<tab><br>
+<tab>Renaissance: une fois toutes les 6 heures<br>
+<tab>Chaînes: 4 minutes, toutes les 4 heures<br>
+<tab>Nettoyage: 1 fois toutes les 3 heures<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +190<br>
+<tab>Protection physique: +150<br>
+<tab>Endurance: -10<br>
+<tab>Compétences restantes: -6<br>
+<tab>Terre: -10<br>
+<tab>Eau: -14<br>
+<tab>Feu: + 28<br>
+<tab>Attaque magique: + 88<br>
+<tab><br>
+<tab>Renaissance: une fois toutes les 4 heures<br>
+<tab>Chaînes: 8 minutes, toutes les 3 heures<br>
+<tab>Nettoyage: 2 mutateurs, une fois toutes les 2 heures<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +297<br>
+<tab>Protection physique: +248<br>
+<tab>Endurance: -14<br>
+<tab>Compétences restantes: -10<br>
+<tab>Terre: -14<br>
+<tab>Eau: -18<br>
+<tab>Feu: + 48<br>
+<tab>Attaque magique: +148<br>
+<tab><br>
+<tab>Renaissance: une fois toutes les 4 heures<br>
+<tab>Chaînes: 10 minutes, toutes les 3 heures<br>
+<tab>Nettoyage: 3 mutateurs, une fois toutes les 2 heures<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: + 512<br>
+<tab>Protection physique: + 412<br>
+<tab>Endurance: -18<br>
+<tab>Compétences restantes: -14<br>
+<tab>Terre: -18<br>
+<tab>Eau: -24<br>
+<tab>Feu: + 64<br>
+<tab>Attaque magique: + 251<br>
+<tab><br>
+<tab>Renaissance: toutes les 3 heures<br>
+<tab>Chaînes: 12 minutes, toutes les 3 heures<br>
+<tab>Purification: 4 mutateurs, une fois par heure<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +808<br>
+<tab>Protection physique: + 653<br>
+<tab>Endurance: -24<br>
+<tab>Compétences restantes: -18<br>
+<tab>Terre: -24<br>
+<tab>Eau: -48<br>
+<tab>Feu: + 72<br>
+<tab>Attaque magique: + 520<br>
+<tab><br>
+<tab>Renaissance: toutes les 3 heures<br>
+<tab>Chaînes: 14 minutes, toutes les 3 heures<br>
+<tab>Purification: 4 mutateurs, une fois par heure<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +1320<br>
+<tab>Protection physique: + 960<br>
+<tab>Endurance: -48<br>
+<tab>Compétences restantes: -24<br>
+<tab>Terre: -48<br>
+<tab>Eau: -58<br>
+<tab>Feu: + 84<br>
+<tab>Attaque magique: +1380<br>
+<tab><br>
+<tab>Renaissance: une fois toutes les 2 heures<br>
+<tab>Chaînes: 20 minutes, toutes les 3 heures<br>
+<tab>Purification: 6 mutateurs, une fois par heure<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildc.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descb.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descd.hts">Prochaine guilde<\l><br>
+}

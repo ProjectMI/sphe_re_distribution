@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CHARACTER CHARACTERISTICS<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Main features<cl=A2A2A2><br>
+<tab>The main characteristics of a character in the world of the Sphere include <cl=FFFFFF>Health<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Satiety<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>Health shows the state of the character's physical body. This is the most important indicator. If it becomes zero, the character <l="hts:\\language\i_reincarn.hts"> dies<\l>. Over time, Health is restored.<br><br>
+<tab>Prana is a universal life force that is consumed when performing combat and magical actions. If there is a lack of prana, your character may become helpless.<br><br>
+<tab>Karma is a measure of good and evil deeds. No one knows the exact state of their karma. You can only see the approximate value of Karma: <br>
+<cl=FFFFFF><tab>"Very bad"<br>
+<tab>"Bad"<br>
+<tab>"Neutral"<br>
+<tab>"Good"<br>
+<tab>"Good"<br><br><cl=B0B0B0>
+<tab>Karma determines where a <l="hts:\\language\i_reincarn.hts"><\l> character is reborn after death, and also affects the possibility of using <l="hts:\\language\i_mantras.hts">mantras<\l>. Killing other characters or neutral creatures worsens karma, killing dangerous monsters can improve it a little.<br><br>
+<tab>Every character in the Sphere needs food. The lower the Satiety, the slower the recovery of the character's Health.  With zero Satiety, Health is not restored at all.<br>
+<tab>With non-zero Satiety up to 1/3 of the maximum, maximum Health increases by 5%.<br>
+<tab>With Satiety from 1/3 to 2/3 of the maximum, maximum Health increases by 10%, and running speed increases by 10%.<br>
+<tab>With Satiety from 2/3 to maximum, maximum Health increases by 15%, and running speed increases by 5%.<br>
+<br><tab><cl=00FF00>Title and Degree<cl=A2A2A2><br>
+<tab><cl=FFFFFF>The title<cl=B0B0B0> shows the level of development in the military, the <tab><cl=FFFFFF>degree<cl=B0B0B0> - in the magical art. There are 12 titles and 12 degrees, each with 5 grades, a total of 60 levels. The titles and degrees are listed below (the corresponding levels are in parentheses).<br>
+<br><tab><cl=F0F010>Titles<br>
+<tab><cl=00FF00>The Wanderer (1-5)<br>
+<tab>guest (6-10)<br>
+<tab>Citizen (11-15)<br>
+<tab>citizen (16-20)<br>
+<tab>The Squire (21-25)<br>
+<tab>Chevalier (26-30)<br>
+<tab>Baron (31-35)<br>
+<tab>Viscount (36-40) <br>
+<tab>Count (41-45)<br>
+<tab>Marquis (46-50)<br>
+<tab>Duke (51-55)<br>
+<tab>Prince (56-60)<br>
+<br><tab><cl=F0F010>Degrees<br>
+<tab><cl=00FF00>unlearned (1-5) <br>
+<tab>Candidate (6-10) <br>
+<tab>Student (11-15) <br>
+<tab>The novice (16-20) <br>
+<tab>entrant (21-25) <br>
+<tab>Student (26-30) <br>
+<tab>Bachelor's degree (31-35) <br>
+<tab>Master's degree (36-40) <br>
+<tab>Doctor (41-45) <br>
+<tab>Professor (46-50) <br>
+<tab>Dean (51-55) <br>
+<tab>Rector (56-60) <br><br><cl=B0B0B0>
+<tab>Starting from level 21 by title (Squire) and from level 26 by degree (bachelor), the ranks are noble.<br>
+<tab>To get another title or degree, you must collect a certain number of <cl=FFFFFF>title marks<cl=B0B0B0> and <cl=FFFFFF>degree marks<cl=B0B0B0>.<br>
+<tab>When you move to a new level, you get a certain number of <cl=FFFFFF>title elementals<cl=B0B0B0> and <cl=FFFFFF>degree elementals<cl=B0B0B0>. With their help, you can increase the points of your <cl=FFFFFF>abilities and elements<cl=B0B0B0>. Getting a title gives more title elementals, developing a degree gives degree elementals. Accordingly, in the first case, abilities develop more, and in the second, the elements. When a new character enters the world of the Sphere, he receives 4 elementals of title and degree.<br>
+<br><tab><cl=00FF00>Abilities<cl=A2A2A2><br>
+They show physical development, your ability to handle non-magical weapons and other items. Only the main functions are listed below.<br>
+<tab><cl=FF0000>Strength<cl=B0B0B0> - responsible for the possession of an axe and, in part, a sword and a crossbow.<br>
+<tab><cl=FF0000>Dexterity<cl=B0B0B0> is the possession of a sword and, in part, an axe and a crossbow.<br>
+<tab><cl=FF0000>Marksmanship<cl=B0B0B0> - possession of a crossbow and siege weapons (catapult).<br>
+<tab><cl=FF0000>Endurance<cl=B0B0B0> - the ability to use shields, chain mail and other protective equipment, as well as, in part, heavy types of swords and axes.<br>
+<br><tab><cl=00FF00>Elements<cl=A2A2A2><br>
+<tab>Elemental levels reflect your abilities in various types of magic.<br>
+<tab><cl=0000FF>Earth<cl=B0B0B0> - shows the ability to use protective magical means: amulets, bracelets, etc. The magic of the Earth is mainly aimed at protection, attacking means using this element are very rare, but quite strong.<br>
+<tab><cl=0000FF>Air<cl=B0B0B0> - shows the ability to use ranged combat magic, as well as magic related to movement in space. <br>
+<tab><cl=0000FF>Water<cl=B0B0B0> - shows the ability to use healing magic. Attacking means using this element are also rare, as is the case with Earth.<br>
+<tab><cl=0000FF>Fire<cl=B0B0B0> - shows the ability to use melee magic - bringing the most severe damage. <br><br>
+<tab>The level of abilities and elements of your character determines his specialization and way of existence in the Sphere, so it is recommended to carefully consider the development strategy <l="hts:\\language\i_starting.hts">from the very beginning.<\l><br>
+<br><tab><cl=00FF00>Physical protection and magical protection<cl=A2A2A2><br> 
+<tab>These secondary parameters determine the character's ability to resist physical (from cold weapons) and magical damage. These parameters depend on the available protective equipment (armor, shields, amulets, etc., see also <l="hts:\\language\puppet.hts">"character window"<\l>), as well as on <l="hts:\\language\i_mutators.hts">mutators<\l>.<br>
+<br><tab><cl=00FF00>Clan<cl=A2A2A2><br>
+<tab>Your character, in addition to promotion in the hierarchies of title and degree, can participate in the clan hierarchy. To do this, you need to <l="hts:\\language\clan.hts">create a new clan or join an existing clan.<\l><br>
+<br><tab><cl=FFFFFF>See also: <l="hts:\\language\statinfo.hts">"Statistics window"<\l>.<cl=B0B0B0>
+}

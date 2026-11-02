@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>FINESTRA STATISTICHE<cl=A2A2A2><br><br>
+<tab>Questa finestra riflette <l="hts:\\language\i_charact.hts">caratteristiche<\l> Il tuo personaggio. Per visualizzare questa finestra, utilizzare il tasto "H" (predefinito).<br>
+<br><tab><cl=00FF00>Titolo E Laurea<cl=A2A2A2><br>
+<tab>La parte superiore della finestra mostra il titolo e il grado magico del tuo personaggio, nonché il numero di marchi e gradi del titolo, sia guadagnati che necessari per passare al livello successivo.<br>
+<br><tab><cl=00FF00>Karma e clan<cl=A2A2A2><br>
+<tab>Di seguito viene mostrato il karma e, se il tuo personaggio fa parte di un clan, il nome <l="hts:\\language\clan.hts">clan<\l>.<br>
+I livelli di Karma sono distribuiti come segue:
+<br>meno di -1000: molto male
+<br>da -1000 a -500: cattivo
+<br>da -500 a 500: neutro
+<br>da 500 a 1000: buono
+<br>più di 1000: buono
+<br>
+<br><tab><cl=00FF00>Salute, Prana, Sazietà<cl=A2A2A2><br>
+<tab>Di seguito vengono mostrati la salute, il Prana e la sazietà del personaggio (valori attuali e massimi).<br>
+<br><tab><cl=00FF00>Attacco e difesa<cl=A2A2A2><br>
+<tab>Nella parte centrale della finestra sono visibili i valori numerici della forza di attacco e difesa del tuo personaggio.<br> 
+In "attacco di battaglia" e "attacco magico", i numeri appaiono quando prendi in mano armi o oggetti magici che possono causare danni o hanno un effetto curativo. Il danno è riflesso da un numero negativo, l'effetto curativo è un numero positivo.<br>
+<tab>Punti <l="hts:\\language\i_charact.hts">"difesa da combattimento "e"difesa magica"<\l> mostra i livelli appropriati della tua difesa. Questi parametri dipendono dai dispositivi di protezione disponibili (vedere "<l="hts:\\language\puppet.hts">Finestra del personaggio<\l>") e anche da <l="hts:\\language\i_mutators.hts">mutatori<\l>.<br>
+<br><tab><cl=00FF00>Abilità ed elementi<cl=A2A2A2><br>
+<tab>Nella parte inferiore della finestra vengono visualizzati i valori del livello di proprietà corrente <l="hts:\\language\i_charact.hts">abilità ed elementi<\l>, così come il numero di elementali di titolo e elementali di grado.<br>
+<tab>Lì puoi anche distribuire gli elementali del titolo in base alle abilità e gli elementali del grado in base agli elementi.
+}

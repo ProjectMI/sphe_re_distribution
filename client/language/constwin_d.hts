@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>SYSTEMLEISTEN<cl=A2A2A2><br><br>
+<tab>Die oberen Ecken des Bildschirms sind immer vorhanden <cl=FFFFFF>links<cl=B0B0B0> und <cl=FFFFFF>rechte Systemleiste<cl=B0B0B0>. Sie können sie auf Wunsch minimieren, indem Sie auf die entsprechenden Pfeile klicken.<br><br>
+<tab><cl=00FF00>Linke Systemleiste<cl=B0B0B0>.<br>
+<tab>Auf der linken Systemleiste befindet sich ein Kompass (falls Ihr Missionscharakter vorhanden ist, zeigt der Kompass die Richtung der Mission an), Indikatoren <cl=FFFFFF>Gesundheit<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0> sowie die Schaltflächen zum Aufrufen von Fenstern: <l="hts:\\language\statinfo.hts">Statistik<\l>; <l="hts:\\language\i_charact.hts">Charakter<\l>; <l="hts:\\language\inventory.hts">Inventar<\l>; <l="hts:\\language\hotkeys.hts">Hotkeys<\l>; <l="hts:\\language\tradechar.hts">Handel (Verkauf)<\l> und <l="hts:\\language\options.hts">Hauptmenü</l>.<br><br>
+<tab><cl=00FF00>Rechte Systemleiste<cl=B0B0B0>.<br>
+<tab>In der rechten Systemleiste werden das aktuelle Datum und die aktuelle Uhrzeit im Bereich angezeigt (die Uhr kann durch Klicken mit der linken Maustaste in eine elektronische Ansicht umgewandelt werden) sowie die Anrufschaltflächen: <l="hts:\\language\map.hts">Karten<\l>; <l="hts:\\language\clan.hts">Clan-Fenster<\l>; <l="hts:\\language\chat.hts">Chat<\l>; <l="hts:\\language\alchemicbook.hts">Rezeptbücher<\l>; <l="hts:\\language\mantrabook.hts">Mantra-Bücher<\l> und <l="hts:\\language\journal.hts">Magazin<\l>.<br>
+}

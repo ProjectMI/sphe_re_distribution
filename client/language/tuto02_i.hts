@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Conduttore:<cl=00FF00> Vuoi prendere quella vecchia spada? Non sai mai cosa ti aspetta per il prossimo turno.<br><br>
+
+<cl=FFFFFF>Usa "I" PER richiamare la finestra dell'inventario.<br>
+Attiva il cursore con il pulsante destro del mouse.<br>
+Trascina l'oggetto nella finestra dell'inventario con il mouse.<br>
+USA Maiusc + tasto sinistro del mouse per ottenere i dettagli dell'oggetto.<br>
+Fai clic con il pulsante sinistro del mouse sull'oggetto per "prenderlo" con la mano.<br>
+Utilizzare il tasto destro del mouse per uscire dalla modalità cursore.<br><br>
+<l="hts:\\language\i_mainp.hts">Maggiori informazioni sulla gestione...<\l><br>
+<l="hts:\\language\inventory.hts">Maggiori informazioni sull'inventario...<\l><br>
+<l="hts:\\language\helpindex.hts">Guida completa al gioco (F1)<\l><br>
+}

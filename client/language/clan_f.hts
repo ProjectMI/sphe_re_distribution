@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>CLAN<cl=A2A2A2><br><br>
+<tab>La fenêtre du clan est appelée par la touche "N "(par défaut) ou par le bouton "clan" dans <l="hts:\\language\constwin.hts">panneau système droit.<\l><br>
+<tab>Si Vous n'êtes pas membre d'un clan, vous verrez <cl=FFFFFF>fenêtre de création de clan.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Création d'un clan<cl=A2A2A2><br>
+<tab>Sélectionner un élément <cl=FFFFFF>"créer un clan"<cl=B0B0B0>, Vous pouvez définir le nom de Votre futur clan et choisir l'emblème (actuellement désactivé). Vous devenez automatiquement <cl=FFFFFF>Señor<cl=B0B0B0> dans le nouveau clan. <cl=FF0000>Dans le nom du clan, il n'est pas permis d'utiliser des mots grossiers et grossiers, des expressions offensantes.<cl=B0B0B0><br>
+<tab>Après avoir sélectionné l'élément <cl=FFFFFF>"entrer dans le clan"<cl=B0B0B0> l'inscription correspondante est collée au curseur. Après cela, vous devez faire un clic gauche sur <cl=FFFFFF>Señor<cl=B0B0B0> ou <cl=FFFFFF>sénéchaussée<cl=B0B0B0> le clan dont vous avez besoin. Il reçoit Votre demande d'adhésion au clan et décide d'accepter ou de ne pas accepter.<br>
+<br><tab><cl=00FF00>Hiérarchie clanique<cl=A2A2A2><br>
+<tab>Il y a 4 niveaux dans chaque clan:<br>
+<tab><cl=FFFFFF>Señor<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Sénéchal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vassal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Néophyte<cl=B0B0B0><br>
+<cl=FFFFFF>Señor<cl=B0B0B0> il a le droit d'accepter dans le clan, d'exclure du clan, d'élever et de rétrograder dans le rang des sénéchaux, des vassaux, des néophytes.<br>
+<cl=FFFFFF>Sénéchal<cl=B0B0B0> il a le droit d'accepter dans le clan, d'exclure du clan, d'élever et de rétrograder les vassaux et les néophytes.<br>
+<cl=FFFFFF>Vassal<cl=B0B0B0> il a le droit d'exclure du clan les néophytes.<br>
+}

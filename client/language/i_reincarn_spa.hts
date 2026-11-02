@@ -1,0 +1,8 @@
+hypertext
+{
+<tab><cl=F0F010>MUERTE Y RENACIMIENTO<cl=A2A2A2><br><br>
+<tab>En el mundo de la Esfera, para los visitantes de la Tierra, la muerte no es un evento irreversible. Podemos volver a entrar en este mundo a través de portales invisibles dejados por el Tejedor. Sin embargo, al vivir en una Esfera, cada personaje acumula <l="hts:\\language\i_charact.hts">karma<\l>. Dependiendo del estado del karma, renaces en portales de diferentes calidades, desde favorables hasta peligrosas (cinco gradaciones en total). El renacimiento tiene lugar en el portal adecuado más cercano al lugar de la muerte. Cuidado con el renacimiento <l="hts:\\language\i_geo.hts">Carone<\l>. <br>
+<tab>En el momento de la muerte, Tu personaje puede perder parte de lo acumulado en <l="hts:\\language\inventory.hts">inventario<\l> bienes. Lo que se usa directamente en el personaje (ver <l="hts:\\language\puppet.hts">"Ventana del personaje"<\l>) generalmente no se pierde.  El Tamaño de las pérdidas depende de Su karma: cuanto mejor, menos pérdidas. En la muerte se pierde parte de lo acumulado <l="hts:\\language\i_charact.hts">sellos de título y grados.<\l><br>
+<tab>Cosas colocadas en "celdas eternas" en <l="hts:\\language\inventory.hts">inventario<\l> . no se pierden.<br>
+<tab><cl=FFFFFF>Nota: un personaje cuyo título o título es menor que el nivel 6 (es decir, un personaje que tiene un título o título menor que el nivel 6). <l="hts:\\language\i_charact.hts">invitado o no entrenado<\l>) al morir no pierde nada.<br>
+}

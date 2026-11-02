@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>Klan<cl=A2A2A2><br><br>
+<tab>A janela do clã é chamada pela tecla " N " (padrão) ou pelo botão "clã" no <l="hts:\\language\constwin.hts">painel do sistema direito.<\l><br>
+<tab>Se você não faz parte de um clã, você verá <cl=FFFFFF>janela de criação de clã.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Criação do Clã<cl=A2A2A2><br>
+<tab>Seleccionando <cl=FFFFFF>"criar um clã"<cl=B0B0B0> Você pode definir o nome do seu futuro clã e escolher um emblema (atualmente desligado). Você automaticamente se torna <cl=FFFFFF>Senhor<cl=B0B0B0> em um novo clã. <cl=FF0000>No nome do Clã não é permitido o uso de palavras rudes e obscenas, expressões ofensivas.<cl=B0B0B0><br>
+<tab>Depois de selecionar o item <cl=FFFFFF>"faça parte do Clã"<cl=B0B0B0> a inscrição correspondente é "colada" ao cursor. Depois disso, você deve clicar com o botão esquerdo do mouse em <cl=FFFFFF>senhora<cl=B0B0B0> ou <cl=FFFFFF>senescala<cl=B0B0B0> o clã de que precisam. Ele recebe o seu pedido para se juntar ao clã e decide se aceita ou não.<br>
+<br><tab><cl=00FF00>Hierarquia de clãs<cl=A2A2A2><br>
+<tab>Cada clã tem 4 níveis:<br>
+<tab><cl=FFFFFF>Senhor.<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Senescal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vassalo<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Neófito<cl=B0B0B0><br>
+<cl=FFFFFF>Senhor.<cl=B0B0B0> ele tem o direito de receber, excluir do Clã, aumentar e diminuir no posto de senescala, vassalo, neófito.<br>
+<cl=FFFFFF>Senescal<cl=B0B0B0> ele tem o direito de aceitar, excluir, aumentar ou diminuir vassalos e neófitos.<br>
+<cl=FFFFFF>Vassalo<cl=B0B0B0> tem o direito de excluir neófitos do Clã.<br>
+}

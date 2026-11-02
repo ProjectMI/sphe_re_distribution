@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>JANELA DE PERSONAGEM<cl=A2A2A2><br><br>
+<tab>As células nesta janela mostram as coisas que você coloca diretamente em seu personagem. Itens colocados nessas células após <l="hts:\\language\i_reincarn.hts">morte<\l> o personagem não é praticamente perdido (perdido com muito pouca probabilidade).<br>
+<tab>As células podem conter os seguintes objetos:<br>
+<tab><cl=FFFFFF>Capacete<br>
+<tab>Amuleto<br>
+<tab>Escudo<br>
+<tab>Cota de malha<br>
+<tab>Luvas<br>
+<tab>2 Pulseiras<br>
+<tab>4 anéis<br>
+<tab>Calças<br>
+<tab>Sapatos<br><cl=B0B0B0>
+<tab>Essas coisas podem melhorar <l="hts:\\language\i_charact.hts"> características <\l> Seu personagem.<br>
+<tab>Os seguintes itens podem ser colocados na linha vertical à direita:<br>
+<tab><cl=FFFFFF>Livro de mapas<cl=B0B0B0> - permite armazenar cartões.<br>
+<tab><cl=FFFFFF>Revista<cl=B0B0B0> permite a gravação de eventos importantes.<br>
+<tab><cl=FFFFFF>Livro de receitas<cl=B0B0B0> - permite que você armazene receitas alquímicas e manuscritos.<br>
+<tab><cl=FFFFFF>O livro de mantras<cl=B0B0B0> - permite "memorizar" mantras.<br>
+<tab><cl=FFFFFF>Tinteiro<cl=B0B0B0> - permite que você escreva em um diário e desenhe marcas em mapas.<br><br>
+<tab>A linha vertical de células à esquerda pode ser preenchida com objetos com propriedades extraordinárias (atualmente reservados).<br>
+<tab>Para colocar um objeto na janela, basta <l="hts:\\language\i_mainp.hts">arrastar<\l> para o cofre certo. O objeto deve corresponder à célula em sua finalidade. Se não houver correspondência, a célula será destacada em vermelho ao tentar arrastar. Se houver correspondência, a célula é destacada em verde.<br>
+}

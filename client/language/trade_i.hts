@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>Acquisto<cl=A2A2A2><br><br>
+Con questa finestra puoi acquistare beni dagli abitanti della sfera e da altri personaggi. Nella colonna di sinistra ci sono le icone dei prodotti. Per ottenere la descrizione del prodotto, è necessario su di esso <cl=FFFFFF>Visualizza<cl=B0B0B0>. La colonna successiva mostra il prezzo di un determinato articolo. Segue il campo per inserire l'offerta. Facendo clic con il pulsante sinistro del mouse su di esso, puoi fare un'offerta.<br>
+<tab>L'acquisto di un prodotto viene effettuato facendo clic sul segno di spunta "acquista" o trascinando sull'icona del prodotto del sacchetto con i tuoi soldi. Se non ci sono abbastanza soldi, il segno di spunta sarà oscurato.<br>
+<tab>Puoi anche vendere il tuo articolo. Per questo contemporaneamente a <cl=FFFFFF>finestra di acquisto<cl=B0B0B0> Devi aprire <l="hts:\\language\tradechar.hts">finestra di vendita <\l> (tasto "T" predefinito).<br>
+}

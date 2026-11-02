@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>MAIN GAME MENU<cl=A2A2A2><br><br>
+<tab>Selecting an item <cl=FFFFFF>In the game<cl=B0B0B0> allows you to return back to the "Sphere".<br><br>
+<tab><cl=00FF00>Graphics<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Permission<cl=B0B0B0>. At this point, you can choose the screen resolution you need from the set of video modes supported by your video card. The higher the resolution you choose, the better the graphics on the screen will look, but the slower the image output will be. Therefore, if you are not satisfied with the speed of the game, try to reduce the resolution. If the resolution is changed, the game will be rebooted.<br>
+<tab><cl=FFFFFF>Color depth<cl=B0B0B0>. Greater color depth will improve the quality of the graphic image, but may affect the speed of image output. If you are not satisfied with the speed of the game, try to reduce the color depth. If it changes, the game will be rebooted. <br>
+<tab><cl=FFFFFF>The quality of shadows<cl=B0B0B0>. Another parameter that allows you to change the speed of the game. You can choose among Low, Medium and High quality shadows, or simply turn off the shadows.<br>
+<tab><cl=FFFFFF>Grass<cl=B0B0B0>. If the image output outside the city slows down, try disabling the grass image. <br><br>
+<tab><cl=00FF00>Sound<cl=B0B0B0>. At this point, you can individually change the volume of <cl=FFFFFF>Music playback<cl=B0B0B0> and <cl=FFFFFF>Sound Effects<cl=B0B0B0>, as well as turn off/turn on <cl=B0B0B0>Hardware sound mixing<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Management<cl=B0B0B0>. This item will allow you to override the default keys, as well as enable/disable <cl=FFFFFF>Mouse Inversion<cl=B0B0B0>. At any time, you can return the <cl=FFFFFF>default Settings by<cl=B0B0B0> clicking on the menu item of the same name.<br><br>
+<tab><cl=00FF00> Interface<cl=B0B0B0>. Using this item, you can disable/enable the display of <cl=FFFFFF>Names above the heads of<cl=B0B0B0> characters; enable/disable <cl=FFFFFF>Automatic door opening<cl=B0B0B0> when you approach; disable/enable <cl=FFFFFF>interface Sounds<cl=B0B0B0> and <cl=FFFFFF>Automatic window overlap<cl=B0B0B0>. The latter means that if several windows on the screen are blocked, only the last one will remain visible, and the rest will "appear" when it is closed. <cl=FFFFFF>The default Window item<cl=B0B0B0> restores the relative position of the windows on the screen.<br><br>
+<tab>The <cl=FFFFFF>Authors item will<cl=B0B0B0> show a list of those who made the "Sphere" for you.<br><br>
+<tab>To exit the game, select <cl=FFFFFF>Exit<cl=B0B0B0>.<br><br>
+}

@@ -1,0 +1,19 @@
+hypertext
+{
+<tab><cl=F0F010>CHAT<cl=A2A2A2><br><br>
+<tab>La fenêtre de discussion a deux formes: pleine et petite. La commutation entre les formulaires se fait à l'aide du bouton "chat" dans <l="hts:\\language\constwin.hts">panneau système droit<\l>.<br>
+<tab><cl=FFFFFF>En petite forme<cl=B0B0B0> Vous voyez les deux dernières lignes de message. Pour entrer votre message, appuyez sur le bouton "/" (par défaut). Le champ de saisie de texte apparaît. La saisie se termine en appuyant sur la touche Entrée. Pour annuler la saisie, cliquez sur fermer la fenêtre ou tapez une ligne vide.<br>
+<tab>Vous pouvez envoyer des messages dans les modes suivants:<br>
+<tab><cl=FFFFFF>Murmure<cl=B0B0B0> - Votre message sera vu par ceux qui sont situés de Vous à une distance de pas plus de 10 mètres.<br>
+<tab><cl=FFFFFF>Discours normal<cl=B0B0B0> - Votre message sera vu par ceux qui sont situés de Vous à une distance maximale de 50 mètres.<br>
+<tab><cl=FFFFFF>Commerce<cl=B0B0B0> - Messages commerciaux.<br>
+<tab><cl=FFFFFF>Clan<cl=B0B0B0> - Votre message sera vu par ceux qui sont avec vous dans le même clan.<br><br>
+<tab><cl=FFFFFF>Groupe<cl=B0B0B0> - Votre message sera vu par ceux qui sont avec vous dans le même groupe.<br><br>
+<tab><cl=FFFFFF>En grande forme de chat<cl=B0B0B0> Vous voyez quelques lignes récentes et pouvez voir plusieurs centaines de messages récents à l'aide de la barre de défilement. La saisie est également effectuée en appuyant sur la touche " / " ou en cliquant sur le champ de saisie qui, dans ce formulaire, se trouve à l'écran en permanence.<br> Vous pouvez également mettre des filtres pour les messages en utilisant les boutons en haut de la fenêtre de discussion: conversation normale, messages pour le clan, messages système, messages de corruption, messages pour le groupe, messages commerciaux.<br>
+<tab><cl=FFFFFF>Changer le type de conversation<cl=B0B0B0> Vous pouvez utiliser les touches de fonction:<br>
+<cl=FFFFFF>F2<cl=B0B0B0><tab>- murmure<br>
+<cl=FFFFFF>F3<cl=B0B0B0><tab>- discours normal<br>
+<cl=FFFFFF>F4<cl=B0B0B0><tab>- commerce<br>
+<cl=FFFFFF>F6<cl=B0B0B0><tab>- messages pour le clan<br>
+<cl=FFFFFF>F7<cl=B0B0B0><tab>- messages pour le groupe<br>
+}

@@ -1,0 +1,48 @@
+hypertext
+{
+<tab><cl=F0F010>ALLIANCES AND WARS<cl=A2A2A2><br><br>
+
+<tab>In the list of clans, the <cl=727272><cl=A2A2A2> names of neutral clans are written in gray,
+<cl=00FF00>green<cl=A2A2A2> - the names of the clans with which the alliance is concluded,
+<cl=FF0000>red<cl=A2A2A2> - the names of the clans with which the war is going on.<br>
+<br>
+<cl=FFFF00>Alliance<br>
+<cl=A2A2A2>
+<tab>
+To form an alliance, you must own at least one castle.
+The alliance allows a friendly clan to gain access to the castle of another friendly clan.
+Only clan lords can enter into and terminate alliances.
+It is impossible to form an alliance with a clan if there is a war between your clans and it is impossible
+to form more than five alliances.<br>
+<tab>To form an alliance, select a clan from the list and click the <cl=A0A000>"Form an alliance" button.
+<cl=A2A2A2>The lords of this clan will be asked to confirm the alliance.<br>
+<tab>When one of them confirms the union:<br>
+<cl=ABCDEF>
+- Monsters in the castles of allied clans will not attack alliance members,
+unless, of course, they are attacked by a guest of the castle.<br>
+- Seniors and seneschals of the clan will be able to send messages to members of the alliance
+using the chat /sayally "message text" command.<br>
+- Members of the alliance will be able to use the castle teleports of allies.<br>
+- The capture of the castle by the allied clan will become impossible.<br>
+<cl=A2A2A2>
+<tab>To terminate the alliance, select the allied clan in the window and click the <cl=A0A000>"Exit alliance" button.
+<cl=A2A2A2>
+<br><br><br>
+<cl=ABCDEF>The war<br>
+<cl=A2A2A2>
+<tab>During combat operations, when killing an enemy, karma does not deteriorate. A clan may not participate
+more than five wars at the same time.
+Similarly to alliances, only clan lords can declare war and conclude a truce.<br>
+<tab>To declare war, select a clan from the list and click the <cl=A0A000>"Declare War" button.
+<cl=A2A2A2>
+The lords of the chosen clan will be sent a declaration of war, which they can accept or refuse.<br>
+<tab>If one of them confirms the start of the war:<br>
+<cl=ABCDEF>
+- The experience lost by the opponent at death will be partially transferred to the winner.<br>
+- Karma will not deteriorate when killing enemies.<br>
+<cl=A2A2A2>
+<tab>Declaring war on the clan with which the alliance is concluded is impossible.
+To conclude a truce, you must select the enemy clan in the window and click the <cl=A0A000>"Offer peace" button.<cl=A2A2A2>
+The lords of the enemy clan will receive a message offering peace. To stop the war is enough
+the consent of at least one of them.<br>
+}

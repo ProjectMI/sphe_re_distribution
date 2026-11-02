@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>TAFELN<cl=A2A2A2><br><br>
+<tab>Durch die Tafel wird das Schloss gesteuert. Durch Drücken der Taste <cl=FFFFFF>Der Clan<cl=B0B0B0> . man kann den Namen des Clans sehen, der das Schloss besitzt. Knopf <cl=FFFFFF>Besitz<cl=B0B0B0> zeigt eine Liste der Charaktere an, die sich derzeit im Besitz des Schlosses befinden. Mit <cl=FFFFFF>Gebühren<cl=B0B0B0> sie können die Höhe der Gebühr festlegen, die für Charaktere, die nicht dem Clan angehören, der das Schloss erobert hat, für den Aufenthalt auf dem Territorium des Schlosses zu zahlen ist.<br>
+
+<br>Um die Schutzkraft des Schlosses zu erhöhen, müssen Sie die folgenden Steuern zahlen:<br>
+<cl=FFFFFF><br>
+Grundsteuer<br>
+Torsteuer<br>
+Tafelsteuer<br>
+Dungeon-Steuer<br>
+}

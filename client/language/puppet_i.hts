@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>FINESTRA DEL PERSONAGGIO<cl=A2A2A2><br><br>
+<tab>Le celle in questa finestra mostrano le cose direttamente indossate sul tuo personaggio. Elementi inseriti in queste celle dopo <l="hts:\\language\i_reincarn.hts">morti<\l> il personaggio non si perde praticamente (si perde con pochissima probabilità).<br>
+<tab>Le celle possono contenere i seguenti oggetti:<br>
+<tab><cl=FFFFFF>Casco<br>
+<tab>Amuleto<br>
+<tab>Scudo<br>
+<tab>Cotta di maglia<br>
+<tab>Guanti<br>
+<tab>2 braccialetti<br>
+<tab>4 anelli<br>
+<tab>Pantaloni<br>
+<tab>Scarpe<br><cl=B0B0B0>
+<tab>Queste cose possono migliorare <l="hts:\\language\i_charact.hts"> caratteristiche <\l> Il tuo personaggio.<br>
+<tab>Nella riga verticale a destra possono essere posizionati i seguenti elementi:<br>
+<tab><cl=FFFFFF>Libro di carte<cl=B0B0B0> - consente di memorizzare le carte.<br>
+<tab><cl=FFFFFF>Rivista<cl=B0B0B0> - consente di tenere registri di eventi importanti.<br>
+<tab><cl=FFFFFF>Ricettario<cl=B0B0B0> - consente di memorizzare ricette alchemiche e manoscritti.<br>
+<tab><cl=FFFFFF>Libro dei mantra<cl=B0B0B0> - consente di" memorizzare " i mantra.<br>
+<tab><cl=FFFFFF>Calamaio<cl=B0B0B0> - consente di effettuare voci di diario e disegnare segni sulle carte.<br><br>
+<tab>La fila verticale di celle a sinistra può essere riempita con oggetti con proprietà straordinarie (attualmente riservati).<br>
+<tab>Per mettere qualsiasi oggetto in questa finestra, semplicemente <l="hts:\\language\i_mainp.hts">trascina e rilascia<\l> nella cella desiderata. L'oggetto deve corrispondere alla cella per il suo scopo. Se non c'è corrispondenza, la cella viene evidenziata in rosso quando si tenta di trascinare. Se c'è una corrispondenza, la cella viene evidenziata in verde.<br>
+}

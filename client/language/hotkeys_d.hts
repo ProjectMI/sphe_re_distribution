@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>HOTKEYS<cl=A2A2A2><br><br>
+<tab>Die Tastenkombinationen dienen dazu, Gegenstände, die Sie zuvor einer bestimmten Taste "zugeordnet" haben, schnell zu "schnappen".  Das Hotkey-Fenster kann auf dem Bildschirm in zwei Formen dargestellt werden: groß und klein. Um zwischen den Formularen zu wechseln, drücken Sie die "K" -Taste (Standardeinstellung) oder verwenden Sie die "Hotkeys" -Taste auf der <l="hts:\\language\constwin.hts">linke Systemleiste<\l>.<br>
+<tab>In <cl=FFFFFF>kleine Form<cl=B0B0B0> das Fenster ist eine vertikale Reihe von 10 Zellen, in denen die Objekte reflektiert werden, die jeweils auf den Tasten platziert sind 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Wenn Sie die Strg-Taste drücken, ändert sich diese Reihe und zeigt die nächsten 10 "heißen" Objekte an, die mit der Tastenkombination Strg + Ziffer aufgerufen werden können.<br>
+<tab><cl=FFFFFF>Große Form<cl=B0B0B0> ermöglicht das Festlegen von Hotkeys. Dies geschieht durch Verschieben des gewünschten Objekts aus <l="hts:\\language\inventory.hts">inventar<\l> in jede Zelle. Wenn eine Zelle belegt ist, wird ihre alte Zuweisung aufgehoben und durch die neue ersetzt.<br>
+<tab><cl=FFFFFF>Wichtig:<cl=B0B0B0> die Tastenkombinationen erinnern sich nicht an das Objekt selbst, sondern an seine Position. Wenn Sie ein bestimmtes Objekt von seiner persönlichen Position im Inventar verschieben, wird der Hotkey leer, und umgekehrt führt das Drücken der Hotkey-Taste dazu, dass ein anderes Objekt an der gespeicherten Position im Inventar platziert wird <cl=FFFFFF>verwendung<cl=B0B0B0> neues Objekt.<br>
+<tab>Der Status der Tastenkombinationen wird beim Beenden des Spiels gespeichert.<br>
+}

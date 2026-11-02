@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>CONTENEUR<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>Par conteneur<cl=B0B0B0> il peut y avoir une tourbe, une poche, un coffre - c'est-à-dire n'importe quel récipient dans lequel d'autres objets peuvent être placés. Le conteneur s'ouvre et se ferme en cliquant avec le bouton gauche de la souris. Chaque conteneur a son propre poids, ainsi que le poids maximum possible (avec les choses qui s'y trouvent). Vous pouvez connaître ces poids si <l="hts:\\language\i_mainp.hts">"voir"<\l> sur le conteneur. Vous ne pourrez pas placer un objet dans un conteneur si son poids maximal est dépassé.<br>Certains conteneurs ont des cellules spéciales pour certains objets - par exemple, dans les coffres des chambres d'hôtel, les dernières cellules servent aux ingrédients alchimiques et aux poudres magiques.<br>
+}

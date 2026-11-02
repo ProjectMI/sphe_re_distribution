@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>SELLER<br>
+<br>
+<cl=FFFFFF>You can buy various items from the seller for thalers and sell your own to him (some things cannot be sold).<br>
+To buy an item, click on the check mark to the right of the item and it will appear in your inventory (I) or on the doll (P). If there are not enough thalers, the item will be highlighted in red.<br>
+To sell an item, drag it to an empty cell in the Sale window. If the item can be sold, then the price offered by the seller will appear.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Full help for the game (F1)<\l><br>
+}

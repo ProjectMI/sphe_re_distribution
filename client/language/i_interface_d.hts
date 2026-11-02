@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>SCHNITTSTELLE<cl=A2A2A2><br><br>
+<tab><l="hts:\\language\i_mainp.hts">Verwaltung<\l><br><br>
+<tab><l="hts:\\language\options.hts">Spieleinstellungen-Menü<\l><br><br>
+<tab><l="hts:\\language\constwin.hts">Systemleisten<\l><br><br>
+<tab><l="hts:\\language\statinfo.hts">Statistik-Fenster<\l><br><br>
+<tab><l="hts:\\language\puppet.hts">Charakterfenster<\l><br><br>
+<tab><l="hts:\\language\inventory.hts">Inventar<\l><br><br>
+<tab><l="hts:\\language\chat.hts">Chat<\l><br><br>
+<tab><l="hts:\\language\hotkeys.hts">Hotkeys<\l><br><br>
+<tab><l="hts:\\language\clan.hts">Clan-Fenster<\l><br><br>
+<tab><l="hts:\\language\ally.hts">Fenster für Allianzen und Kriege<\l><br><br>
+<tab><l="hts:\\language\group.hts">Gruppenfenster<\l><br><br>
+<tab><l="hts:\\language\trade.hts">Handelsfenster (Kauf)<\l><br><br>
+<tab><l="hts:\\language\tradechar.hts">Handelsfenster (Verkauf)<\l><br><br>
+<tab><l="hts:\\language\missions.hts">Das Fenster "Mission erhalten"<\l><br><br>
+}

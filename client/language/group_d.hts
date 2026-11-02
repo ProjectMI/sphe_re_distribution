@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>GRUPPE<cl=A2A2A2><br><br>
+<tab>Das Gruppenfenster wird mit der "G" -Taste (Standardeinstellung) oder der "Clan" -Taste in aufgerufen <l="hts:\\language\constwin.hts">der rechten Systemleiste.<\l><br>
+<tab>Wenn Sie nicht in einer Gruppe sind, werden Sie sehen <cl=FFFFFF>fenster zum Erstellen einer Gruppe.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Erstellen einer Gruppe<cl=A2A2A2><br>
+<tab>Durch Auswahl von <cl=FFFFFF>"gruppe erstellen"<cl=B0B0B0> . Sie werden automatisch <cl=FFFFFF>kapitel<cl=B0B0B0> in einer neuen Gruppe. <cl=FF0000>  <br>
+<tab>Nach Auswahl eines Elements <cl=FFFFFF>"in die Gruppe eintreten"<cl=B0B0B0> die entsprechende Beschriftung wird an den Cursor "geklebt". Danach müssen Sie mit der linken Maustaste auf <cl=FFFFFF>kopf der Gruppe<cl=B0B0B0>. Er erhält Ihren Antrag auf Mitgliedschaft in der Gruppe und entscheidet, ob er akzeptiert oder nicht akzeptiert wird. Nach der Annahme werden Sie ein gewöhnliches Mitglied der Gruppe.<br>
+<cl=FFFFFF>Gruppenleiter<cl=B0B0B0> kann jedes Mitglied der Gruppe löschen und die Gruppe auflösen. Wenn die Gruppe aufgelöst wird, wird der Teilnehmer zum Leiter, derzeit der Oberste auf der Liste. <cl=FFFFFF>Die maximale Anzahl der Gruppenmitglieder beträgt 5.<cl=B0B0B0><br>
+<br><tab><cl=00FF00>Titel- und Abschlussmarken in einer Gruppe erhalten<cl=A2A2A2><br>
+Die Erfahrung, die Sie für die Zerstörung von Monstern erhalten, wird von allen Gruppenmitgliedern geteilt, die sich in einer Entfernung von nicht mehr als 50 Metern befinden, proportional zu ihrem Niveau. Für die Zerstörung eines Monsters erhält die Gruppe mehr Erfahrung als ein Charakter, und je mehr Gruppenmitglieder es gibt.<br>
+}

@@ -1,0 +1,63 @@
+hypertext
+{
+Barbarengilde<br>
+<br>
+<cl=00FF00>Die erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimal-Titel: 16<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Stärke: +10<br>
+<tab>Geschicklichkeit: -4<br>
+<tab>Erde: +2<br>
+<tab>Feuer: -12<br>
+<br>
+<cl=00FF00>Die zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Energie: +30<br>
+<tab>Geschicklichkeit: -6<br>
+<tab>Boden: +6<br>
+<tab>Feuer: -24 <br>
+<br>
+<cl=00FF00>Die Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Der minimale Grad: 31<br>
+<br><cl=ABCDEF>
+<tab>Stärke: +44<br>
+<tab>Geschicklichkeit: -12<br>
+<tab>Boden: +20<br>
+<tab>Feuer: -36<br>
+<br>
+<cl=00FF00>Die vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Der minimale Grad: 41<br>
+<br><cl=ABCDEF>
+<tab>Energie: +65<br>
+<tab>Geschicklichkeit: -30<br>
+<tab>Erde: +28<br>
+<tab>Feuer: -48<br>
+<br>
+<cl=00FF00>Die fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Der minimale Grad: 51<br>
+<br><cl=ABCDEF>
+<tab>Energie: +72<br>
+<tab>Geschicklichkeit: -47<br>
+<tab>Land: +42<br>
+<tab>Feuer: -56<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Der minimale Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Energie: +96<br>
+<tab>Geschicklichkeit: -68<br>
+<tab>Erde: +50<br>
+<tab>Feuer: -70<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Liste der Gilden<\l><br>
+<sp><l="hts:\\language\guildf.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_desce.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descg.hts">Nächste Gilde<\l><br>
+}

@@ -1,0 +1,10 @@
+hypertext
+{
+<tab><cl=F0F010>TOURNOIS<cl=A2A2A2><br><br>
+<tab>
+Vous pouvez vous inscrire pour participer au groupe <l="hts:\\language\tournament.hts">tournoi <\l>.
+Notez que si les équipes ne sont pas égales, vous pouvez être déplacé vers une autre équipe au début du tournoi.
+Dans la fenêtre d'inscription, votre nom a la couleur de l'équipe à laquelle vous avez rejoint,
+et le reste des données ont la couleur de la commande dans laquelle vous finirez par tomber,
+sauf si quelqu'un d'autre se joint.
+}

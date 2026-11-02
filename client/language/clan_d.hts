@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>DER CLAN<cl=A2A2A2><br><br>
+<tab>Das Clanfenster wird mit der Taste "N" (Standardeinstellung) oder der Taste "Clan" in der <l="hts:\\language\constwin.hts">der rechten Systemleiste.<\l><br>
+<tab>Wenn du nicht Mitglied eines Clans bist, wirst du sehen <cl=FFFFFF>das Fenster zum Erstellen eines Clans.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Erstellen eines Clans<cl=A2A2A2><br>
+<tab>Durch Auswahl von <cl=FFFFFF>"einen Clan erstellen"<cl=B0B0B0> . Du kannst den Namen deines zukünftigen Clans festlegen und ein Emblem auswählen (momentan deaktiviert). Sie werden automatisch <cl=FFFFFF>señor<cl=B0B0B0> in einem neuen Clan. <cl=FF0000>Im Namen des Clans ist es nicht erlaubt, unhöfliche und beleidigende Wörter und beleidigende Ausdrücke zu verwenden.<cl=B0B0B0><br>
+<tab>Nach Auswahl eines Elements <cl=FFFFFF>"in den Clan eintreten"<cl=B0B0B0> die entsprechende Beschriftung wird an den Cursor "geklebt". Danach müssen Sie mit der linken Maustaste auf <cl=FFFFFF>señore<cl=B0B0B0> oder <cl=FFFFFF>seneshale<cl=B0B0B0> den gewünschten Clan. Er erhält Ihren Antrag, dem Clan beizutreten, und entscheidet, ob er akzeptiert oder nicht akzeptiert wird.<br>
+<br><tab><cl=00FF00>Clanhierarchie<cl=A2A2A2><br>
+<tab>Jeder Clan hat 4 Stufen:<br>
+<tab><cl=FFFFFF>Señor<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Seneshal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vasall<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Neophyt<cl=B0B0B0><br>
+<cl=FFFFFF>Señor<cl=B0B0B0> hat das Recht, in den Clan aufzunehmen, aus dem Clan auszuschließen, Seneshaler, Vasallen und Neophyten in den Rang zu befördern und zu senken.<br>
+<cl=FFFFFF>Seneshal<cl=B0B0B0> hat das Recht, Vasallen und Neophyten in den Clan aufzunehmen, aus dem Clan auszuschließen, zu erhöhen und zu senken.<br>
+<cl=FFFFFF>Vasall<cl=B0B0B0> hat das Recht, Neophyten aus dem Clan auszuschließen.<br>
+}

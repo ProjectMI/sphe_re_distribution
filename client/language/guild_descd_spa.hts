@@ -1,0 +1,99 @@
+hypertext
+{
+Guild Hunter<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +40<br>
+<tab>Protección mágica: +82<br>
+<tab>Fuerza: -6<br>
+<tab>Precisión: +6<br>
+<tab>Resistencia: -4<br>
+<tab>Elementos: -4<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +80, durante 1 hora, una vez cada 4 horas<br>
+<tab>Doble flecha: 10 minutos, una vez cada 10 horas<br>
+<tab>Wanderer: 20 minutos, una vez cada 6 horas<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +74<br>
+<tab>Protección mágica: +150<br>
+<tab>Fuerza: -10<br>
+<tab>Precisión: +10<br>
+<tab>Resistencia: -6<br>
+<tab>Elementos: -6<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +120, durante 1 hora, una vez cada 4 horas<br>
+<tab>Doble flecha: 10 minutos, una vez cada 8 horas<br>
+<tab>Wanderer: 30 minutos, una vez cada 6 horas<br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +180<br>
+<tab>Protección mágica: +248<br>
+<tab>Fuerza: -14<br>
+<tab>Precisión: +14<br>
+<tab>Resistencia: -20<br>
+<tab>Elementos: -10<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +250, durante 1 hora, una vez cada 3 horas<br>
+<tab>Doble flecha: 15 minutos, una vez cada 7 horas<br>
+<tab>Wanderer: 35 minutos, una vez cada 5 horas<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +220<br>
+<tab>Protección mágica: +412<br>
+<tab>Fuerza: -18<br>
+<tab>Precisión: +18<br>
+<tab>Resistencia: -28<br>
+<tab>Elementos: -15<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +420, durante 1 hora, una vez cada 3 horas<br>
+<tab>Doble flecha: 15 minutos, una vez cada 7 horas<br>
+<tab>Wanderer: 40 minutos, una vez cada 4 horas<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +340<br>
+<tab>Protección mágica: +653<br>
+<tab>Fuerza: -24<br>
+<tab>Precisión: +24<br>
+<tab>Resistencia: -42<br>
+<tab>Elementos: -20<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +750, durante 1 hora, una vez cada 2 horas<br>
+<tab>Doble flecha: 15 minutos, una vez cada 7 horas<br>
+<tab>Wanderer: 35 minutos, una vez cada 3 horas<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +480<br>
+<tab>Protección mágica: +960<br>
+<tab>Fuerza: -48<br>
+<tab>Precisión: +48<br>
+<tab>Resistencia: -60<br>
+<tab>Elementos: -24<br>
+<tab><br>
+<tab>Ojo de ardilla: ataque físico +1200, durante 40 minutos, una vez cada 2 horas<br>
+<tab>Doble flecha: 30 minutos, una vez cada 5 horas<br>
+<tab>Wanderer: 30 minutos, una vez cada 2 horas<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildd.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_descc.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desce.hts">Siguiente gremio<\l><br>
+}

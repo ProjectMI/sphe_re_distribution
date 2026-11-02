@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=FFFF00>Descriptions des guildes:<cl=FFFFFF><br><br>
+<tab><l="hts:\\language\guild_desca.hts">Assassin<\l><br>
+<tab><l="hts:\\language\guild_descb.hts">Le croisé<\l><br>
+<tab><l="hts:\\language\guild_descc.hts">Inquisiteur<\l><br>
+<tab><l="hts:\\language\guild_descd.hts">Chasseur<\l><br>
+<tab><l="hts:\\language\guild_desce.hts">Archimage<\l><br>
+<tab><l="hts:\\language\guild_descf.hts">Barbare<\l><br>
+<tab><l="hts:\\language\guild_descg.hts">Druide<\l><br>
+<tab><l="hts:\\language\guild_desch.hts">Voleur<\l><br>
+<tab><l="hts:\\language\guild_desci.hts">Maître de l'acier<\l><br>
+<tab><l="hts:\\language\guild_descj.hts">Armurier<\l><br>
+<tab><l="hts:\\language\guild_desck.hts">Forgeron<\l><br>
+<tab><l="hts:\\language\guild_descl.hts">Sorcier<\l><br>
+<tab><l="hts:\\language\guild_descm.hts">Nécromancien<\l><br>
+<tab><l="hts:\\language\guild_descn.hts">Bandier<\l><br>
+}

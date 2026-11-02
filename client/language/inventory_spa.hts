@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>INVENTARIO<cl=A2A2A2><br><br>
+<tab>Las celdas en esta ventana muestran los objetos que el personaje lleva consigo. Los objetos colocados en estas celdas pueden perderse después de <l="hts:\\language\i_reincarn.hts">muertes<\l> un personaje con una probabilidad que depende de Su karma (cuanto mejor sea el karma, menor será la probabilidad de pérdida).<br>
+<tab>Las dos filas inferiores están diseñadas para almacenar cualquier objeto, incluidas las armas. La fila superior son cinco celdas especiales:<br>
+<tab><cl=FFFFFF>Dinero<cl=B0B0B0>.  Su dinero está en Táleros.<br>
+<tab><cl=FFFFFF>Torba<cl=B0B0B0>.  Celda para Torba. Los torbes tienen celdas adicionales para almacenar artículos.<br>
+<tab><cl=FFFFFF>2 llaves<cl=B0B0B0>.  Estas celdas pueden contener llaves (no más de dos) de habitaciones de hotel o de habitaciones en cerraduras.<br>
+<tab><cl=FFFFFF>Clave de la misión<cl=B0B0B0>.  Aquí se guarda la clave de la misión que has recibido.<br>
+<tab>Para poner cualquier objeto en el inventario, simplemente <l="hts:\\language\i_mainp.hts">arrastre<\l> en la celda correcta. El objeto debe coincidir con la celda para su propósito. Si no hay coincidencia, la celda se resalta en rojo cuando se intenta arrastrar. Si hay una coincidencia, la celda se resalta en verde.<br>
+<tab>Las armas y otros artículos de uso frecuente en el inventario tienen sentido "atribuirse" a <l="hts:\\language\hotkeys.hts">teclas de acceso rápido<\l>.<br>
+<tab>La fila promedio en el inventario - 5 celdas-son "eternas". Esto significa que las cosas colocadas en estas celdas no se pierden en la muerte, excepto el dinero y las bolsas. Si la celda con la cosa tiene un borde azul, significa que la cosa no se perderá en caso de muerte. Dependiendo del karma y la ubicación del personaje, no todas las celdas pueden estar activas. Con un karma muy malo, solo una celda de 5 está activa, con un karma bueno, todos están activos. Si el personaje está en el continente de Caronte, entonces es al revés: con el karma bueno, 1 celda está activa, y con el muy malo, todas las 5.<br>
+}

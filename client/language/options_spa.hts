@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>MENÚ PRINCIPAL DEL JUEGO<cl=A2A2A2><br><br>
+<tab>Selección del artículo <cl=FFFFFF>En el juego<cl=B0B0B0> le permite volver a la "Esfera".<br><br>
+<tab><cl=00FF00>Gráficos<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Resolución<cl=B0B0B0>. En este punto, puede elegir entre un conjunto de modos de video compatibles con Su tarjeta gráfica, la resolución de pantalla que necesita. Cuanto mayor sea la resolución que elija, más cualitativamente se verá el gráfico en la pantalla, pero más lento será la salida de la imagen. Por lo tanto, si no está satisfecho con la velocidad del juego, intente reducir la resolución. Al cambiar la resolución, se reiniciará el juego.<br>
+<tab><cl=FFFFFF>Profundidad de color<cl=B0B0B0>. Una mayor profundidad de color mejorará la calidad de la imagen gráfica, pero puede afectar la velocidad de salida de la imagen. Si no estás satisfecho con la velocidad del juego, intenta reducir la profundidad del color. Si se cambia, se reiniciará el juego. <br>
+<tab><cl=FFFFFF>Calidad de las sombras<cl=B0B0B0>. Otro parámetro que le permite cambiar la velocidad del juego. Puede elegir entre sombras de Baja, Media y alta calidad, o simplemente desactivar las sombras.<br>
+<tab><cl=FFFFFF>Hierba<cl=B0B0B0>. Si la salida de la imagen fuera de la ciudad se ralentiza, intente desactivar la imagen de la hierba. <br><br>
+<tab><cl=00FF00>Sonido<cl=B0B0B0>. En este punto, puede cambiar individualmente el volumen de reproducción <cl=FFFFFF>Música<cl=B0B0B0> y <cl=FFFFFF>Efectos de sonido<cl=B0B0B0> y también desactivar / activar <cl=B0B0B0>Mezcla de audio de hardware<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Gestión<cl=B0B0B0>. Este elemento le permitirá anular las teclas predeterminadas, así como activar / desactivar <cl=FFFFFF>Inversión del ratón<cl=B0B0B0>. En cualquier momento se puede devolver <cl=FFFFFF>Configuración predeterminada<cl=B0B0B0> haciendo clic en el elemento del menú del mismo nombre.<br><br>
+<tab><cl=00FF00> Interfaz<cl=B0B0B0>. Con este elemento se puede desactivar / activar la salida <cl=FFFFFF>Nombres sobre las cabezas<cl=B0B0B0> personajes; activar / desactivar <cl=FFFFFF>Apertura automática de puertas<cl=B0B0B0> cuando se Acerca; desactivar / activar <cl=FFFFFF>Sonidos de interfaz<cl=B0B0B0> y <cl=FFFFFF>Superposición automática de ventanas<cl=B0B0B0>. Esto último significa que si se cierran varias ventanas en la pantalla, solo la Última permanecerá visible, y las otras "aparecerán" cuando se cierre. Tema <cl=FFFFFF>Ventanas predeterminadas<cl=B0B0B0> restaura la posición mutua de las ventanas en la pantalla.<br><br>
+<tab>Tema <cl=FFFFFF>Autores<cl=B0B0B0> mostrará una lista de los que hicieron la "Esfera"para Usted.<br><br>
+<tab>Para salir del juego, selecciona <cl=FFFFFF>Salida<cl=B0B0B0>.<br><br>
+}

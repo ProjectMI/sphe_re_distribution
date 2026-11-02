@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Conductor:<cl=00FF00> Maybe you'll take this old sword? You'll never guess what awaits you around the next corner.<br><br>
+
+<cl=FFFFFF>Use "I" to bring up the inventory window.<br>
+Turn on the cursor with the right mouse button.<br>
+Drag an item to the inventory window with the mouse.<br>
+Use Shift + left mouse button to get the details of the item.<br>
+Click on the item with the left mouse button to "take" it with your hand.<br>
+Use the right mouse button to exit cursor mode.<br><br>
+<l="hts:\\language\i_mainp.hts">Learn more about management...<\l><br>
+<l="hts:\\language\inventory.hts">More about inventory...<\l><br>
+<l="hts:\\language\helpindex.hts">Full help for the game (F1)<\l><br>
+}

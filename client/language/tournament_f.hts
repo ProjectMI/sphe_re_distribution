@@ -1,0 +1,22 @@
+hypertext
+{
+<tab><cl=F0F010>TOURNOIS<cl=A2A2A2><br><br>
+<tab>Le tournoi est une excellente occasion de tester votre force dans un duel avec un adversaire digne.
+Pour participer au tournoi, vous devez demander à l'Organisateur de participer.
+Les organisateurs se tiennent près des principales villes d'Hyperion, à côté du téléport du tournoi.
+Après l'inscription, il reste à attendre l'annonce du début du tournoi, cela sera écrit dans le chat.
+Tous les participants doivent se déplacer dans l'arène en utilisant le téléport du tournoi près de l'Organisateur.
+
+Notez que pendant le tournoi, tous ceux qui attendent leur tour ne peuvent pas courir dans l'arène ou aider d'autres joueurs.
+Le tournoi peut être des types suivants:<br>
+Duel: les joueurs s'affrontent en tête - à-tête<br>
+Le gagnant est le joueur qui a survécu ou qui a plus de santé.
+Si vous vous échappez de l'arène-la défaite est comptée.<br>
+Certains mantras et compétences permettant de gagner instantanément sont interdits dans le tournoi.
+En outre, les choses de serrure peuvent être portées, mais elles ne donneront pas d'effet.<br><br>
+Roi de la montagne: tout le monde se Bat<br><br>
+Le gagnant recevra le prix indiqué sur la fenêtre d'inscription.<br><br>
+
+<l="hts:\\language\tournament_gvg.hts">Groupe<\l>: les joueurs sont divisés en deux groupes qui s'affrontent.<br>
+<br>
+}

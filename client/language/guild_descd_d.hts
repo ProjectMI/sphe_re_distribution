@@ -1,0 +1,99 @@
+hypertext
+{
+Gild des Jägers<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +40<br>
+<tab>+82 Magische Verteidigung<br>
+<tab>Energie: -6<br>
+<tab>Treffsicherheit: +6<br>
+<tab>Ausdauer: -4<br>
+<tab>Elemente: -4<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +80, 1 Stunde lang, alle 4 Stunden<br>
+<tab>Doppelausleger: 10 Minuten, alle 10 Stunden<br>
+<tab>Wanderer: 20 Minuten, alle 6 Stunden<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +74<br>
+<tab>+150 Magische Verteidigung<br>
+<tab>Energie: -10<br>
+<tab>Treffsicherheit: +10<br>
+<tab>Ausdauer: -6<br>
+<tab>Elemente: -6<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +120, 1 Stunde lang, alle 4 Stunden<br>
+<tab>Doppelausleger: 10 Minuten, alle 8 Stunden<br>
+<tab>Wanderer: 30 Minuten, alle 6 Stunden<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +180<br>
+<tab>+248 Magische Verteidigung<br>
+<tab>Energie: -14<br>
+<tab>Treffsicherheit: +14<br>
+<tab>Ausdauer: -20<br>
+<tab>Elemente: -10<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +250, 1 Stunde lang, alle 3 Stunden<br>
+<tab>Doppelausleger: 15 Minuten, alle 7 Stunden<br>
+<tab>Wanderer: 35 Minuten, alle 5 Stunden<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +220<br>
+<tab>+412 Magische Verteidigung<br>
+<tab>Energie: -18<br>
+<tab>Treffsicherheit: +18<br>
+<tab>Ausdauer: -28<br>
+<tab>Elemente: -15<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +420, 1 Stunde lang, alle 3 Stunden<br>
+<tab>Doppelausleger: 15 Minuten, alle 7 Stunden<br>
+<tab>Wanderer: 40 Minuten, alle 4 Stunden<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +340<br>
+<tab>+653 Magische Verteidigung<br>
+<tab>Energie: -24<br>
+<tab>Treffsicherheit: +24<br>
+<tab>Ausdauer: -42<br>
+<tab>Elemente: -20<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +750, 1 Stunde lang, alle 2 Stunden<br>
+<tab>Doppelausleger: 15 Minuten, alle 7 Stunden<br>
+<tab>Wanderer: 35 Minuten, alle 3 Stunden<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +480<br>
+<tab>+960 Magische Verteidigung<br>
+<tab>Energie: -48<br>
+<tab>Treffsicherheit: +48<br>
+<tab>Ausdauer: -60<br>
+<tab>Elemente: -24<br>
+<tab><br>
+<tab>Belkin Eye: körperlicher Angriff +1200, für 40 Minuten, alle 2 Stunden<br>
+<tab>Doppelausleger: 30 Minuten, alle 5 Stunden<br>
+<tab>Wanderer: 30 Minuten, alle 2 Stunden<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildd.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descc.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desce.hts">Nächste Gilde<\l><br>
+}

@@ -1,0 +1,6 @@
+hypertext
+{
+<tab><cl=F0F010>VERKAUF<cl=A2A2A2><br><br>
+Mit diesem Fenster können Sie Waren verkaufen. Um einen Artikel zum Verkauf anzubieten, ziehen Sie einen Artikel aus Ihrem Artikel in eine beliebige freie Zelle <l="hts:\\language\inventory.hts"> inventar<\l> oder aus <l="hts:\\language\puppet.hts">charakterfenster<\l>. In der zweiten Spalte können Sie den Preis für das Produkt festlegen. Bis Sie den Preis festgelegt haben, sehen andere Charaktere Ihren Artikel in Ihrem eigenen <l="hts:\\language\trade.hts">kauffenster<\l> aber sie können es nicht kaufen. Sie können ihre Preisoptionen anbieten, die Sie in der dritten Spalte sehen werden. Sie können den angebotenen Preis mit den Schaltflächen in der vierten Spalte akzeptieren oder ablehnen.<br>
+<tab>Gegenstände, die zum Verkauf platziert wurden, werden in diesem Fenster gespeichert, bis du tot bist oder das Spiel verlässt. Wenn ein Artikel zum Verkauf angeboten wird und Sie einen Preis festgelegt haben, kann jeder Charakter, der zu Ihnen kommt, es jederzeit kaufen.<br>
+}

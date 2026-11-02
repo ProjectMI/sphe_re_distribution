@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>CONTAINER<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>Container<cl=B0B0B0> es kann eine Torba, eine Tasche, eine Truhe geben - dh ein beliebiger Behälter, in den andere Objekte platziert werden können. Der Container wird durch Klicken mit der linken Maustaste geöffnet und geschlossen. Jeder Behälter hat sein eigenes Gewicht sowie das höchstmögliche Gewicht (zusammen mit den darin befindlichen Dingen). Sie können diese Gewichte herausfinden, wenn <l="hts:\\language\i_mainp.hts">"sehen"<\l> auf den Container. Sie können ein Objekt nicht in einen Container legen, wenn sein maximales Gewicht überschritten wird.<br>Einige Behälter haben spezielle Zellen für bestimmte Gegenstände - zum Beispiel dienen die letzten Zellen in den Truhen von Hotelzimmer als alchemistische Zutaten und magische Pulver.<br>
+}

@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>CHARAKTERFENSTER<cl=A2A2A2><br><br>
+<tab>Die Zellen in diesem Fenster zeigen Dinge an, die direkt auf deinen Charakter gelegt werden. Gegenstände, die nach diesen Zellen platziert wurden <l="hts:\\language\i_reincarn.hts">tod<\l> der Charakter ist praktisch nicht verloren (mit sehr geringer Wahrscheinlichkeit verloren).<br>
+<tab>Die folgenden Objekte können in Zellen platziert werden:<br>
+<tab><cl=FFFFFF>Helm<br>
+<tab>Amulett<br>
+<tab>Schild<br>
+<tab>Kettenhemd<br>
+<tab>Handschuhe<br>
+<tab>2 armbänder<br>
+<tab>4 ringe<br>
+<tab>Hose<br>
+<tab>Schuhe<br><cl=B0B0B0>
+<tab>Diese Dinge können sich verbessern <l="hts:\\language\i_charact.hts"> eigenschaften <\l> Deinen Charakter.<br>
+<tab>Die folgenden Objekte können in einer vertikalen Reihe rechts platziert werden:<br>
+<tab><cl=FFFFFF>Karten-Buch<cl=B0B0B0> - ermöglicht das Speichern von Karten.<br>
+<tab><cl=FFFFFF>Protokoll<cl=B0B0B0> - ermöglicht es Ihnen, wichtige Ereignisse aufzuzeichnen.<br>
+<tab><cl=FFFFFF>Rezeptbuch<cl=B0B0B0> - ermöglicht es Ihnen, alchemistische Rezepte und Manuskripte zu speichern.<br>
+<tab><cl=FFFFFF>Das Buch der Mantras<cl=B0B0B0> - ermöglicht das "Auswendiglernen" von Mantras.<br>
+<tab><cl=FFFFFF>Tintenfass<cl=B0B0B0> - ermöglicht es Ihnen, Journaleinträge zu machen und Markierungen auf Karten zu zeichnen.<br><br>
+<tab>Die vertikale Reihe von Zellen auf der linken Seite kann mit Objekten mit außergewöhnlichen Eigenschaften gefüllt werden (derzeit reserviert).<br>
+<tab>Um ein Objekt in dieses Fenster zu setzen, einfach <l="hts:\\language\i_mainp.hts">ziehen<\l> es in die gewünschte Zelle. Das Objekt muss der Zelle in seinem beabsichtigten Zweck entsprechen. Wenn keine Übereinstimmung vorhanden ist, wird die Zelle beim Ziehen rot hervorgehoben. Wenn eine Übereinstimmung vorliegt, wird die Zelle grün hervorgehoben.<br>
+}

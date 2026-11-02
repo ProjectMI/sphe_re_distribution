@@ -1,0 +1,57 @@
+hypertext
+{
+Gild le forgeron<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: +82<br>
+<tab>Attaque magique: + 82<br>
+<tab>Toutes les caractéristiques: -6<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: +150<br>
+<tab>Attaque magique: +150<br>
+<tab>Tous les caractères: -20<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: +248<br>
+<tab>Attaque magique: + 248<br>
+<tab>Tous les charatéristiques: -27<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: +412<br>
+<tab>Attaque magique: + 412<br>
+<tab>Tous les caractères: -43<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: + 653<br>
+<tab>Attaque magique: + 653<br>
+<tab>Tous les charatéristiques: -52<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Attaque physique: +960<br>
+<tab>Attaque magique: +960<br>
+<tab>Tous les charatéristiques: -68<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildk.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descj.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descl.hts">Prochaine guilde<\l><br>
+}

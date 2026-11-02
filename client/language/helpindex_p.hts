@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=FFFF00>Conteúdo<cl=FFFFFF><br><br>
+<tab><l="hts:\\language\i_starting.hts">Por onde começar?<\l><br><br>
+<tab><l="hts:\\language\i_charact.hts">Seu personagem<\l><br><br>
+<tab><l="hts:\\language\i_interface.hts">Interface<\l><br><br>
+<tab><l="hts:\\language\guilds.hts">Informações sobre todas as guildas<\l><br><br>
+<tab><l="hts:\\language\authors.hts">Sobre os autores<\l><br><br><br>
+
+<tab><l="http:\\sphere.nikitaonline.ru">Site do jogo<\l><br><br>
+<tab><l="http://help.gamexp.ru/">Escreva para o suporte<\l><br>
+<br><br><sp>  <cl=FFFFFF>(c) 2003-2012 Nikita.<cl=B0B0B0><br>
+}

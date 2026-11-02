@@ -1,0 +1,88 @@
+hypertext
+{
+Gild des Nekromanten<br>
+<br>
+
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Prana: +168<br>
+<tab>Physischer Schutz: +65<br>
+<tab>+65 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -6<br>
+<tab>Boden: +10<br>
+<tab>Luft und Feuer: -6<br>
+<tab>+45 Magischer Angriff<br>
+<br>
+
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Prana: +305<br>
+<tab>Physischer Schutz: +118<br>
+<tab>+120 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -20<br>
+<tab>Boden: +14<br>
+<tab>Luft und Feuer: -14<br>
+<tab>+88 Magischer Angriff<br>
+<br>
+
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>Prana: +572<br>
+<tab>Physischer Schutz: +182<br>
+<tab>+198 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -28<br>
+<tab>Land: +26<br>
+<tab>Luft und Feuer: -22<br>
+<tab>+148 Magischer Angriff<br>
+<br>
+
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>Prana: +918<br>
+<tab>Physischer Schutz: +246<br>
+<tab>+350 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -42<br>
+<tab>Land: +48<br>
+<tab>Luft und Feuer: -58<br>
+<tab>+251 Magischer Angriff<br>
+<br>
+
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>Prana: +1680<br>
+<tab>Physischer Schutz: +312<br>
+<tab>+490 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -60<br>
+<tab>Land: +72<br>
+<tab>Luft und Feuer: -102<br>
+<tab>+520 Magischer Angriff<br>
+<br>
+
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Prana: +2240<br>
+<tab>Physischer Schutz: +398<br>
+<tab>+889 Magische Verteidigung<br>
+<tab>Stärke, Genauigkeit und Ausdauer: -96<br>
+<tab>Land: +112<br>
+<tab>Luft und Feuer: -144<br>
+<tab>+988 Magischer Angriff<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildm.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descl.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descn.hts">Nächste Gilde<\l><br>
+}

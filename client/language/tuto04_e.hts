@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=F0F010>Conductor: Did the<cl=00FF00> enemy beat you up? This merchant will gladly sell you a health powder.<br><br>
+
+<cl=FFFFFF>Switch to cursor mode (right mouse button).<br>
+Click on the seller with the cursor to start trading.<br>
+Buy the desired item by clicking on the check mark.<br><br>
+<l="hts:\\language\trade.hts">Learn more about trading...<\l><br>
+<l="hts:\\language\helpindex.hts">Full help for the game (F1)<\l><br>
+}

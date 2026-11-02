@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>VERKÄUFER<br>
+<br>
+<cl=FFFFFF>Beim Verkäufer können Sie verschiedene Gegenstände für Taler kaufen und verkaufen (manche Dinge können nicht verkauft werden).<br>
+Um einen Gegenstand zu kaufen, klicken Sie auf das Häkchen rechts neben dem Gegenstand und es wird in Ihrem Inventar (I) oder auf der Puppe (P) angezeigt. Wenn Taler fehlen, wird der Gegenstand rot hervorgehoben.<br>
+Um einen Artikel zu verkaufen, ziehen Sie ihn auf eine leere Zelle im Fenster Verkauf. Wenn der Artikel verkauft werden kann, wird der vom Verkäufer angebotene Preis angezeigt.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Vollständige Hilfe zum Spiel (F1)<\l><br>
+}

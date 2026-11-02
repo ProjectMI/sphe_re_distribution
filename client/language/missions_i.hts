@@ -1,0 +1,14 @@
+hypertext
+{
+<tab><cl=F0F010>OTTENERE UNA MISSIONE<cl=A2A2A2><br><br>
+<tab>Nella finestra di acquisizione della chiave di missione, Puoi scegliere il tipo di missione, la sua posizione e il numero di partecipanti. Si distinguono i seguenti tipi di missioni:<br>
+<tab><cl=FFFFFF>Missione per il titolo<cl=B0B0B0>. Al completamento con successo, riceverai i francobolli del titolo.<br>
+<tab><cl=FFFFFF>Missione per laurea<cl=B0B0B0>. Al completamento con successo, otterrai francobolli di laurea.<br>
+<tab><cl=FFFFFF>Missione per soldi<cl=B0B0B0>. Al completamento con successo, riceverai una ricompensa in denaro.<br>
+<tab><cl=FFFFFF>Missione per Karma<cl=B0B0B0>. Se completato con successo, il tuo karma migliorerà.<br><br>
+<tab>La posizione della missione può essere "vicina" o su uno dei continenti. Quando prendi una missione situata "nelle vicinanze", sei sicuro di trovarla vicino a dove hai ricevuto la chiave della missione. Tuttavia, in questo caso, la tua ricompensa sarà 3-4 volte inferiore.<br>
+<tab>Il numero di partecipanti alla missione può variare da 1 a 4. La complessità della missione aumenta proporzionalmente. Al termine della missione, tutti coloro che si trovano attualmente nell'area dell'obiettivo raggiunto (ad esempio, in un dungeon) ricevono una ricompensa. La missione intrapresa dovrebbe ricevere tutti i partecipanti. Per fare ciò, la chiave della missione è presa da un partecipante e poi <cl=FFFFFF>applica<cl=B0B0B0> lui sul resto. La chiave viene duplicata un numero illimitato di volte. Puoi passare cinque missioni per due. La ricompensa sarà divisa per il numero appropriato di partecipanti.<br>
+<tab>Considera che la chiave della missione brucia in circa un giorno nel tempo della sfera (2 ore nel tempo terrestre).<br>
+<tab>Non sarai in grado di prendere la chiave della missione se ne hai già una. Inoltre, non sarai in grado di sbarazzarti della chiave di missione ricevuta fino alla scadenza.<br>
+<tab>La descrizione della missione può essere letta se <cl=FFFFFF>Visualizza<cl=B0B0B0> sulla chiave della missione.<br>
+}

@@ -1,0 +1,100 @@
+hypertext
+{
+Gild Bandiera<br>
+<br>
+
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: + 98<br>
+<tab>Protection physique: + 76<br>
+<tab>Protection magique: +112<br>
+<tab>Force et précision: -6<br>
+<tab>Agilité: -4<br>
+<tab>Endurance: + 4<br>
+<tab>Terre et eau: -4<br>
+<tab>Air et feu: -6<br>
+<tab>Attaque magique: -46<br>
+<br>
+
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: +225<br>
+<tab>Protection physique: +196<br>
+<tab>Protection magique: +218<br>
+<tab>Force et précision: -20<br>
+<tab>Agilité: -6<br>
+<tab>Endurance: + 6<br>
+<tab>Terre et eau: -6<br>
+<tab>Air et feu: -14<br>
+<tab>Attaque magique: -98<br>
+<br>
+
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: + 372<br>
+<tab>Protection physique: +372<br>
+<tab>Protection magique: +374<br>
+<tab>Force et précision: -28<br>
+<tab>Agilité: -10<br>
+<tab>Endurance: +10<br>
+<tab>Terre et eau: -10<br>
+<tab>Air et feu: -22<br>
+<tab>Attaque magique: -222<br>
+<br>
+
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: + 618<br>
+<tab>Protection physique: + 558<br>
+<tab>Protection magique: + 788<br>
+<tab>Force et précision: -42<br>
+<tab>Agilité: -15<br>
+<tab>Endurance: +15<br>
+<tab>Terre et eau: -15<br>
+<tab>Air et feu: -42<br>
+<tab>Attaque magique: -468<br>
+<br>
+
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: +980<br>
+<tab>Protection physique: + 734<br>
+<tab>Protection magique: +1002<br>
+<tab>Force et précision: -60<br>
+<tab>Agilité: -20<br>
+<tab>Endurance: + 20<br>
+<tab>Terre et eau: -20<br>
+<tab>Air et feu: -60<br>
+<tab>Attaque magique: -926<br>
+<br>
+
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Santé: +1440<br>
+<tab>Protection physique: +1024<br>
+<tab>Protection magique: +1420<br>
+<tab>Force et précision: -96<br>
+<tab>Agilité: -24<br>
+<tab>Endurance: + 24<br>
+<tab>Terre et eau: -24<br>
+<tab>Air et feu: -86<br>
+<tab>Attaque magique: -1282<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildn.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descm.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desca.hts">Prochaine guilde<\l><br>
+}

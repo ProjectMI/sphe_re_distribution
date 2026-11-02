@@ -1,0 +1,69 @@
+hypertext
+{
+Gild des Zauberers<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +98<br>
+<tab>+65 Magische Verteidigung<br>
+<tab>Fertigkeiten: -4<br>
+<tab>Elemente: -6<br>
+<tab>+82 Magischer Angriff<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +225<br>
+<tab>+120 Magische Verteidigung<br>
+<tab>Fertigkeiten: -6<br>
+<tab>Elemente: -14<br>
+<tab>+150 Magischer Angriff<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +372<br>
+<tab>+198 Magische Verteidigung<br>
+<tab>Fertigkeiten: -10<br>
+<tab>Elemente: -22<br>
+<tab>+248 Magischer Angriff<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +618<br>
+<tab>+350 Magische Verteidigung<br>
+<tab>Fertigkeiten: -15<br>
+<tab>Elemente: -42<br>
+<tab>+412 Magischer Angriff<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +980 <br>
+<tab>+490 Magische Verteidigung<br>
+<tab>Fertigkeiten: -20<br>
+<tab>Elemente: -60<br>
+<tab>+653 Magischer Angriff<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +1440<br>
+<tab>+889 Magische Verteidigung<br>
+<tab>Fertigkeiten: -24<br>
+<tab>Elemente: -86<br>
+<tab>+960 Magischer Angriff<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildl.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_desck.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descm.hts">Nächste Gilde<\l><br>
+}

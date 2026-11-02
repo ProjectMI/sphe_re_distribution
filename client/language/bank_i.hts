@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>Banca<cl=A2A2A2><br><br>
+<tab>Questa finestra contiene gli oggetti memorizzati nella banca e accessibili ai personaggi dell'intero account. La banca non può essere conservata <l="hts:\\language\container.hts">contenitori<\l>.<br>
+<tab>La casella nella parte inferiore della finestra mostra lo stato corrente del conto bancario.<br>
+<tab>Facendo clic sul pulsante "Cambia password", è possibile impostare o modificare la password per aprire una banca per una protezione aggiuntiva.<br>
+<tab>Quando si pagano acquisti di grandi dimensioni (del valore di oltre$ 500.000), è possibile trasferire l'importo mancante per il pagamento da un conto bancario. In questo caso, viene rimossa una commissione pari al 5% del prezzo di acquisto.<br>
+<tab>Per mettere qualsiasi oggetto in una banca, semplicemente <l="hts:\\language\i_mainp.hts">trascina e rilascia<\l> nella cella desiderata. L'oggetto deve corrispondere alla cella per il suo scopo. Se non c'è corrispondenza, la cella viene evidenziata in rosso quando si tenta di trascinare. Se c'è una corrispondenza, la cella viene evidenziata in verde.<br>
+}

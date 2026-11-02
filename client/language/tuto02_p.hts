@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Condutor:<cl=00FF00> Porque não pegas nessa espada velha? Nunca se sabe o que te espera na próxima curva.<br><br>
+
+<cl=FFFFFF>Use " I " para chamar a janela de inventário.<br>
+Ative o cursor com o botão direito do mouse.<br>
+Arraste um item para a janela do inventário com o mouse.<br>
+Use Shift + botão esquerdo do mouse para obter informações sobre o item.<br>
+Clique com o botão esquerdo do mouse em um item para pegá-lo.<br>
+Use o botão direito do mouse para sair do modo cursor.<br><br>
+<l="hts:\\language\i_mainp.hts">Mais sobre gestão...<\l><br>
+<l="hts:\\language\inventory.hts">Mais sobre o inventário...<\l><br>
+<l="hts:\\language\helpindex.hts">Ajuda completa do jogo (F1)<\l><br>
+}

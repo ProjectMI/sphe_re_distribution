@@ -1,0 +1,10 @@
+hypertext
+{
+<tab><cl=F0F010>TORNEOS<cl=A2A2A2><br><br>
+<tab>
+Puede registrarse para participar en el grupo <l="hts:\\language\tournament.hts">torneo <\l>.
+Tenga en cuenta que si los equipos no son iguales, puede ser transferido a otro equipo al comienzo del torneo.
+En la ventana de registro, su nombre tiene el color del equipo al que se unió,
+y el resto de los datos tienen el color del comando en el que eventualmente caerás,
+a menos que alguien más se una.
+}

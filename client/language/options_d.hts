@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>HAUPTMENÜ DES SPIELS<cl=A2A2A2><br><br>
+<tab>Auswählen eines Elements <cl=FFFFFF>Ins Spiel<cl=B0B0B0> kehrt zur "Kugel" zurück.<br><br>
+<tab><cl=00FF00>Grafiken<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Auflösung<cl=B0B0B0>. Hier können Sie die gewünschte Bildschirmauflösung aus einer Reihe von von Ihrer Grafikkarte unterstützten Videomodi auswählen. Je höher die Auflösung Sie wählen, desto besser werden die Grafiken auf dem Bildschirm aussehen, aber desto langsamer wird die Bildausgabe. Wenn Sie also mit der Geschwindigkeit des Spiels nicht zufrieden sind, versuchen Sie, die Auflösung zu reduzieren. Wenn Sie die Auflösung ändern, wird das Spiel neu gestartet.<br>
+<tab><cl=FFFFFF>Farbtiefe<cl=B0B0B0>. Eine größere Farbtiefe verbessert die Bildqualität, kann jedoch die Ausgabegeschwindigkeit beeinträchtigen. Wenn Sie mit der Geschwindigkeit des Spiels nicht zufrieden sind, versuchen Sie, die Farbtiefe zu reduzieren. Wenn Sie es ändern, wird das Spiel neu gestartet. <br>
+<tab><cl=FFFFFF>Schatten-Qualität<cl=B0B0B0>. Ein weiterer Parameter, mit dem Sie die Geschwindigkeit des Spiels ändern können. Sie können zwischen niedrigen, mittleren und hochwertigen Schatten wählen, oder Sie können die Schatten einfach deaktivieren.<br>
+<tab><cl=FFFFFF>Gras<cl=B0B0B0>. Wenn sich die Ausgabe des Bildes außerhalb der Stadt verlangsamt, deaktivieren Sie das Grasbild. <br><br>
+<tab><cl=00FF00>Ton<cl=B0B0B0>. In diesem Schritt können Sie die Wiedergabelautstärke einzeln ändern <cl=FFFFFF>Musik<cl=B0B0B0> und <cl=FFFFFF>Sound-Effekte<cl=B0B0B0> und auch ein-/ausschalten <cl=B0B0B0>Hardware-Audiomischung<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Verwaltung<cl=B0B0B0>. Mit dieser Option können Sie die Standardtasten außer Kraft setzen und ein-/ausschalten <cl=FFFFFF>Mausumkehrung<cl=B0B0B0>. Sie können es jederzeit zurückgeben <cl=FFFFFF>Standardeinstellungen<cl=B0B0B0> Durch Anklicken des gleichnamigen Menüpunkts.<br><br>
+<tab><cl=00FF00> Schnittstelle<cl=B0B0B0>. Mit diesem Punkt können Sie die Ausgabe deaktivieren/aktivieren <cl=FFFFFF>Namen über den Köpfen<cl=B0B0B0> zeichen; aktivieren/deaktivieren <cl=FFFFFF>Automatisches Öffnen der Türen<cl=B0B0B0> wenn Sie sich nähern; ein-/ausschalten <cl=FFFFFF>Interface-Sounds<cl=B0B0B0> und <cl=FFFFFF>Fenster automatisch überlappen<cl=B0B0B0>. Letzteres bedeutet, dass, wenn sich mehrere Fenster auf dem Bildschirm überlappen, nur das letzte sichtbar bleibt und der Rest beim Schließen "sichtbar" wird. Artikel <cl=FFFFFF>Standardfenster<cl=B0B0B0> stellt die gegenseitige Anordnung der Fenster auf dem Bildschirm wieder her.<br><br>
+<tab>Artikel <cl=FFFFFF>Autoren<cl=B0B0B0> zeigt eine Liste derer an, die die "Kugel" für Sie gemacht haben.<br><br>
+<tab>Um das Spiel zu beenden, wählen Sie <cl=FFFFFF>Ausgang<cl=B0B0B0>.<br><br>
+}

@@ -1,0 +1,63 @@
+hypertext
+{
+Gild Bárbara<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grado mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +10<br>
+<tab>Agilidad: -4<br>
+<tab>Terreno: +2<br>
+<tab>Fuego: -12<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grado mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +30<br>
+<tab>Agilidad: -6<br>
+<tab>Terreno: + 6<br>
+<tab>Fuego: -24 <br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grado mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +44<br>
+<tab>Agilidad: -12<br>
+<tab>Terreno: +20<br>
+<tab>Fuego: -36<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grado mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +65<br>
+<tab>Agilidad: -30<br>
+<tab>Terreno: +28<br>
+<tab>Fuego: -48<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grado mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +72<br>
+<tab>Agilidad: -47<br>
+<tab>Terreno: +42<br>
+<tab>Fuego: -56<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grado mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Fuerza: +96<br>
+<tab>Agilidad: -68<br>
+<tab>Terreno: +50<br>
+<tab>Fuego: -70<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildf.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_desce.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descg.hts">Siguiente gremio<\l><br>
+}

@@ -1,0 +1,81 @@
+hypertext
+{
+<cl=FFFF00>Gild Assassin<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grau mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 10<br>
+<tab>Resistência: -12<br>
+<tab>Elementos: -3<br>
+<br>
+<tab>Invisibilidade:<br>
+<tab>Crítico: dano 500<br>
+<tab>Veneno: dano 120<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grau mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 30<br>
+<tab>Resistência: -24<br>
+<tab>Elementos: -6<br>
+<br>
+<tab>Invisibilidade: <br>
+<tab>Crítico: dano 750<br>
+<tab>Veneno: dano 200<br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grau mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 44<br>
+<tab>Resistência: -36<br>
+<tab>Elementos: -10<br>
+<br>
+<tab>Invisibilidade: <br>
+<tab>Crítico: dano 1230<br>
+<tab>Veneno: dano 350 <br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grau mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 65<br>
+<tab>Resistência: -46<br>
+<tab>Elementos: -14<br>
+<br>
+<tab>Invisibilidade: <br>
+<tab>Crítico: dano 1620<br>
+<tab>Veneno: dano 560<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grau mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 72<br>
+<tab>Resistência: -62<br>
+<tab>Elementos: -21<br>
+<br>
+<tab>Invisibilidade: <br>
+<tab>Crítico: dano 2150<br>
+<tab>Veneno: dano 820<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grau mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Agilidade: + 96<br>
+<tab>Resistência: -72<br>
+<tab>Elementos: -25<br>
+<br>
+<tab>Invisibilidade: <br>
+<tab>Crítico: dano 2600<br>
+<tab>Veneno: dano 1150, a uma distância de 7 metros., <br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guilda.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descn.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descb.hts">Próxima guilda<\l><br>
+}

@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>BANK<cl=A2A2A2><br><br>
+<tab>This window contains objects that are stored in the bank and accessible to the characters of the entire account. <l="hts:\\language\container.hts">Containers cannot be stored in a jar<\l>.<br>
+<tab>The field at the bottom of the window displays the current status of the bank account.<br>
+<tab>By clicking on the "Change password" button, you can set or change the password for opening a bank for additional protection.<br>
+<tab>When paying for large purchases (worth more than $ 500,000), it is possible to transfer the missing amount for payment from a bank account. At the same time, a commission of 5% of the purchase price is charged.<br>
+<tab>To place an object in the bank, simply <l="hts:\\language\i_mainp.hts">drag<\l> it to the desired cell. The object must correspond to the cell according to its purpose. If there is no match, the cell is highlighted in red when dragging is attempted. If there is a match, the cell is highlighted in green.<br>
+}

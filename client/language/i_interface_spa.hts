@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>INTERFAZ<cl=A2A2A2><br><br>
+<tab><l="hts:\\language\i_mainp.hts">Gestión<\l><br><br>
+<tab><l="hts:\\language\options.hts">Menú de configuración del juego<\l><br><br>
+<tab><l="hts:\\language\constwin.hts">Paneles del sistema<\l><br><br>
+<tab><l="hts:\\language\statinfo.hts">Ventana de estadísticas<\l><br><br>
+<tab><l="hts:\\language\puppet.hts">Ventana de personaje<\l><br><br>
+<tab><l="hts:\\language\inventory.hts">Inventario<\l><br><br>
+<tab><l="hts:\\language\chat.hts">Chat<\l><br><br>
+<tab><l="hts:\\language\hotkeys.hts">Teclas de acceso rápido<\l><br><br>
+<tab><l="hts:\\language\clan.hts">Ventana del clan<\l><br><br>
+<tab><l="hts:\\language\ally.hts">Ventana de alianzas y guerras<\l><br><br>
+<tab><l="hts:\\language\group.hts">Ventana de grupo<\l><br><br>
+<tab><l="hts:\\language\trade.hts">Ventana de comercio (compra)<\l><br><br>
+<tab><l="hts:\\language\tradechar.hts">Ventana de comercio (venta)<\l><br><br>
+<tab><l="hts:\\language\missions.hts">Ventana de Recepción de la misión<\l><br><br>
+}

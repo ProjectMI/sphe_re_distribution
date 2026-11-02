@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>Gruppo<cl=A2A2A2><br><br>
+<tab>La finestra del gruppo viene richiamata dal tasto " G "(predefinito) o dal pulsante" clan " in <l="hts:\\language\constwin.hts">Pannello di sistema destro.<\l><br>
+<tab>Se non fai parte di un gruppo, vedrai <cl=FFFFFF>finestra Crea gruppo.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Creazione di un gruppo<cl=A2A2A2><br>
+<tab>Selezionando la voce <cl=FFFFFF>"crea un gruppo"<cl=B0B0B0> . Diventi automaticamente <cl=FFFFFF>Capo<cl=B0B0B0> in un nuovo gruppo. <cl=FF0000>  <br>
+<tab>Dopo aver selezionato un elemento <cl=FFFFFF>"entra nel gruppo"<cl=B0B0B0> l'iscrizione corrispondente è "incollata" al cursore. Dopodiché, devi fare clic con il pulsante sinistro del mouse su <cl=FFFFFF>capo del gruppo<cl=B0B0B0>. Riceve la tua richiesta di adesione al gruppo e decide se accettare o meno. Una volta accettato, diventi un membro ordinario del gruppo.<br>
+<cl=FFFFFF>Capo del gruppo<cl=B0B0B0> può rimuovere qualsiasi membro del gruppo e sciogliere il gruppo. Allo scioglimento del gruppo, il membro diventa il capo, attualmente in cima alla lista. <cl=FFFFFF>Il numero massimo di membri del gruppo è 5.<cl=B0B0B0><br>
+<br><tab><cl=00FF00>Ottenere titoli e gradi in un gruppo<cl=A2A2A2><br>
+L'esperienza ottenuta per la distruzione dei mostri è divisa tra tutti i membri del gruppo che si trovano a una distanza non superiore a 50 metri, in proporzione al loro livello. Per aver distrutto un mostro, il gruppo guadagna più esperienza di un singolo personaggio, con più membri del gruppo.<br>
+}

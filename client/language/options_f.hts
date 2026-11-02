@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>MENU PRINCIPAL DU JEU<cl=A2A2A2><br><br>
+<tab>Sélection d'un élément <cl=FFFFFF>Dans le jeu<cl=B0B0B0> permet de revenir à la "Sphère".<br><br>
+<tab><cl=00FF00>Graphiques<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Résolution<cl=B0B0B0>. Dans ce paragraphe, vous pouvez choisir parmi un ensemble de modes vidéo pris en charge par Votre carte vidéo la résolution d'écran souhaitée. Plus vous choisissez de résolution, plus les graphiques à l'écran seront beaux, mais plus la sortie de l'image sera lente. Donc, si vous n'êtes pas satisfait de la vitesse du jeu, essayez de réduire la résolution. Si vous modifiez la résolution, le jeu redémarre.<br>
+<tab><cl=FFFFFF>Profondeur de couleur<cl=B0B0B0>. Une plus grande profondeur de couleur améliorera la qualité de l'image graphique, mais peut affecter la vitesse de sortie de l'image. Si vous n'êtes pas satisfait de la vitesse du jeu, essayez de réduire la profondeur des couleurs. Si vous le modifiez, le jeu sera redémarré. <br>
+<tab><cl=FFFFFF>Qualité des ombres<cl=B0B0B0>. Un autre paramètre qui vous permet de changer la vitesse du jeu. Vous pouvez choisir parmi les ombres de Faible, Moyenne et Haute qualité, ou tout simplement désactiver les ombres.<br>
+<tab><cl=FFFFFF>Herbe<cl=B0B0B0>. Si la sortie de l'image en dehors de la ville ralentit, essayez de désactiver l'image de l'herbe. <br><br>
+<tab><cl=00FF00>Son<cl=B0B0B0>. Dans ce paragraphe, vous pouvez modifier individuellement le volume de lecture <cl=FFFFFF>Musique<cl=B0B0B0> et <cl=FFFFFF>Effets sonores<cl=B0B0B0> et aussi éteindre/allumer <cl=B0B0B0>Mixage audio matériel<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Gestion<cl=B0B0B0>. Cette option vous permettra de remplacer les touches par défaut et d'activer/désactiver <cl=FFFFFF>Inversion de la souris<cl=B0B0B0>. À tout moment, vous pouvez retourner <cl=FFFFFF>Paramètres par défaut<cl=B0B0B0> en cliquant sur l'élément de menu du même nom.<br><br>
+<tab><cl=00FF00> Interface<cl=B0B0B0>. Utilisez cette option pour désactiver/activer la sortie <cl=FFFFFF>Noms sur les têtes<cl=B0B0B0> personnages; activer/désactiver <cl=FFFFFF>Ouverture automatique des portes<cl=B0B0B0> à Votre approche; éteindre/allumer <cl=FFFFFF>Sons d'interface<cl=B0B0B0> et <cl=FFFFFF>Chevauchement automatique des fenêtres<cl=B0B0B0>. Ce dernier signifie que si plusieurs fenêtres sur l'écran se chevauchent, seule la Dernière sera visible, et les autres "apparaîtront" lorsqu'elles seront fermées. Paragraphe <cl=FFFFFF>Fenêtres par défaut<cl=B0B0B0> restaure la disposition mutuelle des fenêtres sur l'écran.<br><br>
+<tab>Paragraphe <cl=FFFFFF>Auteurs<cl=B0B0B0> affiche une liste de ceux qui ont fait la "Sphère"pour Vous.<br><br>
+<tab>Pour quitter le jeu, sélectionnez <cl=FFFFFF>Sortie<cl=B0B0B0>.<br><br>
+}

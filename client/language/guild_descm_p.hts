@@ -1,0 +1,88 @@
+hypertext
+{
+Gild Necromante<br>
+<br>
+
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Prana: +168<br>
+<tab>Proteção física: + 65<br>
+<tab>Proteção mágica: + 65<br>
+<tab>Força, precisão e resistência: -6<br>
+<tab>Terra: + 10<br>
+<tab>Ar e fogo: -6<br>
+<tab>Ataque Mágico: + 45<br>
+<br>
+
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 305<br>
+<tab>Proteção física: +118<br>
+<tab>Proteção mágica: +120<br>
+<tab>Força, precisão e resistência: -20<br>
+<tab>Terra: +14<br>
+<tab>Ar e fogo: -14<br>
+<tab>Ataque Mágico: + 88<br>
+<br>
+
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 572<br>
+<tab>Proteção física: +182<br>
+<tab>Proteção mágica: +198<br>
+<tab>Força, precisão e resistência: -28<br>
+<tab>Terra: + 26<br>
+<tab>Ar e fogo: -22<br>
+<tab>Ataque Mágico: +148<br>
+<br>
+
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 918<br>
+<tab>Proteção física: +246<br>
+<tab>Proteção mágica: + 350<br>
+<tab>Força, precisão e resistência: -42<br>
+<tab>Terra: + 48<br>
+<tab>Ar e fogo: -58<br>
+<tab>Ataque Mágico: +251<br>
+<br>
+
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Prana: +1680<br>
+<tab>Proteção física: + 312<br>
+<tab>Proteção mágica: +490<br>
+<tab>Força, precisão e resistência: -60<br>
+<tab>Terra: + 72<br>
+<tab>Ar e fogo: -102<br>
+<tab>Ataque Mágico: + 520<br>
+<br>
+
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Prana: +2240<br>
+<tab>Proteção física: + 398<br>
+<tab>Proteção mágica: +889<br>
+<tab>Força, precisão e resistência: -96<br>
+<tab>Terra: +112<br>
+<tab>Ar e fogo: 144<br>
+<tab>Ataque Mágico: + 988<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildm.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descl.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descn.hts">Próxima guilda<\l><br>
+}

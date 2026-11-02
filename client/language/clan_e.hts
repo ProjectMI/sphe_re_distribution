@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>CLAN<cl=A2A2A2><br><br>
+<tab>The clan window is called by the "N" key (by default) or by the "clan" button in the <l="hts:\\language\constwin.hts">right system panel.<\l><br>
+<tab>If you are not a member of a clan, you will see a <cl=FFFFFF>clan creation window.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Creating a clan<cl=A2A2A2><br>
+<tab>By selecting the <cl=FFFFFF>"create clan" item<cl=B0B0B0>, you can set the name of your future clan and select the logo (currently off). You automatically become a <cl=FFFFFF>senior<cl=B0B0B0> in a new clan. <cl=FF0000>In the name of the clan, the use of rude and abusive words, offensive expressions is not allowed.<cl=B0B0B0><br>
+<tab>After selecting the item <cl=FFFFFF>"join the clan", the<cl=B0B0B0> corresponding inscription is "glued" to the cursor. After that, you must left-click on the <cl=FFFFFF>lord<cl=B0B0B0> or <cl=FFFFFF>seneschal of the<cl=B0B0B0> clan you need. He receives your application to join the clan and decides on acceptance or non-acceptance.<br>
+<br><tab><cl=00FF00>Clan hierarchy<cl=A2A2A2><br>
+<tab>There are 4 levels in each clan:<br>
+<tab><cl=FFFFFF>Senor<cl=B0B0B0><br>
+<tab><cl=FFFFFF>The Seneschal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vassal<cl=B0B0B0><br>
+<tab><cl=FFFFFF>The Neophyte<cl=B0B0B0><br>
+<cl=FFFFFF>The lord<cl=B0B0B0> has the right to accept into the clan, exclude from the clan, raise and lower seneschals, vassals, neophytes.<br>
+<cl=FFFFFF>The seneschal<cl=B0B0B0> has the right to accept into the clan, exclude from the clan, raise and lower the rank of vassals and neophytes.<br>
+<cl=FFFFFF>The vassal<cl=B0B0B0> has the right to exclude neophytes from the clan.<br>
+}

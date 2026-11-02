@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>Vendedor<br>
+<br>
+<cl=FFFFFF>No vendedor, você pode comprar vários itens por táleres e vender seus (algumas coisas não podem ser vendidas).<br>
+Para comprar um item, clique na marca de seleção à direita do item e ele aparecerá no seu inventário (I) ou no boneco (P). Se não houver táleres suficientes, o item ficará vermelho.<br>
+Para vender um item, arraste-o para uma célula vazia na janela vender. Se o item puder ser vendido, o preço oferecido pelo vendedor aparecerá.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Ajuda completa do jogo (F1)<\l><br>
+}

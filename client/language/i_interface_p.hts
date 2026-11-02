@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>Interface<cl=A2A2A2><br><br>
+<tab><l="hts:\\language\i_mainp.hts">Gestão<\l><br><br>
+<tab><l="hts:\\language\options.hts">Menu Configurações do jogo<\l><br><br>
+<tab><l="hts:\\language\constwin.hts">Painéis do sistema<\l><br><br>
+<tab><l="hts:\\language\statinfo.hts">Janela de estatísticas<\l><br><br>
+<tab><l="hts:\\language\puppet.hts">Janela de personagem<\l><br><br>
+<tab><l="hts:\\language\inventory.hts">Inventário<\l><br><br>
+<tab><l="hts:\\language\chat.hts">Chat<\l><br><br>
+<tab><l="hts:\\language\hotkeys.hts">Teclas de atalho<\l><br><br>
+<tab><l="hts:\\language\clan.hts">Janela do Clã<\l><br><br>
+<tab><l="hts:\\language\ally.hts">Janela de alianças e guerras<\l><br><br>
+<tab><l="hts:\\language\group.hts">Janela do grupo<\l><br><br>
+<tab><l="hts:\\language\trade.hts">Janela de negociação (compra)<\l><br><br>
+<tab><l="hts:\\language\tradechar.hts">Janela de negociação (venda)<\l><br><br>
+<tab><l="hts:\\language\missions.hts">Janela de missão<\l><br><br>
+}

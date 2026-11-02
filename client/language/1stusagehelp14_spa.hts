@@ -1,0 +1,9 @@
+hypertext
+{
+<cl=00FF00>ENTRADA A LA MAZMORRA<br>
+<br>
+<cl=FFFFFF>Has entrado en la mazmorra.<br>
+Dependiendo de la misión, en algún lugar aquí hay un rehén, un paquete o un monstruo malvado.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Ayuda completa del juego (F1)<\l><br>
+}

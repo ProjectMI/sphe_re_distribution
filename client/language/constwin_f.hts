@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>PANNEAUX SYSTÈME<cl=A2A2A2><br><br>
+<tab>Dans les coins supérieurs de l'écran sont toujours présents <cl=FFFFFF>gauche<cl=B0B0B0> et <cl=FFFFFF>panneau système droit<cl=B0B0B0>. Si vous le souhaitez, vous pouvez les minimiser en cliquant sur les flèches correspondantes.<br><br>
+<tab><cl=00FF00>Panneau système gauche<cl=B0B0B0>.<br>
+<tab>Sur le panneau de gauche du système est une boussole (si votre personnage a une mission, la boussole indique la direction de l'emplacement de la mission), les indicateurs <cl=FFFFFF>Santé<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0> ainsi que les boutons d'appel des fenêtres: <l="hts:\\language\statinfo.hts">Statistiques<\l>; <l="hts:\\language\i_charact.hts">Personnage<\l>; <l="hts:\\language\inventory.hts">Inventaire<\l>; <l="hts:\\language\hotkeys.hts">Raccourcis clavier<\l>; <l="hts:\\language\tradechar.hts">Commerce (ventes)<\l> et <l="hts:\\language\options.hts">Menu principal</l>.<br><br>
+<tab><cl=00FF00>Panneau système droit<cl=B0B0B0>.<br>
+<tab>La barre système de droite indique la date et l'heure actuelles dans la sphère (l'horloge peut être convertie en vue électronique en cliquant sur le bouton gauche de la souris), ainsi que les boutons d'appel: <l="hts:\\language\map.hts">Cartes<\l>; <l="hts:\\language\clan.hts">Les fenêtres du clan<\l>; <l="hts:\\language\chat.hts">Chat<\l>; <l="hts:\\language\alchemicbook.hts">Livres de recettes<\l>; <l="hts:\\language\mantrabook.hts">Livres de mantras<\l> et <l="hts:\\language\journal.hts">Journal<\l>.<br>
+}

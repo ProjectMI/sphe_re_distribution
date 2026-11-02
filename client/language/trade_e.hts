@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>PURCHASE<cl=A2A2A2><br><br>
+With this window you can buy goods from the inhabitants of the Sphere and from other characters. In the left column there are product icons. To get a product description, you need to <cl=FFFFFF>look at it<cl=B0B0B0>. The next column displays the price of this product. This is followed by a field for entering a price offer. By clicking on it with the left mouse button, you can offer your price.<br>
+<tab>The purchase of goods is carried out by clicking on the "buy" check mark or by dragging a bag with your money to the product icon. If there is not enough cash, the check mark will be shaded.<br>
+<tab>You can also sell your product. To do this, at the same time as the <cl=FFFFFF>purchase window,<cl=B0B0B0> you must open the <l="hts:\\language\tradechar.hts">sale window <\l> (the "T" key by default).<br>
+}

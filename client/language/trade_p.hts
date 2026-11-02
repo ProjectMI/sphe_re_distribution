@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>Compra<cl=A2A2A2><br><br>
+Com esta janela, você pode comprar itens dos habitantes da esfera e de outros personagens. Na coluna da esquerda estão os ícones de produtos. Para obter uma descrição do produto, é necessário <cl=FFFFFF>ver todos<cl=B0B0B0>. A próxima coluna mostra o preço do produto. Em seguida, há um campo para inserir uma oferta de preço. Clicando com o botão esquerdo do mouse, você pode oferecer o seu preço.<br>
+<tab>A compra do produto é realizada clicando na caixa de seleção "comprar" ou arrastando a bolsa com o seu dinheiro para o ícone do produto. Se não houver dinheiro suficiente, a marca de seleção será sombreada.<br>
+<tab>Você também pode vender seus produtos. Para isso, simultaneamente com <cl=FFFFFF>janela compra<cl=B0B0B0> Você deve abrir <l="hts:\\language\tradechar.hts">janela de venda <\l> (tecla " T " por omissão).<br>
+}

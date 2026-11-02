@@ -1,0 +1,57 @@
+hypertext
+{
+Gild Herrero<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grado mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +82<br>
+<tab>Ataque mágico: +82<br>
+<tab>Todos los personajes: -6<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grado mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +150<br>
+<tab>Ataque mágico: +150<br>
+<tab>Todos los personajes: -20<br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grado mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +248<br>
+<tab>Ataque mágico: +248<br>
+<tab>Todos los personajes: -27<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grado mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +412<br>
+<tab>Ataque mágico: +412<br>
+<tab>Todos los personajes: -43<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grado mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +653<br>
+<tab>Ataque mágico: +653<br>
+<tab>Todos los personajes: -52<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grado mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Ataque físico: +960<br>
+<tab>Ataque mágico: +960<br>
+<tab>Todos los personajes: -68<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildk.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_descj.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descl.hts">Siguiente gremio<\l><br>
+}

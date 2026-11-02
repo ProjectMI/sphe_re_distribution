@@ -1,0 +1,93 @@
+hypertext
+{
+<cl=FFFF00>Gild dos cruzados<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +120<br>
+<tab>Medida: -6<br>
+<tab>Resistência: + 10<br>
+<tab>Fogo: -8<br>
+<tab>Outros elementos: -4<br>
+<tab><br>
+<tab>Transferência divina: a cada 3 horas<br>
+<tab>Escudo de prana: por 10 minutos, a cada 6 horas<br>
+<tab>Corrida do tempo: por 5 minutos uma vez em 4 horas<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +280<br>
+<tab>Medida: -20<br>
+<tab>Resistência: + 30<br>
+<tab>Fogo: -10<br>
+<tab>Outros elementos: -6<br>
+<tab><br>
+<tab>Transferência divina: a cada 3 horas<br>
+<tab>Escudo de prana: por 15 minutos, a cada 5 horas<br>
+<tab>Corrida do tempo: por 10 minutos uma vez em 3 horas<br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: + 650<br>
+<tab>Medida: -28<br>
+<tab>Resistência: + 44<br>
+<tab>Fogo: -12<br>
+<tab>Outros elementos: -10<br>
+<tab><br>
+<tab>Transferência divina: a cada 2 horas<br>
+<tab>Escudo de prana: por 20 minutos, a cada 5 horas<br>
+<tab>Corrida do tempo: por 10 minutos uma vez em 3 horas<br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +910<br>
+<tab>Medida: -42<br>
+<tab>Resistência: + 62<br>
+<tab>Fogo: -16<br>
+<tab>Outros elementos: -15<br>
+<tab><br>
+<tab>Transferência divina: a cada 2 horas<br>
+<tab>Escudo de prana: por 30 minutos, a cada 4 horas<br>
+<tab>Corrida do tempo: por 10 minutos uma vez em 3 horas<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +1450<br>
+<tab>Medida: -60<br>
+<tab>Resistência: + 72<br>
+<tab>Fogo: -24<br>
+<tab>Outros elementos: -20<br>
+<tab><br>
+<tab>Transferência divina: a cada 2 horas<br>
+<tab>Escudo de prana: por 40 minutos, a cada 4 horas<br>
+<tab>Corrida do tempo: por 15 minutos uma vez em 2 horas<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +2100<br>
+<tab>Medida: -96<br>
+<tab>Resistência: + 84<br>
+<tab>Fogo: -36<br>
+<tab>Outros elementos: -24<br>
+<tab><br>
+<tab>Transferência divina: a cada 1 hora<br>
+<tab>Escudo de prana: por 50 minutos, a cada 3 horas<br>
+<tab>Corrida do tempo: por 20 minutos uma vez em 2 horas<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildb.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_desca.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descc.hts">Próxima guilda<\l><br>
+}

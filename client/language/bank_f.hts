@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>BANQUE<cl=A2A2A2><br><br>
+<tab>Cette fenêtre contient les objets stockés dans la banque et accessibles aux personnages de l'ensemble du compte. Vous ne pouvez pas stocker dans une banque <l="hts:\\language\container.hts">conteneurs<\l>.<br>
+<tab>Le champ en bas de la fenêtre affiche l'état actuel du compte bancaire.<br>
+<tab>En cliquant sur le bouton "Changer le mot de passe", vous pouvez définir ou modifier le mot de passe pour ouvrir la banque pour une protection supplémentaire.<br>
+<tab>Lors du paiement d'achats importants (d'une valeur supérieure à 500 000$), il est possible de transférer le montant manquant pour le paiement du compte bancaire. Dans ce cas, une Commission de 5% du prix d'achat est prélevée.<br>
+<tab>Pour mettre un objet dans la banque, il suffit de <l="hts:\\language\i_mainp.hts">faites glisser<\l> dans la bonne cellule. L'objet doit correspondre à la cellule dans son but. S'il n'y a pas de correspondance, la cellule est mise en surbrillance en rouge lorsque vous essayez de faire glisser. S'il y a correspondance, la cellule est surlignée en vert.<br>
+}

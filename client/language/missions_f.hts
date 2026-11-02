@@ -1,0 +1,14 @@
+hypertext
+{
+<tab><cl=F0F010>RÉCEPTION DE LA MISSION<cl=A2A2A2><br><br>
+<tab>Dans la fenêtre obtenir la clé de mission, vous pouvez sélectionner le type de mission, son emplacement et le nombre de participants. Les types de missions suivants sont distingués:<br>
+<tab><cl=FFFFFF>Mission pour le titre<cl=B0B0B0>. Si vous réussissez, vous recevrez des timbres de titre.<br>
+<tab><cl=FFFFFF>Mission pour le diplôme<cl=B0B0B0>. Lorsque vous réussissez, vous obtiendrez des timbres de degré.<br>
+<tab><cl=FFFFFF>Mission pour l'argent<cl=B0B0B0>. Si vous réussissez, vous recevrez une récompense en espèces.<br>
+<tab><cl=FFFFFF>Mission pour le Karma<cl=B0B0B0>. Avec succès, Votre Karma s'améliorera.<br><br>
+<tab>L'emplacement de la mission peut être "proche" ou sur l'un des continents. Lorsque vous prenez une mission située "à proximité", vous êtes assuré de la trouver près de l'endroit où vous avez reçu la clé de mission. Cependant, dans ce cas, Votre récompense sera 3-4 fois moins.<br>
+<tab>Le nombre de participants à la mission peut varier de 1 à 4. La complexité de la mission augmente proportionnellement. Au moment de la fin de la mission, la récompense est accordée à tous ceux qui se trouvent actuellement dans la zone de l'objectif atteint (par exemple, dans un donjon). Tous les participants doivent recevoir la mission. Pour ce faire, la clé de mission prend un participant, puis <cl=FFFFFF>applique<cl=B0B0B0> il est sur les autres. La clé est dupliquée un nombre illimité de fois. Vous pouvez passer cinq missions pour deux. La récompense sera divisée par le nombre approprié de participants.<br>
+<tab>Enseignez que la clé de mission brûle environ 24 heures après l'heure de la Sphère (2 heures après l'heure de la terre).<br>
+<tab>Vous ne serez pas en mesure de prendre la clé de mission si vous en avez déjà un. Vous ne pourrez pas non plus vous débarrasser de la clé de mission reçue tant que celle-ci n'aura pas expiré.<br>
+<tab>La Description de la mission peut être lue si <cl=FFFFFF>voir<cl=B0B0B0> à la clé de la mission.<br>
+}

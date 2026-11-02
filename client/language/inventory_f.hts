@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>INVENTAIRE<cl=A2A2A2><br><br>
+<tab>Les cellules de cette fenêtre montrent les objets que le personnage porte avec lui. Les objets placés dans ces cellules peuvent se perdre après <l="hts:\\language\i_reincarn.hts">décès<\l> un personnage avec une probabilité qui dépend de Votre Karma (plus le Karma est meilleur, plus la probabilité de perte est faible).<br>
+<tab>Les deux rangées inférieures sont conçues pour stocker tous les objets, y compris les armes. La rangée supérieure est constituée de cinq cellules spéciales:<br>
+<tab><cl=FFFFFF>Argent<cl=B0B0B0>.  Votre argent est dans les talers.<br>
+<tab><cl=FFFFFF>Torba<cl=B0B0B0>.  Une cellule pour Torba. Les torbes ont des cellules supplémentaires pour stocker des objets.<br>
+<tab><cl=FFFFFF>2 clés<cl=B0B0B0>.  Ces cellules peuvent stocker les clés (pas plus de deux) des chambres d'hôtel ou des chambres dans les serrures.<br>
+<tab><cl=FFFFFF>Clé de mission<cl=B0B0B0>.  La clé de la mission que vous avez reçue est stockée ici.<br>
+<tab>Pour mettre un objet dans l'inventaire, il suffit de <l="hts:\\language\i_mainp.hts">faites glisser<\l> dans la bonne cellule. L'objet doit correspondre à la cellule dans son but. S'il n'y a pas de correspondance, la cellule est mise en surbrillance en rouge lorsque vous essayez de faire glisser. S'il y a correspondance, la cellule est surlignée en vert.<br>
+<tab>Les armes et autres objets fréquemment utilisés dans l'inventaire ont un sens à "attribuer" à <l="hts:\\language\hotkeys.hts">touches de raccourci<\l>.<br>
+<tab>La rangée du milieu de l'inventaire - 5 cellules - est "éternelle". Cela signifie que les choses placées dans ces cellules ne sont pas perdues à la mort, à l'exception de l'argent et des sacs. Si la cellule avec la chose a une bordure bleue, cela signifie que la chose ne disparaîtra pas en cas de décès. Selon le Karma et l'emplacement du personnage, toutes les cellules ne peuvent pas être actives. Avec un très mauvais Karma, une seule cellule de 5 est active, avec un bon-tous sont actifs. Si le personnage est sur le continent de Charon, alors tout le contraire: avec un bon Karma, la cellule 1 est active, et avec un très mauvais - tous les 5.<br>
+}

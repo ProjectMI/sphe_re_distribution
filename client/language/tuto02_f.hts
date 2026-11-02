@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Conducteur:<cl=00FF00> Tu peux prendre cette vieille épée? Vous ne devinerez jamais ce qui vous attend au prochain virage.<br><br>
+
+<cl=FFFFFF>Utilisez " I " pour appeler la fenêtre d'inventaire.<br>
+Activez le curseur avec le bouton droit de la souris.<br>
+Faites glisser l'objet dans la fenêtre d'inventaire avec la souris.<br>
+Utilisez Maj + bouton gauche de la souris pour obtenir des informations sur le sujet.<br>
+Cliquez sur l'objet avec le bouton gauche de la souris pour le "prendre" avec votre main.<br>
+Utilisez le bouton droit de la souris pour quitter le mode curseur.<br><br>
+<l="hts:\\language\i_mainp.hts">En savoir plus sur la gestion...<\l><br>
+<l="hts:\\language\inventory.hts">En savoir plus sur l'inventaire...<\l><br>
+<l="hts:\\language\helpindex.hts">Aide complète du jeu (F1)<\l><br>
+}

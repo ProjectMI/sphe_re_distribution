@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>GESTIÓN<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Gestión<cl=A2A2A2><br>
+<tab>El juego tiene dos modos de control: <cl=FFFFFF>general<cl=B0B0B0> y <cl=FFFFFF>combate<cl=B0B0B0>.  En el modo general, el cursor del mouse tradicional (en forma de flecha) está presente en la pantalla. Puedes manipular ventanas y objetos de juego. El modo de combate está diseñado principalmente para duelos dinámicos y transiciones de larga distancia. No hay un cursor móvil del mouse en la pantalla: el cursor se indica mediante una Cruz ubicada en el centro de la pantalla. El cambio entre los modos se realiza con la tecla TAB (por defecto).<br>
+<br><tab><cl=00FF00>Mano<cl=A2A2A2><br>
+<tab>La mano de tu personaje puede ser <cl=FFFFFF>"libre"<cl=B0B0B0>, o <cl=FFFFFF>"ocupado"<cl=B0B0B0>. <cl=FFFFFF>Mano<cl=B0B0B0> "toman" objetos (por ejemplo, armas) que necesitan realizar constantemente alguna acción. Cuando "la mano está ocupada" en la esquina inferior derecha de la pantalla, aparece una imagen de la mano junto con el objeto que contiene. En la mano solo se pueden colocar objetos que estén en <l="hts:\\language\inventory.hts">inventario<\l>. Para liberar la mano, presione la tecla
+"-".<br>
+<br><tab><cl=00FF00>Control en modo general<cl=A2A2A2><br>
+<tab>La apariencia del cursor refleja la acción que tu personaje quiere (o tiene la capacidad) de realizar.<br>
+<tab><cl=FFFFFF>Iluminado<cl=B0B0B0> en amarillo, el cursor muestra un objeto dentro de Su alcance (3 metros). Usted puede <cl=FFFFFF>usar<cl=B0B0B0> haga clic izquierdo en este objeto. Cuando se usa, algunos elementos (principalmente armas, polvos curativos, mantras) se mueven automáticamente a <cl=FFFFFF>mano<cl=B0B0B0> Tu personaje.<br>
+<tab>Cuando <cl=FFFFFFF>en la mano hay un objeto<cl=B0B0B0> . su pictograma está permanentemente "pegado" al cursor. Dependiendo del alcance del objeto en Su mano, puede <cl=FFFFFF>usar<cl=B0B0B0> para afectar a objetos más o menos distantes en el mundo circundante con un clic izquierdo del ratón.<br>
+<tab><cl=FFFFFF>Ojo<cl=B0B0B0> junto al cursor aparece cuando se mantiene pulsada la tecla Mayús. En este estado, puede <cl=FFFFFF>ver<cl=B0B0B0> en el objeto deseado, haga clic con el botón izquierdo del ratón. Si el objeto que desea está lo suficientemente cerca, obtendrá una descripción completa, pero si el objeto está lejos, solo verá el nombre.<br>
+<tab><cl=FFFFFF>Hombrecito<cl=B0B0B0> junto al cursor aparece cuando se mantiene pulsada la tecla Alt. Al hacerlo, puede <cl=FFFFFF>usar<cl=B0B0B0> objeto en sí mismo.<br>
+<tab><cl=FFFFFF>Al arrastrar<cl=B0B0B0> un objeto aparece temporalmente junto al cursor. Para arrastrar, haga clic en el objeto con el botón izquierdo y, sin soltarlo, muévalo al lugar correcto Si la mano está ocupada, es imposible mover el objeto.<br>
+<tab>En el modo general, también puede realizar manipulaciones con las ventanas, en particular, moverlas por la pantalla, configurar una vista conveniente para usted. La ubicación de las ventanas se guarda en las siguientes entradas del juego, a menos que haya cambiado el modo de vídeo.
+<br><tab>Mantener presionado el botón derecho del mouse en el modo general bloquea el cursor en el centro de la pantalla y le permite cambiar temporalmente al modo de combate.<br>
+<br><tab><cl=00FF00>Control en modo de combate<cl=A2A2A2><br>
+En este modo, el cursor no colocado está presente y el cursor colocado en el centro de la pantalla. El ratón se utiliza para girar. La reacción al movimiento del mouse hacia arriba y hacia abajo se puede configurar en la configuración de control, en el elemento "inversión del mouse".<br>
+<tab>Las teclas Mayús, Alt y el botón izquierdo del mouse se usan de la misma manera que en el modo general. No es posible arrastrar objetos en el modo de combate.<br>
+<br><tab><cl=00FF00>Teclas de acceso rápido<cl=A2A2A2><br>
+<tab>Para una rápida <cl=FFFFFF>uso<cl=B0B0B0> los artículos que están en Su inventario se pueden utilizar"atajos de teclado". Estas son las teclas 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 en el teclado principal. En combinación con la tecla Ctrl, puede especificar un total de 20 teclas de acceso rápido. Para asignar un objeto a una "tecla de acceso rápido", use <l="hts:\\language\hotkeys.hts">ventana de teclas de acceso rápido<\l>.<br>
+<br><tab><cl=00FF00>Puño<cl=A2A2A2><br>
+<tab>En caso de que el uso de armas por alguna razón no sea posible, puede usar sus propios puños (tecla tilde: "`"). Con la ayuda del puño, puedes infligir daño débil pero frecuente al enemigo.<br>
+}

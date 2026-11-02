@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>Gestione<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Gestione<cl=A2A2A2><br>
+<tab>Il gioco ha due modalità di controllo: <cl=FFFFFF>generale<cl=B0B0B0> e <cl=FFFFFF>combattimento<cl=B0B0B0>.  In modalità generale, sullo schermo è presente un cursore del mouse tradizionale (sotto forma di una freccia). Puoi manipolare finestre e oggetti di gioco. La modalità battaglia è progettata principalmente per duelli dinamici e transizioni a lunga distanza. Non c'è un cursore del mouse mobile sullo schermo: il cursore è indicato da un mirino situato al centro dello schermo. Il passaggio da una modalità all'altra avviene tramite il tasto TAB (predefinito).<br>
+<br><tab><cl=00FF00>Mano<cl=A2A2A2><br>
+<tab>La mano del tuo personaggio può essere <cl=FFFFFF>"libero"<cl=B0B0B0> . o <cl=FFFFFF>"occupato"<cl=B0B0B0>. <cl=FFFFFF>Mano<cl=B0B0B0> "prendono" oggetti (ad esempio armi) che devono eseguire costantemente un'azione. Quando "mano occupata", l'immagine della mano appare nell'angolo in basso a destra dello schermo insieme all'oggetto che si trova al suo interno. Solo gli oggetti che si trovano nella mano possono essere posizionati <l="hts:\\language\inventory.hts">inventario<\l>. Per rilasciare la mano, premere il tasto
+"-".<br>
+<br><tab><cl=00FF00>Gestione in modalità condivisa<cl=A2A2A2><br>
+<tab>L'aspetto del cursore riflette l'azione che il tuo personaggio vuole (o ha l'opportunità) di compiere.<br>
+<tab><cl=FFFFFF>Illuminato<cl=B0B0B0> in giallo, il cursore indica un oggetto alla tua portata (3 metri). Puoi <cl=FFFFFF>utilizzare<cl=B0B0B0> questo oggetto è un clic sinistro del mouse. Quando viene utilizzato, alcuni oggetti (principalmente armi, polveri curative, mantra) si spostano automaticamente in <cl=FFFFFF>mano<cl=B0B0B0> Il tuo personaggio.<br>
+<tab>Quando <cl=FFFFFFF>in mano c'è un oggetto<cl=B0B0B0> . la sua icona è permanentemente "incollata" al cursore. A seconda della portata dell'oggetto in mano, può <cl=FFFFFF>utilizzare<cl=B0B0B0> per influenzare gli oggetti più o meno distanti nel mondo circostante con un clic sinistro del mouse.<br>
+<tab><cl=FFFFFF>Occhio<cl=B0B0B0> vicino al cursore appare quando si tiene premuto il tasto Maiusc. In questo stato, Puoi <cl=FFFFFF>Visualizza<cl=B0B0B0> fare clic con il pulsante sinistro del mouse sull'oggetto desiderato. Se l'oggetto desiderato è abbastanza vicino, otterrai una descrizione completa, ma se l'oggetto è lontano, vedrai solo il nome.<br>
+<tab><cl=FFFFFF>Ometto<cl=B0B0B0> accanto al cursore appare quando si tiene premuto il tasto Alt. Con questo puoi <cl=FFFFFF>utilizzare<cl=B0B0B0> oggetto su se stesso.<br>
+<tab><cl=FFFFFF>Durante il trascinamento<cl=B0B0B0> qualsiasi oggetto vicino al cursore appare temporaneamente la sua icona. Per trascinare, è necessario fare clic sull'oggetto con il pulsante sinistro e, senza rilasciarlo, spostarlo nella posizione desiderata se la mano è occupata, non è possibile spostare l'oggetto.<br>
+<tab>In modalità generale, Puoi anche fare manipolazioni con le finestre, in particolare spostarle sullo schermo, regolare un aspetto conveniente per te. La posizione delle finestre viene mantenuta quando si accede al gioco successivo, a meno che non sia stata modificata la modalità video.
+<br><tab>Tenendo premuto il pulsante destro del mouse in modalità generale, il cursore si blocca al centro dello schermo e consente di passare temporaneamente alla modalità battaglia.<br>
+<br><tab><cl=00FF00>Controlli in modalità battaglia<cl=A2A2A2><br>
+In questa modalità, il cursore odiato non è presente e il cursore si trova al centro dello schermo. Il mouse viene utilizzato per le svolte. La reazione al movimento del mouse su e giù può essere impostata nelle impostazioni di controllo, nella voce "inversione del mouse".<br>
+<tab>I tasti Maiusc, Alt e il pulsante sinistro del mouse vengono utilizzati allo stesso modo della modalità generale. Non è possibile trascinare oggetti in modalità battaglia.<br>
+<br><tab><cl=00FF00>Tasti di scelta rapida<cl=A2A2A2><br>
+<tab>Per un rapido <cl=FFFFFF>uso<cl=B0B0B0> gli articoli nel tuo inventario possono essere utilizzati "tasti di scelta rapida". Questi sono i tasti 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 sulla tastiera principale. In combinazione con il tasto Ctrl, è possibile impostare un totale di 20 tasti di scelta rapida. Per assegnare un oggetto a un "tasto di scelta rapida", utilizzare <l="hts:\\language\hotkeys.hts">finestra dei tasti di scelta rapida<\l>.<br>
+<br><tab><cl=00FF00>Pugno<cl=A2A2A2><br>
+<tab>Nel caso in cui l'uso dell'arma non sia possibile per qualche motivo, puoi usare i tuoi pugni (tasto tilde: "`"). Con l'aiuto di un pugno, puoi infliggere danni deboli ma frequenti al nemico.<br>
+}

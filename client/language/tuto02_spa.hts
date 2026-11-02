@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Conductor:<cl=00FF00> ¿Por qué no tomas esa vieja espada? Nunca adivinarás lo que te espera en la siguiente curva.<br><br>
+
+<cl=FFFFFF>Use " I " para llamar a la ventana de inventario.<br>
+Active el cursor con el botón derecho del ratón.<br>
+Arrastre el elemento a la ventana de inventario con el mouse.<br>
+Utilice Mayús + botón izquierdo del ratón para obtener información sobre el tema.<br>
+Haga clic en el elemento con el botón izquierdo del ratón para "tomarlo" con la mano.<br>
+Utilice el botón derecho del ratón para salir del modo de cursor.<br><br>
+<l="hts:\\language\i_mainp.hts">Más sobre la gestión...<\l><br>
+<l="hts:\\language\inventory.hts">Más sobre el inventario...<\l><br>
+<l="hts:\\language\helpindex.hts">Ayuda completa del juego (F1)<\l><br>
+}

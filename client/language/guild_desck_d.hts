@@ -1,0 +1,57 @@
+hypertext
+{
+Gild des Schmieds<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>+82 Physischer Angriff<br>
+<tab>+82 Magischer Angriff<br>
+<tab>Alle Charateristics: -6<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>+150 Physischer Angriff<br>
+<tab>+150 Magischer Angriff<br>
+<tab>Alle Charateristics: -20<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>+248 Physischer Angriff<br>
+<tab>+248 Magischer Angriff<br>
+<tab>Alle Charateristics: -27<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>+412 Physischer Angriff<br>
+<tab>+412 Magischer Angriff<br>
+<tab>Alle Charateristics: -43<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>+653 Physischer Angriff<br>
+<tab>+653 Magischer Angriff<br>
+<tab>Alle Charateristics: -52<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>+960 Physischer Angriff<br>
+<tab>+960 Magischer Angriff<br>
+<tab>Alle Charateristics: -68<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildk.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descj.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descl.hts">Nächste Gilde<\l><br>
+}

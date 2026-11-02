@@ -1,0 +1,6 @@
+hypertext
+{
+<tab><cl=F0F010>Mapa<cl=A2A2A2><br><br>
+<tab>Se o seu personagem tem um mapa da área, chamando-o na tela, você pode aumentar / diminuir a transparência do mapa (clicando nos botões com a imagem " + " ou " - " respectivamente), bem como ver a localização do seu personagem (ícone com a imagem do homem). Se o seu personagem tem um tinteiro, você pode mapear objetos diferentes (monstros, casas, castelos, cidades, Pontes, cavernas, ruínas, etc.). Para fazer isso, clique no botão com a imagem "continente" (localizado ao lado de "-"). Na janela que se abre, na parte inferior estão os ícones com as designações dos objetos. Clique neles com o botão esquerdo do mouse (enquanto o objeto é "colado" ao cursor), clique no local desejado do mapa e o objeto será aplicado. Se necessário, você pode assinar o objeto no mapa. Clique nele (ele piscará), digite uma assinatura na janela de edição e, em seguida, clique em um local arbitrário do mapa para que a assinatura apareça no mapa.<br>
+<tab>Você também pode colocar uma marca no mapa que aparece na bússola como um risco (como o objetivo da missão). Para fazer isso, clique com o botão esquerdo do mouse em um mapa grande, mantendo pressionada a tecla Shift. Para remover esta marca, você precisa clicar no botão remover Marcas (o botão Mais direito na parte inferior do mapa), mantendo pressionada a tecla Shift.
+}

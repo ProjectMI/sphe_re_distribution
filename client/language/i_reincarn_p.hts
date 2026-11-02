@@ -1,0 +1,8 @@
+hypertext
+{
+<tab><cl=F0F010>MORTE E RENASCIMENTO<cl=A2A2A2><br><br>
+<tab>No mundo da esfera para os visitantes da Terra, a morte não é um evento irreversível. Podemos entrar novamente neste mundo através dos portais invisíveis deixados pelo Tecelão. No entanto, ao viver em uma esfera, cada personagem acumula <l="hts:\\language\i_charact.hts">Karma<\l>. Dependendo do Estado do karma, você renasce em portais de diferentes qualidades, de auspicioso a perigoso (cinco graus no total). O renascimento ocorre em um portal adequado próximo ao local da morte. Cuidado com o renascimento <l="hts:\\language\i_geo.hts">Harone<\l>. <br>
+<tab>No momento da morte, seu personagem pode perder parte de seu dinheiro. <l="hts:\\language\inventory.hts">inventário<\l> bens. O que é usado diretamente no personagem (veja <l="hts:\\language\puppet.hts">"Janela de personagem"<\l>geralmente não se perde.  A quantidade de perdas depende do seu karma: quanto melhor, menos perdas. Além disso, ao morrer, perde-se uma parte dos bens acumulados. <l="hts:\\language\i_charact.hts">marcas de Título e marcas de grau.<\l><br>
+<tab>Coisas colocadas em "células eternas" em <l="hts:\\language\inventory.hts">inventário<\l> não se perdem.<br>
+<tab><cl=FFFFFF>Nota: um personagem cujo título ou grau é menor que o Nível 6 (ou seja, <l="hts:\\language\i_charact.hts">convidado ou desconhecido<\l>na morte não perde nada.<br>
+}

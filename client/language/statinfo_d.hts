@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>STATISTIK-FENSTER<cl=A2A2A2><br><br>
+<tab>Dieses Fenster spiegelt <l="hts:\\language\i_charact.hts">eigenschaften<\l> Deinen Charakter. Verwenden Sie zum Aufrufen dieses Fensters die Taste "H" (Standardeinstellung).<br>
+<br><tab><cl=00FF00>Titel und Grad<cl=A2A2A2><br>
+<tab>Im oberen Teil des Fensters werden der Titel und der magische Grad deines Charakters sowie die Anzahl der Titel und der Grad angezeigt, die für den Übergang zum nächsten Level erforderlich sind.<br>
+<br><tab><cl=00FF00>Karma und der Clan<cl=A2A2A2><br>
+<tab>Das Folgende zeigt Karma und wenn dein Charakter in einem Clan ist, wird der Name angezeigt <l="hts:\\language\clan.hts">clan<\l>.<br>
+Die Karmaebenen werden wie folgt verteilt:
+<br>weniger als -1000: sehr schlecht
+<br>-1000 bis -500: schlecht
+<br>-500 bis 500: neutral
+<br>500 bis 1000: gut
+<br>mehr als 1000: das Gute
+<br>
+<br><tab><cl=00FF00>Gesundheit, Prana, Sättigung<cl=A2A2A2><br>
+<tab>Im Folgenden werden die Gesundheit, der Prana und die Sättigung des Charakters angezeigt (aktuelle und maximale Werte).<br>
+<br><tab><cl=00FF00>Angriff und Verteidigung<cl=A2A2A2><br>
+<tab>Im mittleren Teil des Fensters sind die numerischen Werte für Angriffskraft und Verteidigung deines Charakters sichtbar.<br> 
+In "Kampfangriff" und "magischer Angriff" erscheinen die Zahlen, wenn Sie Waffen oder magische Gegenstände in die Hand nehmen, die Schaden verursachen oder eine heilende Wirkung haben. Der Schaden wird durch eine negative Zahl reflektiert, die heilende Wirkung durch eine positive Zahl.<br>
+<tab>Punkte <l="hts:\\language\i_charact.hts">"Kampfschutz" und "magische Verteidigung"<\l> zeigen Sie die entsprechenden Schutzstufen an. Diese Parameter hängen von den verfügbaren Schutzmitteln ab (siehe "<l="hts:\\language\puppet.hts">Charakterfenster<\l>") und auch von <l="hts:\\language\i_mutators.hts">mutatoren<\l>.<br>
+<br><tab><cl=00FF00>Fähigkeiten und Elemente<cl=A2A2A2><br>
+<tab>Am unteren Rand des Fensters werden die aktuellen Werte für den Besitzstand angezeigt <l="hts:\\language\i_charact.hts">fähigkeiten und Elemente<\l> sowie die Anzahl der Elementare des Titels und der Elementaren des Grades.<br>
+<tab>Dort kannst du auch die Elementaren des Titels nach Fähigkeiten und die Elementaren des Grades nach Elementen verteilen.
+}

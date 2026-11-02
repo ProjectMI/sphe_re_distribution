@@ -1,0 +1,63 @@
+hypertext
+{
+Archmage's Guild<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 16<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +96<br>
+<tab>Endurance: -6<br>
+<tab>Other skills: -4<br>
+<tab>Elements: +12<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 21<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +190<br>
+<tab>Endurance: -10<br>
+<tab>Other skills: -6<br>
+<tab>Elements: +18<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 31<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +297<br>
+<tab>Endurance: -14<br>
+<tab>Other skills: -10<br>
+<tab>Elements: +25<br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 41<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +512<br>
+<tab>Endurance: -18<br>
+<tab>Other skills: -14<br>
+<tab>Elements: +36<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 51<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +808<br>
+<tab>Endurance: -24<br>
+<tab>Other skills: -18<br>
+<tab>Elements: +48<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 60<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +1320<br>
+<tab>Endurance: -48<br>
+<tab>Other skills: -24<br>
+<tab>Elements: +56<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guilde.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descd.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_descf.hts">next guild<\l><br>
+}

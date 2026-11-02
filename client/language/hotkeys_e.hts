@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>KEYBOARD SHORTCUTS<cl=A2A2A2><br><br>
+<tab>Hotkeys are designed to quickly "snatch" items that you have previously "assigned" to one or another key.  The hotkey window can be presented on the screen in two forms: large and small. Switching between forms is carried out with the "K" key (by default), or using the "hotkeys" button located on the <l="hts:\\language\constwin.hts">left system panel<\l>.<br>
+<tab>In a <cl=FFFFFF>small form, the<cl=B0B0B0> window is a vertical row of 10 cells, which reflect the objects placed, respectively, on the keys 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. When you press the Ctrl key, this row changes and shows the next 10 "hot" items, which can be called using the keyboard shortcut Ctrl + "digit".<br>
+<tab><cl=FFFFFF>The large form<cl=B0B0B0> allows you to set hotkeys. This is done by moving the necessary object from the <l="hts:\\language\inventory.hts">inventory<\l> to any cell. If a cell was occupied, its old assignment is canceled and replaced with a new one.<br>
+<tab><cl=FFFFFF>Important:<cl=B0B0B0> hotkeys do not "remember" the object itself, but its location. When moving a given object from its personal place in the inventory, the hotkey will become empty, and vice versa, if you place another object in the stored position in the inventory, pressing the hotkey will result in the <cl=FFFFFF>use of a<cl=B0B0B0> new object.<br>
+<tab>The status of the hotkeys is remembered when you exit the game.<br>
+}

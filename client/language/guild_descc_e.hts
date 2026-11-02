@@ -1,0 +1,111 @@
+hypertext
+{
+Inquisitor's Guild<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 16<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +96<br>
+<tab>Physical protection: +82<br>
+<tab>Endurance: -6<br>
+<tab>Other skills: -4<br>
+<tab>Land: -6<br>
+<tab>Water: -10<br>
+<tab>Fire: +12<br>
+<tab>Magic Attack: +45<br>
+<tab><br>
+<tab>Revival: every 6 hours<br>
+<tab>Shackles: 4 minutes, once every 4 hours<br>
+<tab>Purification: 1 mutator, once every 3 hours<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 21<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +190<br>
+<tab>Physical protection: +150<br>
+<tab>Endurance: -10<br>
+<tab>Other skills: -6<br>
+<tab>Land: -10<br>
+<tab>Water: -14<br>
+<tab>Fire: +28<br>
+<tab>Magic Attack: +88<br>
+<tab><br>
+<tab>Revival: every 4 hours<br>
+<tab>Shackles: 8 minutes, once every 3 hours<br>
+<tab>Purification: 2 mutators, every 2 hours<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 31<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +297<br>
+<tab>Physical protection: +248<br>
+<tab>Endurance: -14<br>
+<tab>Other skills: -10<br>
+<tab>Land: -14<br>
+<tab>Water: -18<br>
+<tab>Fire: +48<br>
+<tab>Magic Attack: +148<br>
+<tab><br>
+<tab>Revival: every 4 hours<br>
+<tab>Shackles: 10 minutes, once every 3 hours<br>
+<tab>Purification: 3 mutators, every 2 hours<br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 41<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +512<br>
+<tab>Physical protection: +412<br>
+<tab>Endurance: -18<br>
+<tab>Other skills: -14<br>
+<tab>Land: -18<br>
+<tab>Water: -24<br>
+<tab>Fire: +64<br>
+<tab>Magic Attack: +251<br>
+<tab><br>
+<tab>Revival: every 3 hours<br>
+<tab>Shackles: 12 minutes, once every 3 hours<br>
+<tab>Purification: 4 mutators, once every 1 hour<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 51<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +808<br>
+<tab>Physical protection: +653<br>
+<tab>Endurance: -24<br>
+<tab>Other skills: -18<br>
+<tab>Land: -24<br>
+<tab>Water: -48<br>
+<tab>Fire: +72<br>
+<tab>Magic Attack: +520<br>
+<tab><br>
+<tab>Revival: every 3 hours<br>
+<tab>Shackles: 14 minutes, every 3 hours<br>
+<tab>Purification: 4 mutators, once every 1 hour<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 60<br>
+<br><cl=ABCDEF>
+<tab>Magic Protection: +1320<br>
+<tab>Physical protection: +960<br>
+<tab>Endurance: -48<br>
+<tab>Other skills: -24<br>
+<tab>Land: -48<br>
+<tab>Water: -58<br>
+<tab>Fire: +84<br>
+<tab>Magic Attack: +1380<br>
+<tab><br>
+<tab>Revival: every 2 hours<br>
+<tab>Shackles: 20 minutes, once every 3 hours<br>
+<tab>Purification: 6 mutators, once every 1 hour<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildc.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descb.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_descd.hts">next guild<\l><br>
+}

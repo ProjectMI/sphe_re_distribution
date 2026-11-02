@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>BANK<cl=A2A2A2><br><br>
+<tab>Dieses Fenster enthält Objekte, die in der Bank gespeichert sind und für Charaktere im gesamten Konto verfügbar sind. In der Dose kann nicht gelagert werden <l="hts:\\language\container.hts">container<\l>.<br>
+<tab>Das Feld am unteren Rand des Fensters zeigt den aktuellen Status des Bankkontos an.<br>
+<tab>Wenn Sie auf die Schaltfläche "Passwort ändern" klicken, können Sie das Passwort zum Öffnen einer Bank für zusätzlichen Schutz festlegen oder ändern.<br>
+<tab>Bei größeren Einkäufen (im Wert von mehr als 500.000 $) besteht die Möglichkeit, den zur Zahlung fehlenden Betrag vom Bankkonto zu überweisen. Dabei wird eine Provision in Höhe von 5% des Kaufpreises erhoben.<br>
+<tab>Um ein Objekt in den Topf zu legen, einfach <l="hts:\\language\i_mainp.hts">ziehen<\l> es in die gewünschte Zelle. Das Objekt muss der Zelle in seinem beabsichtigten Zweck entsprechen. Wenn keine Übereinstimmung vorhanden ist, wird die Zelle beim Ziehen rot hervorgehoben. Wenn eine Übereinstimmung vorliegt, wird die Zelle grün hervorgehoben.<br>
+}

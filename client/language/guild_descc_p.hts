@@ -1,0 +1,111 @@
+hypertext
+{
+Gild Inquisitor<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +96<br>
+<tab>Proteção física: + 82<br>
+<tab>Resistência: -6<br>
+<tab>Outras habilidades: -4<br>
+<tab>Terra: -6<br>
+<tab>Água: -10<br>
+<tab>Fogo: +12<br>
+<tab>Ataque Mágico: + 45<br>
+<tab><br>
+<tab>Renascimento: a cada 6 horas<br>
+<tab>Grilhões: 4 minutos, a cada 4 horas<br>
+<tab>Purificação: 1 mutante, a cada 3 horas<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +190<br>
+<tab>Proteção física: +150<br>
+<tab>Resistência: -10<br>
+<tab>Outras habilidades: -6<br>
+<tab>Terra: -10<br>
+<tab>Água: -14<br>
+<tab>Fogo: + 28<br>
+<tab>Ataque Mágico: + 88<br>
+<tab><br>
+<tab>Renascimento: a cada 4 horas<br>
+<tab>Grilhões: 8 minutos, uma vez a cada 3 horas<br>
+<tab>Purificação: 2 mutadores, a cada 2 horas<br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +297<br>
+<tab>Proteção física: +248<br>
+<tab>Resistência: -14<br>
+<tab>Outras habilidades: -10<br>
+<tab>Terra: -14<br>
+<tab>Água: -18<br>
+<tab>Fogo: + 48<br>
+<tab>Ataque Mágico: +148<br>
+<tab><br>
+<tab>Renascimento: a cada 4 horas<br>
+<tab>Grilhões: 10 minutos, uma vez a cada 3 horas<br>
+<tab>Purificação: 3 mutadores, uma vez a cada 2 horas<br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +512<br>
+<tab>Proteção física: + 412<br>
+<tab>Resistência: -18<br>
+<tab>Outras habilidades: -14<br>
+<tab>Terra: -18<br>
+<tab>Água: -24<br>
+<tab>Fogo: + 64<br>
+<tab>Ataque Mágico: +251<br>
+<tab><br>
+<tab>Ressurreição: a cada 3 horas<br>
+<tab>Grilhões: 12 minutos, uma vez a cada 3 horas<br>
+<tab>Purificação: 4 mutadores, uma vez a cada 1 hora<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +808<br>
+<tab>Proteção física: +653<br>
+<tab>Resistência: -24<br>
+<tab>Outras habilidades: -18<br>
+<tab>Terra: -24<br>
+<tab>Água: -48<br>
+<tab>Fogo: + 72<br>
+<tab>Ataque Mágico: + 520<br>
+<tab><br>
+<tab>Ressurreição: a cada 3 horas<br>
+<tab>Grilhões: 14 minutos, uma vez a cada 3 horas<br>
+<tab>Purificação: 4 mutadores, uma vez a cada 1 hora<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Proteção mágica: +1320<br>
+<tab>Proteção física: +960<br>
+<tab>Resistência: -48<br>
+<tab>Outras habilidades: -24<br>
+<tab>Terra: -48<br>
+<tab>Água: -58<br>
+<tab>Fogo: + 84<br>
+<tab>Ataque Mágico: +1380<br>
+<tab><br>
+<tab>Renascimento: a cada 2 horas<br>
+<tab>Grilhões: 20 minutos, uma vez a cada 3 horas<br>
+<tab>Purificação: 6 mutators, uma vez a cada 1 hora<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildc.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descb.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descd.hts">Próxima guilda<\l><br>
+}

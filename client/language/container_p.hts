@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>Container<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>Recipiente<cl=B0B0B0> pode ser um saco, uma bolsa, um baú-ou seja, qualquer recipiente no qual outros objetos podem ser colocados. O recipiente é aberto e fechado com o botão esquerdo do mouse. Cada recipiente tem seu próprio peso, bem como o peso máximo possível (juntamente com as coisas nele). É possível saber o peso se <l="hts:\\language\i_mainp.hts">"ver"<\l> no contentor. Você não poderá colocar um objeto em um contêiner se seu peso máximo for excedido.<br>Alguns recipientes têm células especiais para itens específicos - por exemplo, em baús de quartos de hotel, as últimas células servem para ingredientes alquímicos e pós mágicos.<br>
+}

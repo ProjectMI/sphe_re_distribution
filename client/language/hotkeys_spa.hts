@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>TECLAS DE ACCESO RÁPIDO<cl=A2A2A2><br><br>
+<tab>Las teclas de acceso rápido están diseñadas para "arrebatar" rápidamente los elementos previamente "atribuidos" A una tecla en particular.  La ventana de teclas de acceso rápido se puede representar en la pantalla en dos formas: grande y pequeña. El cambio entre formularios se realiza mediante la tecla "K" (por defecto) o mediante el botón "atajos de teclado" situado en el <l="hts:\\language\constwin.hts">panel izquierdo del sistema<\l>.<br>
+<tab>El <cl=FFFFFF>forma pequeña<cl=B0B0B0> la ventana es una fila vertical de 10 celdas, en las que se reflejan los elementos colocados, respectivamente, en las teclas 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Al presionar la tecla Ctrl, esta fila cambia y muestra los siguientes 10 elementos "calientes" que se pueden llamar con la combinación de teclas Ctrl+"dígito".<br>
+<tab><cl=FFFFFF>Forma grande<cl=B0B0B0> permite especificar teclas de acceso rápido. Esto se hace moviendo el objeto necesario desde <l="hts:\\language\inventory.hts">inventario<\l> en cualquier celda. Si una celda ha sido ocupada, su asignación anterior se cancela y se reemplaza por una nueva.<br>
+<tab><cl=FFFFFF>Importante:<cl=B0B0B0> las teclas de acceso rápido "recuerdan" no el objeto en sí, sino su ubicación. Cuando se mueve un objeto especificado desde su ubicación personal en el inventario, la tecla de acceso rápido quedará vacía, y viceversa, si coloca otro objeto en la posición memorizada en el inventario, la tecla de acceso rápido dará como resultado <cl=FFFFFF>uso<cl=B0B0B0> nuevo objeto.<br>
+<tab>El estado de las teclas de acceso rápido se recuerda al salir del juego.<br>
+}

@@ -1,0 +1,69 @@
+hypertext
+{
+Gild Druida<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: + 82<br>
+<tab>Habilidades: -4<br>
+<tab>Terra e água: +10<br>
+<tab>Ar e fogo: -6<br>
+<tab>Ataque Mágico: + 25<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +150<br>
+<tab>Habilidades: -6<br>
+<tab>Terra e água: +20<br>
+<tab>Ar e fogo: 16<br>
+<tab>Ataque Mágico: + 50<br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +248<br>
+<tab>Habilidades: -10<br>
+<tab>Terra e água: +32<br>
+<tab>Ar e fogo: -28<br>
+<tab>Ataque Mágico: + 84<br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: + 412<br>
+<tab>Habilidades: -14<br>
+<tab>Terra e água: +44<br>
+<tab>Ar e fogo: 36<br>
+<tab>Ataque Mágico: +130<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +653<br>
+<tab>Habilidades: -18<br>
+<tab>Terra e água: +56<br>
+<tab>Ar e fogo: -48<br>
+<tab>Ataque Mágico: +220<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grau mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +960<br>
+<tab>Habilidades: -24<br>
+<tab>Terra e água: +68<br>
+<tab>Ar e fogo: -68<br>
+<tab>Ataque Mágico: + 530<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildg.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descf.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desch.hts">Próxima guilda<\l><br>
+}

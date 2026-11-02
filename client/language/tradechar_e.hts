@@ -1,0 +1,6 @@
+hypertext
+{
+<tab><cl=F0F010>SALE<cl=A2A2A2><br><br>
+You can use this window to sell products. To put up an item for sale, drag an item from your <l="hts:\\language\inventory.hts"> inventory<\l> or from the <l="hts:\\language\puppet.hts">character window to any free cell<\l>. In the second column you can set the price of the product. As long as you have not set a price, other characters will see your product in their <l="hts:\\language\trade.hts">purchase window<\l>, but will not be able to buy. They can offer their own price options, which you will see in the third column. You can accept or reject the offered price using the buttons in the fourth column.<br>
+<tab>Items placed for sale are saved in this window until the moment you die or exit the game. When the product is for sale and you set the price, any character who comes up to you can buy it at any time.<br>
+}

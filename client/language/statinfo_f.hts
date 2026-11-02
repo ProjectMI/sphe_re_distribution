@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>FENÊTRE STATISTIQUES<cl=A2A2A2><br><br>
+<tab>Cette fenêtre reflète <l="hts:\\language\i_charact.hts">caractéristiques<\l> Votre personnage. Pour afficher cette fenêtre, utilisez la touche "H" (par défaut).<br>
+<br><tab><cl=00FF00>Titre et Diplôme<cl=A2A2A2><br>
+<tab>La partie supérieure de la fenêtre affiche le Titre et le Degré magique de votre personnage, ainsi que le nombre de marques de titre et de degré, à la fois recrutés et nécessaires pour passer au niveau suivant.<br>
+<br><tab><cl=00FF00>Karma et clan<cl=A2A2A2><br>
+<tab>Voici le Karma et, si Votre personnage est dans un clan, le nom <l="hts:\\language\clan.hts">clan<\l>.<br>
+Les niveaux de Karma sont répartis comme suit:
+<br>moins de -1000: très mauvais
+<br>-1000 à -500: mauvais
+<br>-500 à 500: neutre
+<br>500 à 1000: bon
+<br>plus de 1000: bonne
+<br>
+<br><tab><cl=00FF00>Santé, Prana, Satiété<cl=A2A2A2><br>
+<tab>Ensuite, la Santé, le Prana Et la Satiété du personnage (valeurs actuelles et maximales) sont affichés.<br>
+<br><tab><cl=00FF00>Attaque et défense<cl=A2A2A2><br>
+<tab>Dans la partie centrale de la fenêtre, vous pouvez voir les valeurs numériques de la force d'attaque et de défense de votre personnage.<br> 
+Dans attaque de combat et attaque magique, les numéros apparaissent lorsque vous prenez des armes ou des objets magiques qui peuvent causer des dommages ou avoir un effet curatif. Les dommages sont reflétés par un nombre négatif, l'effet thérapeutique par un nombre positif.<br>
+<tab>Paragraphes <l="hts:\\language\i_charact.hts">défense de combat et défense magique<\l> montrer les niveaux appropriés De votre défense. Ces paramètres dépendent des protections disponibles (voir "<l="hts:\\language\puppet.hts">Fenêtre du personnage<\l>"), ainsi que de <l="hts:\\language\i_mutators.hts">mutateurs<\l>.<br>
+<br><tab><cl=00FF00>Capacités et éléments<cl=A2A2A2><br>
+<tab>La partie inférieure de la fenêtre affiche les valeurs actuelles du niveau de propriété <l="hts:\\language\i_charact.hts">capacités et éléments<\l> ainsi que le nombre d'élémentaires de titre et d'élémentaires de degré.<br>
+<tab>Là, vous pouvez répartir les éléments du titre en fonction des capacités, et les éléments du degré en fonction des éléments.
+}

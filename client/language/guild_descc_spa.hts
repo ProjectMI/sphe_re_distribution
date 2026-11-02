@@ -1,0 +1,111 @@
+hypertext
+{
+Gild Inquisidor<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +96<br>
+<tab>Protección física: +82<br>
+<tab>Resistencia: -6<br>
+<tab>Otras habilidades: -4<br>
+<tab>Terreno: -6<br>
+<tab>Agua: -10<br>
+<tab>Fuego: +12<br>
+<tab>Ataque mágico: +45<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 6 horas<br>
+<tab>Grilletes: 4 minutos, una vez cada 4 horas<br>
+<tab>Purificación: 1 mutador, una vez cada 3 horas<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +190<br>
+<tab>Protección física: +150<br>
+<tab>Resistencia: -10<br>
+<tab>Otras habilidades: -6<br>
+<tab>Terreno: -10<br>
+<tab>Agua: -14<br>
+<tab>Fuego: +28<br>
+<tab>Ataque mágico: +88<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 4 horas<br>
+<tab>Grilletes: 8 minutos, una vez cada 3 horas<br>
+<tab>Purificación: 2 mutadores, una vez cada 2 horas<br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +297<br>
+<tab>Protección física: +248<br>
+<tab>Resistencia: -14<br>
+<tab>Otras habilidades: -10<br>
+<tab>Terreno: -14<br>
+<tab>Agua: -18<br>
+<tab>Fuego: +48<br>
+<tab>Ataque mágico: +148<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 4 horas<br>
+<tab>Grilletes: 10 minutos, una vez cada 3 horas<br>
+<tab>Purificación: 3 mutadores, una vez cada 2 horas<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +512<br>
+<tab>Protección física: +412<br>
+<tab>Resistencia: -18<br>
+<tab>Otras habilidades: -14<br>
+<tab>Terreno: -18<br>
+<tab>Agua: -24<br>
+<tab>Fuego: +64<br>
+<tab>Ataque mágico: +251<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 3 horas<br>
+<tab>Grilletes: 12 minutos, una vez cada 3 horas<br>
+<tab>Purificación: 4 mutadores, una vez cada 1 hora<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +808<br>
+<tab>Protección física: +653<br>
+<tab>Resistencia: -24<br>
+<tab>Otras habilidades: -18<br>
+<tab>Terreno: -24<br>
+<tab>Agua: -48<br>
+<tab>Fuego: +72<br>
+<tab>Ataque mágico: +520<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 3 horas<br>
+<tab>Grilletes: 14 minutos, una vez cada 3 horas<br>
+<tab>Purificación: 4 mutadores, una vez cada 1 hora<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +1320<br>
+<tab>Protección física: +960<br>
+<tab>Resistencia: -48<br>
+<tab>Otras habilidades: -24<br>
+<tab>Terreno: -48<br>
+<tab>Agua: -58<br>
+<tab>Fuego: +84<br>
+<tab>Ataque mágico: +1380<br>
+<tab><br>
+<tab>Renacimiento: una vez cada 2 horas<br>
+<tab>Grilletes: 20 minutos, una vez cada 3 horas<br>
+<tab>Purificación: 6 mutadores, una vez cada 1 hora<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildc.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_descb.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descd.hts">Siguiente gremio<\l><br>
+}

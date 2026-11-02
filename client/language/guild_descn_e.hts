@@ -1,0 +1,100 @@
+hypertext
+{
+Guild bandiera<br>
+<br>
+
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 16<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +98<br>
+<tab>Physical protection: +76<br>
+<tab>Magic Protection: +112<br>
+<tab>Strength and accuracy: -6<br>
+<tab>Dexterity: -4<br>
+<tab>Endurance: +4<br>
+<tab>Land and water: -4<br>
+<tab>Air and fire: -6<br>
+<tab>Magic Attack: -46<br>
+<br>
+
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 21<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +225<br>
+<tab>Physical protection: +196<br>
+<tab>Magic Protection: +218<br>
+<tab>Strength and accuracy: -20<br>
+<tab>Dexterity: -6<br>
+<tab>Endurance: +6<br>
+<tab>Land and water: -6<br>
+<tab>Air and fire: -14<br>
+<tab>Magic Attack: -98<br>
+<br>
+
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 31<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +372<br>
+<tab>Physical protection: +372<br>
+<tab>Magic Protection: +374<br>
+<tab>Strength and accuracy: -28<br>
+<tab>Dexterity: -10<br>
+<tab>Endurance: +10<br>
+<tab>Land and water: -10<br>
+<tab>Air and fire: -22<br>
+<tab>Magic Attack: -222<br>
+<br>
+
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 41<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +618<br>
+<tab>Physical protection: +558<br>
+<tab>Magic Protection: +788<br>
+<tab>Strength and accuracy: -42<br>
+<tab>Dexterity: -15<br>
+<tab>Endurance: +15<br>
+<tab>Land and water: -15<br>
+<tab>Air and fire: -42<br>
+<tab>Magic Attack: -468<br>
+<br>
+
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 51<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +980<br>
+<tab>Physical protection: +734<br>
+<tab>Magic Protection: +1002<br>
+<tab>Strength and accuracy: -60<br>
+<tab>Dexterity: -20<br>
+<tab>Endurance: +20<br>
+<tab>Land and water: -20<br>
+<tab>Air and fire: -60<br>
+<tab>Magic Attack: -926<br>
+<br>
+
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 60<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Health: +1440<br>
+<tab>Physical protection: +1024<br>
+<tab>Magic Protection: +1420<br>
+<tab>Strength and accuracy: -96<br>
+<tab>Dexterity: -24<br>
+<tab>Endurance: +24<br>
+<tab>Land and water: -24<br>
+<tab>Air and fire: -86<br>
+<tab>Magic Attack: -1282<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildn.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descm.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_desca.hts">next guild<\l><br>
+}

@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>CHARACTER WINDOW<cl=A2A2A2><br><br>
+<tab>The cells in this window show the things directly put on your character. Items placed in these cells after the <l="hts:\\language\i_reincarn.hts">death of the<\l> character are practically not lost (lost with a very low probability).<br>
+<tab>The following objects can be located in the cells:<br>
+<tab><cl=FFFFFF>The helmet<br>
+<tab>The Amulet<br>
+<tab>The shield<br>
+<tab>Chain mail<br>
+<tab>Gloves<br>
+<tab>2 bracelets<br>
+<tab>4 rings<br>
+<tab>Pants<br>
+<tab>Shoes<br><cl=B0B0B0>
+<tab>These things can improve the <l="hts:\\language\i_charact.hts"> characteristics of <\l> your character.<br>
+<tab>The following items can be placed in the vertical row on the right:<br>
+<tab><cl=FFFFFF>Card Book<cl=B0B0B0> - allows you to store cards.<br>
+<tab><cl=FFFFFF>Log<cl=B0B0B0> - allows you to keep records of important events.<br>
+<tab><cl=FFFFFF>Recipe Book<cl=B0B0B0> - allows you to store alchemical recipes and manuscripts.<br>
+<tab><cl=FFFFFF>The book of mantras<cl=B0B0B0> - allows you to "memorize" mantras.<br>
+<tab><cl=FFFFFF>Inkwell<cl=B0B0B0> - allows you to make journal entries and draw notes on maps.<br><br>
+<tab>The vertical row of cells on the left can be filled with objects with extraordinary properties (currently reserved).<br>
+<tab>To place an object in this window, simply <l="hts:\\language\i_mainp.hts">drag<\l> it to the desired cell. The object must correspond to the cell according to its purpose. If there is no match, the cell is highlighted in red when dragging is attempted. If there is a match, the cell is highlighted in green.<br>
+}

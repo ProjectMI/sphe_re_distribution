@@ -1,0 +1,14 @@
+hypertext
+{
+<cl=F0F010>Leiter:<cl=00FF00> Kannst du dieses alte Schwert nehmen? Du wirst nie erraten, was hinter der nächsten Kurve auf dich wartet.<br><br>
+
+<cl=FFFFFF>Verwenden Sie "I", um das Inventarfenster aufzurufen.<br>
+Aktivieren Sie den Cursor mit der rechten Maustaste.<br>
+Ziehen Sie den Gegenstand mit der Maus in das Inventarfenster.<br>
+Verwenden Sie Umschalt + linke Maustaste, um Informationen zum Thema zu erhalten.<br>
+Klicken Sie mit der linken Maustaste auf einen Gegenstand, um ihn mit der Hand zu "nehmen".<br>
+Verwenden Sie die rechte Maustaste, um den Kursormodus zu verlassen.<br><br>
+<l="hts:\\language\i_mainp.hts">Erfahren Sie mehr über das Management...<\l><br>
+<l="hts:\\language\inventory.hts">Mehr zum Inventar...<\l><br>
+<l="hts:\\language\helpindex.hts">Vollständige Hilfe zum Spiel (F1)<\l><br>
+}

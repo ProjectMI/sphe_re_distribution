@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>KAUF<cl=A2A2A2><br><br>
+Mit diesem Fenster können Sie Waren von den Bewohnern der Sphäre und von anderen Charakteren kaufen. In der linken Spalte befinden sich die Produktsymbole. Um eine Produktbeschreibung zu erhalten, müssen Sie darauf achten <cl=FFFFFF>sehen<cl=B0B0B0>. In der nächsten Spalte wird der Preis für diesen Artikel angezeigt. Es folgt das Eingabefeld für das Angebot des Preises. Wenn Sie mit der linken Maustaste darauf klicken, können Sie Ihren Preis anbieten.<br>
+<tab>Der Kauf einer Ware erfolgt durch Klicken auf das Häkchen "Kaufen" oder durch Ziehen eines Beutels mit Ihrem Geld auf das Produktsymbol. Wenn das Geld nicht ausreicht, wird das Häkchen schattiert.<br>
+<tab>Sie können auch Ihren Artikel verkaufen. Dazu gleichzeitig mit <cl=FFFFFF>kauffenster<cl=B0B0B0> Sie müssen öffnen <l="hts:\\language\tradechar.hts">verkaufsfenster <\l> (standard- "T" -Taste).<br>
+}

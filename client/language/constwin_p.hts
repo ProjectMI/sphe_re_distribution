@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>PAINÉIS DO SISTEMA<cl=A2A2A2><br><br>
+<tab>Os cantos superiores da tela estão sempre presentes <cl=FFFFFF>esquerda<cl=B0B0B0> e <cl=FFFFFF>painéis do sistema direito<cl=B0B0B0>. Se desejar, eles podem ser minimizados clicando nas setas correspondentes.<br><br>
+<tab><cl=00FF00>Painel esquerdo do sistema<cl=B0B0B0>.<br>
+<tab>No painel do sistema esquerdo há uma bússola (se você tem um personagem da missão, a bússola indica a direção da localização da missão), indicadores <cl=FFFFFF>Saúde<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0> e botões de janela: <l="hts:\\language\statinfo.hts">Estatísticas<\l>; <l="hts:\\language\i_charact.hts">Personagem<\l>; <l="hts:\\language\inventory.hts">Inventário<\l>; <l="hts:\\language\hotkeys.hts">Teclas de atalho<\l>; <l="hts:\\language\tradechar.hts">Comércio (vendas)<\l> e <l="hts:\\language\options.hts">Menu principal</l>.<br><br>
+<tab><cl=00FF00>Painel do sistema direito<cl=B0B0B0>.<br>
+<tab>O painel do sistema à direita exibe a data e a hora atuais no "Esfera" (o relógio pode ser convertido em uma visualização eletrônica com o botão esquerdo do mouse), bem como os botões de chamada: <l="hts:\\language\map.hts">Mapas<\l>; <l="hts:\\language\clan.hts">Janelas do Clã<\l>; <l="hts:\\language\chat.hts">Chat<\l>; <l="hts:\\language\alchemicbook.hts">Livros de receitas<\l>; <l="hts:\\language\mantrabook.hts">Livros de mantras<\l> e <l="hts:\\language\journal.hts">Revista<\l>.<br>
+}

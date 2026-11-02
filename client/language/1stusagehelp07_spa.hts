@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>VENDEDOR<br>
+<br>
+<cl=FFFFFF>El vendedor puede comprar varios artículos para thalers y venderle los suyos (algunas cosas no se pueden vender).<br>
+Para comprar un artículo, haga clic en la marca de verificación a la derecha del artículo y aparecerá en su inventario (I) o en la muñeca (P). Si no hay suficientes Táleros, el objeto se resaltará en rojo.<br>
+Para vender un artículo, arrástrelo a una celda vacía en la ventana Vender. Si el artículo se puede vender, aparecerá el precio ofrecido por el vendedor.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Ayuda completa del juego (F1)<\l><br>
+}

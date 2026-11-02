@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>FENÊTRE DU PERSONNAGE<cl=A2A2A2><br><br>
+<tab>Les cellules de cette fenêtre montrent les choses directement portées sur Votre personnage. Articles placés dans ces cellules après <l="hts:\\language\i_reincarn.hts">décès<\l> les personnages ne sont pratiquement pas perdus (perdus avec une très faible probabilité).<br>
+<tab>Les objets suivants peuvent être placés dans les cellules:<br>
+<tab><cl=FFFFFF>Casque<br>
+<tab>Amulette<br>
+<tab>Bouclier<br>
+<tab>Cotte de mailles<br>
+<tab>Gants<br>
+<tab>2 bracelets<br>
+<tab>4 anneaux<br>
+<tab>Pantalon<br>
+<tab>Chaussures<br><cl=B0B0B0>
+<tab>Ces choses peuvent améliorer <l="hts:\\language\i_charact.hts"> caractéristiques <\l> Votre personnage.<br>
+<tab>Dans la rangée verticale à droite, les éléments suivants peuvent être situés:<br>
+<tab><cl=FFFFFF>Livre de cartes<cl=B0B0B0> - vous permet de stocker des cartes.<br>
+<tab><cl=FFFFFF>Journal<cl=B0B0B0> - permet d'enregistrer des événements importants.<br>
+<tab><cl=FFFFFF>Livre de recettes<cl=B0B0B0> - vous permet de stocker des recettes et des manuscrits alchimiques.<br>
+<tab><cl=FFFFFF>Le livre des mantras<cl=B0B0B0> - permet de "mémoriser" les mantras.<br>
+<tab><cl=FFFFFF>Encrier<cl=B0B0B0> - vous permet de faire des entrées de journal et de dessiner des marques sur les cartes.<br><br>
+<tab>La rangée verticale de cellules à gauche peut être remplie avec des objets aux propriétés extraordinaires (actuellement réservés).<br>
+<tab>Pour placer un objet dans cette fenêtre, il suffit de <l="hts:\\language\i_mainp.hts">faites glisser<\l> dans la bonne cellule. L'objet doit correspondre à la cellule dans son but. S'il n'y a pas de correspondance, la cellule est mise en surbrillance en rouge lorsque vous essayez de faire glisser. S'il y a correspondance, la cellule est surlignée en vert.<br>
+}

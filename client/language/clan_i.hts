@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>Clan<cl=A2A2A2><br><br>
+<tab>La finestra del clan viene richiamata dal tasto " N "(predefinito) o dal pulsante" clan " in <l="hts:\\language\constwin.hts">Pannello di sistema destro.<\l><br>
+<tab>Se non fai parte di un clan, vedrai <cl=FFFFFF>finestra di creazione del clan.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Creazione di un clan<cl=A2A2A2><br>
+<tab>Selezionando la voce <cl=FFFFFF>"crea un clan"<cl=B0B0B0> . Puoi impostare il nome del tuo futuro clan e scegliere l'emblema (attualmente spento). Diventi automaticamente <cl=FFFFFF>Senor<cl=B0B0B0> nel nuovo clan. <cl=FF0000>Nel nome del clan non è consentito l'uso di parole maleducate e oscene, espressioni offensive.<cl=B0B0B0><br>
+<tab>Dopo aver selezionato un elemento <cl=FFFFFF>"entra nel clan"<cl=B0B0B0> l'iscrizione corrispondente è "incollata" al cursore. Dopodiché, devi fare clic con il pulsante sinistro del mouse su <cl=FFFFFF>Signore<cl=B0B0B0> o <cl=FFFFFF>Siniscalco<cl=B0B0B0> il clan di cui hai bisogno. Riceve la tua richiesta di adesione al clan e decide di accettare o non accettare.<br>
+<br><tab><cl=00FF00>Gerarchia dei clan<cl=A2A2A2><br>
+<tab>Ci sono 4 livelli in ogni clan:<br>
+<tab><cl=FFFFFF>Signore<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Siniscalco<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Vassallo<cl=B0B0B0><br>
+<tab><cl=FFFFFF>Neofita<cl=B0B0B0><br>
+<cl=FFFFFF>Signore<cl=B0B0B0> ha il diritto di accettare nel clan, escludere dal clan, promuovere e retrocedere Siniscalchi, vassalli, neofiti.<br>
+<cl=FFFFFF>Siniscalco<cl=B0B0B0> ha il diritto di accettare nel clan, escludere dal clan, promuovere e retrocedere vassalli e neofiti.<br>
+<cl=FFFFFF>Vassallo<cl=B0B0B0> ha il diritto di escludere i neofiti dal clan.<br>
+}

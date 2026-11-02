@@ -1,0 +1,22 @@
+hypertext
+{
+<tab><cl=F0F010>TOURNAMENTS<cl=A2A2A2><br><br>
+<tab>The tournament is a great opportunity to test your strength in a duel with a worthy opponent.
+To participate in the tournament, you need to submit an application for participation to the Organizer.
+The organizers are standing next to the main cities of Hyperion next to the tournament teleport.
+After registration, it remains to wait for the announcement of the start of the tournament, they will write about it in the chat.
+All participants should move to the arena using the tournament teleport near the Organizer.
+
+Please note that during the tournament, everyone who is waiting for their turn is not allowed to run into the arena or help other players.
+The tournament can be of the following types:<br>
+Duel: Players fight one-on-one<br>
+The winner is the player who survived, or who has more health left.
+If you run away from the arena, defeat is counted.<br>
+Some mantras and skills that allow you to win instantly are prohibited in the tournament.
+In addition, castle things can be put on, but they will not give an effect.<br><br>
+King of the Mountain: Everyone is fighting each other<br><br>
+The winner will receive the prize indicated on the registration window.<br><br>
+
+<l="hts:\\language\tournament_gvg.hts">Group<\l>: Players are divided into two groups that fight each other.<br>
+<br>
+}

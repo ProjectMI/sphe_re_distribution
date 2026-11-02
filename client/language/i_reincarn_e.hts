@@ -1,0 +1,8 @@
+hypertext
+{
+<tab><cl=F0F010>DEATH AND REBIRTH<cl=A2A2A2><br><br>
+<tab>In the world of the Sphere for visitors from Earth, death is not an irreversible event. We can enter this world again through the invisible portals left by the Weaver. However, living in the Sphere, each character accumulates <l="hts:\\language\i_charact.hts">karma<\l>. Depending on the state of karma, you are reborn in portals of different quality: from favorable to dangerous (only five gradations). Rebirth takes place in the nearest suitable portal to the place of death. Beware of rebirth on <l="hts:\\language\i_geo.hts">Charon<\l>. <br>
+<tab>At the moment of death, your character may lose some of the property accumulated in the <l="hts:\\language\inventory.hts"><\l> inventory. What is worn directly on the character (see <l="hts:\\language\puppet.hts">"Character Window"<\l>), as a rule, is not lost.  The size of the losses depends on your karma: the better it is, the less losses. Also, at death, a part of the accumulated <l="hts:\\language\i_charact.hts">title marks and degree marks is lost.<\l><br>
+<tab>Items placed in "eternal cells" in the <l="hts:\\language\inventory.hts">inventory are<\l> not lost.<br>
+<tab><cl=FFFFFF>Note: A character whose title or degree is less than 6th level (i.e. <l="hts:\\language\i_charact.hts">guest or unlearned<\l>) does not lose anything when dying.<br>
+}

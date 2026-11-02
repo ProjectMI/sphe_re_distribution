@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>BANCO<cl=A2A2A2><br><br>
+<tab>Esta ventana contiene objetos que están almacenados en el banco y son accesibles para los personajes de toda la cuenta. No se puede almacenar en el banco <l="hts:\\language\container.hts">contenedores<\l>.<br>
+<tab>El campo en la parte inferior de la ventana muestra el estado actual de la cuenta bancaria.<br>
+<tab>Al hacer clic en el botón "Cambiar contraseña", puede establecer o cambiar la contraseña para abrir el banco con el propósito de protección adicional.<br>
+<tab>Al pagar compras grandes (que cuestan más de$ 500,000), existe la posibilidad de transferir la cantidad faltante para pagar desde una cuenta bancaria. En este caso, se elimina una Comisión del 5% del precio de compra.<br>
+<tab>Para poner cualquier objeto en el banco, simplemente <l="hts:\\language\i_mainp.hts">arrastre<\l> en la celda correcta. El objeto debe coincidir con la celda para su propósito. Si no hay coincidencia, la celda se resalta en rojo cuando se intenta arrastrar. Si hay una coincidencia, la celda se resalta en verde.<br>
+}

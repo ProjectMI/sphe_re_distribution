@@ -1,0 +1,19 @@
+hypertext
+{
+<tab><cl=F0F010>CHAT<cl=A2A2A2><br><br>
+<tab>Das Chatfenster hat zwei Formen: ein vollständiges und ein kleines. Um zwischen den Formularen zu wechseln, klicken Sie auf die Schaltfläche "Chat" in <l="hts:\\language\constwin.hts">rechte Systemleiste<\l>.<br>
+<tab><cl=FFFFFF>In kleiner Form<cl=B0B0B0> Sie sehen die letzten beiden Nachrichtenzeilen. Um Ihre Nachricht einzugeben, drücken Sie die Taste "/" (Standardeinstellung). Dadurch wird ein Texteingabefeld angezeigt. Drücken Sie die Eingabetaste, um die Eingabe zu beenden. Um die Eingabe abzubrechen, klicken Sie auf die Schaltfläche "Fenster schließen" oder geben Sie eine leere Zeile ein.<br>
+<tab>Sie können Nachrichten in den folgenden Modi senden:<br>
+<tab><cl=FFFFFF>Flüstern<cl=B0B0B0> - Ihre Nachricht wird von Personen angezeigt, die sich nicht mehr als 10 Meter von Ihnen entfernt befinden.<br>
+<tab><cl=FFFFFF>Normale Sprache<cl=B0B0B0> - Ihre Nachricht wird von Personen angezeigt, die sich nicht mehr als 50 Meter von Ihnen entfernt befinden.<br>
+<tab><cl=FFFFFF>Handel<cl=B0B0B0> - Handelsnachrichten.<br>
+<tab><cl=FFFFFF>Der Clan<cl=B0B0B0> - Ihre Nachricht wird von denjenigen gesehen, die mit Ihnen im selben Clan sind.<br><br>
+<tab><cl=FFFFFF>Gruppe<cl=B0B0B0> - Ihre Nachricht wird von denjenigen gesehen, die mit Ihnen in derselben Gruppe sind.<br><br>
+<tab><cl=FFFFFF>In großer Chat-Form<cl=B0B0B0> Sie sehen einige der letzten Zeilen und können über die Bildlaufleiste mehrere hundert der letzten Beiträge anzeigen. Die Eingabe erfolgt auch mit der Taste "/" oder durch Klicken auf das Eingabefeld, das in dieser Form dauerhaft auf dem Bildschirm angezeigt wird.<br> Sie können auch Filter für Nachrichten setzen, indem Sie die Schaltflächen oben im Chatfenster verwenden: normales Gespräch, Clannachrichten, Systemnachrichten, Schadensmeldungen, Gruppenmeldungen, Handelsmeldungen.<br>
+<tab><cl=FFFFFF>Gesprächstyp wechseln<cl=B0B0B0> Sie können mit den Funktionstasten:<br>
+<cl=FFFFFF>F2<cl=B0B0B0><tab>- flüstern<br>
+<cl=FFFFFF>F3<cl=B0B0B0><tab>- normale Rede<br>
+<cl=FFFFFF>F4<cl=B0B0B0><tab>- handel<br>
+<cl=FFFFFF>F6<cl=B0B0B0><tab>- nachrichten für den Clan<br>
+<cl=FFFFFF>F7<cl=B0B0B0><tab>- nachrichten für die Gruppe<br>
+}

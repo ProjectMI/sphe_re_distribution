@@ -1,0 +1,9 @@
+hypertext
+{
+<cl=00FF00>ENTRÉE DU DONJON<br>
+<br>
+<cl=FFFFFF>Vous êtes entré dans le donjon.<br>
+Selon la mission, quelque part ici est un otage, un colis ou un monstre maléfique.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Aide complète du jeu (F1)<\l><br>
+}

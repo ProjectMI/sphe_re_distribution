@@ -1,0 +1,48 @@
+hypertext
+{
+<tab><cl=F0F010>ALLIANCES ET GUERRES<cl=A2A2A2><br><br>
+
+<tab>Liste des clans <cl=727272>gris<cl=A2A2A2> les noms des clans neutres sont écrits en couleur,
+<cl=00FF00>vert<cl=A2A2A2> - les noms des clans avec lesquels l'Alliance a été conclue,
+<cl=FF0000>rouge<cl=A2A2A2> - les noms des clans avec lesquels la guerre est en cours.<br>
+<br>
+<cl=FFFF00>Alliance<br>
+<cl=A2A2A2>
+<tab>
+Pour conclure une Alliance, vous devez posséder au moins un château.
+L'Alliance permet à un clan ami d'accéder au château d'un autre clan ami.
+Seuls les seigneurs des clans peuvent conclure et mettre fin à des alliances.
+Vous ne pouvez pas conclure une Alliance avec un clan si la guerre entre vos clans est impossible
+conclure plus de cinq alliances.<br>
+<tab>Pour conclure une Alliance, vous devez sélectionner un clan dans la liste et cliquez sur le bouton <cl=A0A000>"Conclure une Alliance".
+<cl=A2A2A2>Les seigneurs de ce clan seront invités à confirmer l'Alliance.<br>
+<tab>Quand l'un d'eux confirmera l'Union:<br>
+<cl=ABCDEF>
+- Les monstres dans les châteaux des clans alliés n'attaqueront pas les membres de l'Alliance,
+à moins, bien sûr, qu'ils ne soient attaqués par un invité du château.<br>
+- Les seigneurs et les sénéchaux du clan pourront envoyer des messages aux membres de l'Alliance
+en utilisant la commande de chat / sayally "texte du message".<br>
+- Les membres de l'Alliance pourront utiliser les téléports du château des alliés.<br>
+- La capture du château par le clan allié sera impossible.<br>
+<cl=A2A2A2>
+<tab>Pour résilier l'Alliance, vous devez sélectionner le clan de l'Alliance dans la fenêtre et cliquer sur le bouton <cl=A0A000>"Quitter l'Alliance."
+<cl=A2A2A2>
+<br><br><br>
+<cl=ABCDEF>Guerre<br>
+<cl=A2A2A2>
+<tab>Pendant les combats, lorsque vous tuez un ennemi, le Karma ne se gâte pas. Le clan ne peut pas participer
+plus de cinq guerres à la fois.
+De la même manière que les alliances, seuls les seigneurs de clan peuvent déclarer la guerre et conclure une trêve.<br>
+<tab>Pour déclarer la guerre, vous devez sélectionner un clan dans la liste et cliquez sur le bouton <cl=A0A000>"Déclarer la guerre."
+<cl=A2A2A2>
+Les seigneurs du clan choisi recevront une déclaration de guerre qu'ils peuvent accepter ou refuser.<br>
+<tab>Si l'un d'eux confirme le début de la guerre:<br>
+<cl=ABCDEF>
+- L'expérience perdue par l'ennemi à la mort sera partiellement transférée au vainqueur.<br>
+- Le Karma ne se gâtera pas en tuant des ennemis.<br>
+<cl=A2A2A2>
+<tab>Déclarer la guerre au clan avec lequel l'Alliance est conclue est impossible.
+Pour conclure une trêve, vous devez sélectionner le clan ennemi dans la fenêtre et cliquez sur le bouton <cl=A0A000>"Offrir la paix."<cl=A2A2A2>
+Les seigneurs du clan ennemi recevront un message de paix. Pour arrêter la guerre assez
+le consentement d'au moins un d'entre eux.<br>
+}

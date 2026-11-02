@@ -1,0 +1,48 @@
+hypertext
+{
+<tab><cl=F0F010>ALIANÇAS E GUERRAS<cl=A2A2A2><br><br>
+
+<tab>Lista de clãs <cl=727272>cinza<cl=A2A2A2> os nomes dos clãs neutros são escritos em cores,
+<cl=00FF00>verde<cl=A2A2A2> - nomes dos clãs com os quais a aliança foi concluída,
+<cl=FF0000>vermelho<cl=A2A2A2> os nomes dos clãs que estão em guerra.<br>
+<br>
+<cl=FFFF00>Aliança<br>
+<cl=A2A2A2>
+<tab>
+Para fazer uma aliança, é necessário possuir pelo menos um castelo.
+A aliança permite que um clã amigável tenha acesso ao Castelo de outro clã amigável.
+Somente os senhores dos clãs podem formar e dissolver alianças.
+Você não pode fazer uma aliança com um clã quando há uma guerra entre seus clãs e é impossível
+mais de cinco alianças.<br>
+<tab>Para formar uma aliança, você deve selecionar um clã na lista e clicar no botão <cl=A0A000>"Fazer uma aliança".
+<cl=A2A2A2>Os senhores deste Clã serão convidados a confirmar a aliança.<br>
+<tab>Quando um deles confirmar a União:<br>
+<cl=ABCDEF>
+- Monstros em castelos de clãs aliados não atacarão membros da aliança,
+a não ser que um convidado do Castelo Os ataque.<br>
+- Os senhores e senadores do Clã poderão enviar mensagens aos membros da aliança
+usando o comando de bate-papo / sayally "texto da mensagem".<br>
+- Os membros da aliança poderão usar os teleportadores do Castelo dos Aliados.<br>
+- A captura do castelo por um clã aliado não será mais possível.<br>
+<cl=A2A2A2>
+<tab>Para encerrar uma aliança, selecione um clã aliado na janela e clique no botão <cl=A0A000>"Sair da aliança".
+<cl=A2A2A2>
+<br><br><br>
+<cl=ABCDEF>Guerra<br>
+<cl=A2A2A2>
+<tab>Durante as hostilidades, ao matar o inimigo, o karma não se deteriora. O clã não pode participar
+mais de cinco guerras ao mesmo tempo.
+Assim como as alianças, apenas os senhores dos clãs podem declarar guerra e fazer armistício.<br>
+<tab>Para declarar guerra, selecione um clã na lista e pressione o botão <cl=A0A000>"Declarar guerra".
+<cl=A2A2A2>
+Os Senhores do Clã escolhido serão enviados com uma declaração de guerra, que eles podem aceitar ou recusar.<br>
+<tab>Se um deles confirmar o início da guerra:<br>
+<cl=ABCDEF>
+- A experiência perdida na morte do oponente será parcialmente transferida para o vencedor.<br>
+- O karma não se estraga ao matar inimigos.<br>
+<cl=A2A2A2>
+<tab>Declarar guerra a um clã com o qual uma aliança foi concluída é impossível.
+Para concluir uma trégua, selecione um clã inimigo na janela e pressione o botão <cl=A0A000>"Oferecer paz".<cl=A2A2A2>
+Os Senhores do clã inimigo receberão uma mensagem com uma oferta de paz. Para acabar com a guerra basta
+consentimento de pelo menos um deles.<br>
+}

@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CARACTERÍSTICAS DO PERSONAGEM<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Principais características<cl=A2A2A2><br>
+<tab>As principais características do personagem no mundo da esfera incluem <cl=FFFFFF>Saúde<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Saciedade<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>A saúde indica o estado físico do personagem. É um indicador importante. Se for igual a zero, o personagem <l="hts:\\language\i_reincarn.hts"> morre<\l>. Com o tempo, a saúde se recupera.<br><br>
+<tab>Prana é a força vital universal que é usada para realizar ações de combate e magia. Com a falta de prana, seu personagem pode se tornar impotente.<br><br>
+<tab>Karma é a medida das ações boas e más. Ninguém sabe o estado exato do seu karma. Você só pode ver o valor aproximado do carma: <br>
+<cl=FFFFFF><tab>"Muito ruim"<br>
+<tab>"Mau"<br>
+<tab>"Neutro"<br>
+<tab>"Boa"<br>
+<tab>"Boa"<br><br><cl=B0B0B0>
+<tab>O karma determina onde <l="hts:\\language\i_reincarn.hts">renasce<\l> personagem após a morte, e também afeta a capacidade de usar <l="hts:\\language\i_mantras.hts">mantras<\l>. Matar outros personagens ou criaturas neutras piora o karma, matar monstros perigosos pode melhorá-lo um pouco.<br><br>
+<tab>Cada personagem na esfera precisa de comida. Quanto menor a saciedade, mais lenta a recuperação da saúde do personagem.  Com zero saciedade, a saúde não é restaurada.<br>
+<tab>Se a saciedade for diferente de zero, até 1/3 do máximo, a vida máxima aumenta em 5%.<br>
+<tab>Quando você está cheio de 1/3 a 2/3 do máximo, a vida máxima aumenta em 10% e a rigidez da Corrida aumenta em 10%.<br>
+<tab>Quando você está cheio de 2/3 até o máximo, a vida máxima aumenta em 15% e a velocidade de corrida aumenta em 5%.<br>
+<br><tab><cl=00FF00>Título e grau<cl=A2A2A2><br>
+<tab><cl=FFFFFF>Título<cl=B0B0B0> mostra o nível de desenvolvimento no campo militar, <tab><cl=FFFFFF>Grau<cl=B0B0B0> - na arte mágica. Existem 12 títulos e 12 graus, cada um com 5 graus, com um total de 60 níveis. Os títulos e graus abaixo estão listados (os níveis correspondentes estão entre parênteses).<br>
+<br><tab><cl=F0F010>Títulos<br>
+<tab><cl=00FF00>viajante (1-5)<br>
+<tab>convidado (6-10)<br>
+<tab>cidadão (11-15)<br>
+<tab>cidadão (16-20)<br>
+<tab>escudeiro (21-25)<br>
+<tab>cavaleiro (26-30)<br>
+<tab>Barão (31-35)<br>
+<tab>Visconde (36-40) <br>
+<tab>Contagem (41-45)<br>
+<tab>Marquês (46-50)<br>
+<tab>Duque (51-55)<br>
+<tab>Príncipe (56-60)<br>
+<br><tab><cl=F0F010>Graus<br>
+<tab><cl=00FF00>não instruído (1-5) <br>
+<tab>candidato (6-10) <br>
+<tab>estudante (11-15) <br>
+<tab>noviço (16-20) <br>
+<tab>estudante (21-25) <br>
+<tab>estudante (26-30) <br>
+<tab>Graduação (31-35) <br>
+<tab>mestre (36-40) <br>
+<tab>doutor (41-45) <br>
+<tab>professor (46-50) <br>
+<tab>Reitor (51-55) <br>
+<tab>Reitor (56-60) <br><br><cl=B0B0B0>
+<tab>A partir do nível 21 por título (escudeiro) e do nível 26 por grau (bacharel), os títulos são nobres.<br>
+<tab>Para obter o próximo título ou grau, você deve obter uma certa quantidade <cl=FFFFFF>marcas do título<cl=B0B0B0> e <cl=FFFFFF>graus<cl=B0B0B0>.<br>
+<tab>Ao passar para um novo nível, você recebe uma certa quantidade de <cl=FFFFFF>elementais do título<cl=B0B0B0> e <cl=FFFFFF>elementais grau<cl=B0B0B0>. Com eles, você pode aumentar seus pontos <cl=FFFFFF>habilidades e elementos<cl=B0B0B0>. A obtenção do título dá mais elementais do título, o desenvolvimento do grau dá elementais do grau. Assim, no primeiro caso, as habilidades se desenvolvem mais e, no segundo, os elementos. Quando um novo personagem entra no mundo da esfera, ele recebe 4 elementais de Título e grau.<br>
+<br><tab><cl=00FF00>Habilidades<cl=A2A2A2><br>
+Mostram seu desenvolvimento físico, sua capacidade de lidar com armas não mágicas e outros itens. Apenas as funções básicas estão listadas abaixo.<br>
+<tab><cl=FF0000>Força<cl=B0B0B0> - é responsável por possuir um machado e, em parte, uma espada e uma besta.<br>
+<tab><cl=FF0000>Destreza<cl=B0B0B0> - posse de uma espada e, em parte, um machado e uma besta.<br>
+<tab><cl=FF0000>Precisão<cl=B0B0B0> - posse de uma besta e armas de cerco (catapulta).<br>
+<tab><cl=FF0000>Resistência<cl=B0B0B0> - a capacidade de usar escudos, cotas de malha e outros meios de proteção, bem como, em parte, tipos pesados de espadas e machados.<br>
+<br><tab><cl=00FF00>Elementos<cl=A2A2A2><br>
+<tab>Os níveis dos elementos refletem suas habilidades em vários tipos de magia.<br>
+<tab><cl=0000FF>Terra<cl=B0B0B0> - mostra a capacidade de usar ferramentas mágicas protetoras: amuletos, pulseiras, etc.a magia da Terra é principalmente destinada à defesa, ferramentas de ataque que usam este elemento são muito raras, mas bastante fortes.<br>
+<tab><cl=0000FF>Ar<cl=B0B0B0> - mostra a capacidade de usar a magia de longo alcance, bem como a magia associada com o movimento no espaço. <br>
+<tab><cl=0000FF>Água<cl=B0B0B0> - mostra a capacidade de usar magia curativa. As ferramentas de ataque que usam esse elemento são tão raras quanto a Terra.<br>
+<tab><cl=0000FF>Fogo<cl=B0B0B0> - mostra a capacidade de usar a magia corpo a corpo - causando os danos mais graves. <br><br>
+<tab>O nível de habilidades e elementos de seu personagem determina sua especialização e modo de existência no campo, portanto, recomenda-se pensar cuidadosamente sobre a estratégia de desenvolvimento <l="hts:\\language\i_starting.hts">desde o início.<\l><br>
+<br><tab><cl=00FF00>Proteção física e proteção mágica<cl=A2A2A2><br> 
+<tab>Esses parâmetros secundários determinam a capacidade do personagem de resistir a danos físicos (de armas frias) e mágicos. Os parâmetros dependem dos equipamentos de proteção disponíveis (armaduras, escudos, amuletos, etc., Veja também <l="hts:\\language\puppet.hts">"janela de personagem"<\l>) e também de <l="hts:\\language\i_mutators.hts">mutators<\l>.<br>
+<br><tab><cl=00FF00>Klan<cl=A2A2A2><br>
+<tab>Seu personagem, além de avançar nas hierarquias de Título e grau, pode participar da hierarquia do Clã. Para isso você precisa <l="hts:\\language\clan.hts">criar um novo clã ou aderir a um clã existente.<\l><br>
+<br><tab><cl=FFFFFF>Veja também: <l="hts:\\language\statinfo.hts">"Janela de estatísticas"<\l>.<cl=B0B0B0>
+}

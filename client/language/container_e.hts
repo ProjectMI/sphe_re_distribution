@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>CONTAINER<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>A container<cl=B0B0B0> can be a bag, a pouch, a chest - that is, any container in which other objects can be placed. The container is opened and closed by clicking the left mouse button. Each container has its own weight, as well as the maximum possible weight (together with the things in it). You can find out these weights if you <l="hts:\\language\i_mainp.hts">"look"<\l> at the container. You will not be able to place an object in a container if its maximum weight is exceeded.<br>Some containers have special cells for certain items - for example, in the chests of hotel rooms, the last few cells are used for alchemical ingredients and magic powders.<br>
+}

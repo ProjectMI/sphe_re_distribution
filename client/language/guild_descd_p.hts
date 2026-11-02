@@ -1,0 +1,99 @@
+hypertext
+{
+Gild Hunter<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: + 40<br>
+<tab>Proteção mágica: + 82<br>
+<tab>Força: -6<br>
+<tab>Precisão: + 6<br>
+<tab>Resistência: -4<br>
+<tab>Elementos: -4<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico + 80, por 1 hora, a cada 4 horas<br>
+<tab>Lança dupla: 10 minutos, uma vez a cada 10 horas<br>
+<tab>Andarilho: 20 minutos, a cada 6 horas<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: + 74<br>
+<tab>Proteção mágica: +150<br>
+<tab>Força: -10<br>
+<tab>Precisão: +10<br>
+<tab>Resistência: -6<br>
+<tab>Elementos: -6<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico +120, por 1 hora, a cada 4 horas<br>
+<tab>Lança dupla: 10 minutos, a cada 8 horas<br>
+<tab>Andarilho: 30 minutos, a cada 6 horas<br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +180<br>
+<tab>Proteção mágica: +248<br>
+<tab>Força: -14<br>
+<tab>Precisão: +14<br>
+<tab>Resistência: -20<br>
+<tab>Elementos: -10<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico +250, por 1 hora, a cada 3 horas<br>
+<tab>Lança dupla: 15 minutos, a cada 7 horas<br>
+<tab>Andarilho: 35 minutos, a cada 5 horas<br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +220<br>
+<tab>Proteção mágica: +412<br>
+<tab>Força: -18<br>
+<tab>Precisão: +18<br>
+<tab>Resistência: -28<br>
+<tab>Elementos: -15<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico + 420, por 1 hora, a cada 3 horas<br>
+<tab>Lança dupla: 15 minutos, a cada 7 horas<br>
+<tab>Andarilho: 40 minutos, a cada 4 horas<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +340<br>
+<tab>Proteção mágica: +653<br>
+<tab>Força: -24<br>
+<tab>Precisão: +24<br>
+<tab>Resistência: -42<br>
+<tab>Elementos: -20<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico + 750, por 1 hora, a cada 2 horas<br>
+<tab>Lança dupla: 15 minutos, a cada 7 horas<br>
+<tab>Andarilho: 35 minutos, a cada 3 horas<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grau máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Proteção física: +480<br>
+<tab>Proteção mágica: +960<br>
+<tab>Força: -48<br>
+<tab>Precisão: + 48<br>
+<tab>Resistência: -60<br>
+<tab>Elementos: -24<br>
+<tab><br>
+<tab>Olho de Belkin: ataque físico +1200, por 40 minutos, a cada 2 horas<br>
+<tab>Lança dupla: 30 minutos, a cada 5 horas<br>
+<tab>Andarilho: 30 minutos, uma vez a cada 2 horas<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildd.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_descc.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desce.hts">Próxima guilda<\l><br>
+}

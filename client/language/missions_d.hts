@@ -1,0 +1,14 @@
+hypertext
+{
+<tab><cl=F0F010>EINE MISSION ERHALTEN<cl=A2A2A2><br><br>
+<tab>Im Fenster zum Abrufen des Missionsschlüssels können Sie den Typ der Mission, ihren Standort und die Anzahl der Teilnehmer auswählen. Es gibt folgende Arten von Missionen:<br>
+<tab><cl=FFFFFF>Mission für den Titel<cl=B0B0B0>. Nach erfolgreichem Abschluss erhalten Sie die Marken des Titels.<br>
+<tab><cl=FFFFFF>Mission für den Abschluss<cl=B0B0B0>. Bei erfolgreichem Abschluss erhalten Sie die Stempel des Grades.<br>
+<tab><cl=FFFFFF>Mission um des Geldes willen<cl=B0B0B0>. Bei erfolgreichem Abschluss erhalten Sie eine Geldprämie.<br>
+<tab><cl=FFFFFF>Mission für Karma<cl=B0B0B0>. Wenn Sie erfolgreich sind, wird sich Ihr Karma verbessern.<br><br>
+<tab>Der Standort der Mission kann entweder "in der Nähe" oder auf einem der Kontinente liegen. Wenn du eine Mission "in der Nähe" nimmst, wirst du sie garantiert in der Nähe des Ortes finden, an dem du den Missionsschlüssel erhalten hast. In diesem Fall wird Ihre Belohnung jedoch 3-4 Mal geringer sein.<br>
+<tab>Die Anzahl der Missionsteilnehmer kann von 1 bis 4 variieren. Die Komplexität der Mission nimmt dabei proportional zu. Wenn die Mission abgeschlossen ist, erhalten alle, die sich derzeit in der Nähe des erreichten Ziels befinden (z. B. in einem Dungeon), eine Belohnung. Die Mission muss von allen Teilnehmern übernommen werden. Um dies zu tun, wird der Missionsschlüssel von einem Teilnehmer genommen und dann <cl=FFFFFF>wendet an<cl=B0B0B0> es ist auf den anderen. Der Schlüssel wird dabei beliebig oft dupliziert. Sie können eine Mission für zwei bis fünf absolvieren. Die Vergütung wird dabei durch die entsprechende Teilnehmerzahl aufgeteilt.<br>
+<tab>Beachten Sie, dass der Missionsschlüssel ungefähr einen Tag nach der Zeit der Kugel (2 Stunden nach irdischer Zeit) verbrannt wird.<br>
+<tab>Sie können den Missionsschlüssel nicht nehmen, wenn Sie bereits einen haben. Außerdem kannst du den erhaltenen Missionsschlüssel erst loswerden, wenn er abläuft.<br>
+<tab>Die Beschreibung der Mission kann gelesen werden, wenn <cl=FFFFFF>sehen<cl=B0B0B0> auf den Schlüssel der Mission.<br>
+}

@@ -1,0 +1,48 @@
+hypertext
+{
+<tab><cl=F0F010>ALLIANZEN UND KRIEGE<cl=A2A2A2><br><br>
+
+<tab>Auf der Liste der Clans <cl=727272>grau<cl=A2A2A2> die Namen der neutralen Clans sind in Farbe geschrieben,
+<cl=00FF00>grün<cl=A2A2A2> - die Namen der Clans, mit denen eine Allianz geschlossen wurde,
+<cl=FF0000>rot<cl=A2A2A2> - die Namen der Clans, gegen die es Krieg gibt.<br>
+<br>
+<cl=FFFF00>Allianz<br>
+<cl=A2A2A2>
+<tab>
+Um eine Allianz zu schließen, müssen Sie mindestens ein Schloss besitzen.
+Die Allianz ermöglicht es einem befreundeten Clan, Zugang zum Schloss eines anderen befreundeten Clans zu erhalten.
+Nur Clan-Señoren können Allianzen schließen und auflösen.
+Du kannst keine Allianz mit einem Clan schließen, wenn zwischen deinen Clans Krieg herrscht und es unmöglich ist
+schließe mehr als fünf Allianzen ab.<br>
+<tab>Um eine Allianz zu schließen, müssen Sie einen Clan in der Liste auswählen und auf die Schaltfläche klicken <cl=A0A000>"Eine Allianz schließen".
+<cl=A2A2A2>Die Senatoren dieses Clans werden aufgefordert, die Allianz zu bestätigen.<br>
+<tab>Wenn einer von ihnen die Vereinigung bestätigt:<br>
+<cl=ABCDEF>
+- Die Monster in den Burgen der alliierten Clans werden die Mitglieder der Allianz nicht angreifen,
+es sei denn, sie werden von einem Burggast angegriffen.<br>
+- Die Senoren und Seneshali des Clans können Nachrichten an Mitglieder der Allianz senden
+verwenden Sie den Chat-Befehl /sayally "Nachrichtentext".<br>
+- Allianzmitglieder können die Teleporter der Verbündeten benutzen.<br>
+- Die Eroberung des Schlosses durch den alliierten Clan wird nicht mehr möglich sein.<br>
+<cl=A2A2A2>
+<tab>Um eine Allianz zu kündigen, wählen Sie im Fenster einen verbündeten Clan aus und klicken auf die Schaltfläche <cl=A0A000>"Die Allianz verlassen."
+<cl=A2A2A2>
+<br><br><br>
+<cl=ABCDEF>Krieg<br>
+<cl=A2A2A2>
+<tab>Während des Kampfes, wenn ein Feind getötet wird, verschlechtert sich das Karma nicht. Der Clan kann nicht teilnehmen
+in mehr als fünf Kriegen gleichzeitig.
+Ähnlich wie Allianzen können nur Clan-Oberhäupter Krieg erklären und einen Waffenstillstand schließen.<br>
+<tab>Um einen Krieg zu erklären, müssen Sie einen Clan in der Liste auswählen und auf die Schaltfläche klicken <cl=A0A000>"Krieg erklären."
+<cl=A2A2A2>
+Den Senatoren des gewählten Clans wird eine Kriegserklärung geschickt, die sie akzeptieren oder ablehnen können.<br>
+<tab>Wenn einer von ihnen den Beginn des Krieges bestätigt:<br>
+<cl=ABCDEF>
+- Die Erfahrung, die ein Gegner beim Tod verliert, wird zum Teil an den Gewinner übertragen.<br>
+- Das Karma wird beim Töten von Feinden nicht verderben.<br>
+<cl=A2A2A2>
+<tab>Es ist unmöglich, einem Clan, mit dem eine Allianz geschlossen wurde, Krieg zu erklären.
+Um einen Waffenstillstand zu schließen, müssen Sie einen feindlichen Clan im Fenster auswählen und auf die Schaltfläche klicken <cl=A0A000>"Frieden vorschlagen".<cl=A2A2A2>
+Die Segen des feindlichen Clans erhalten eine Nachricht mit einem Friedensangebot. Genug, um den Krieg zu beenden
+die Zustimmung von mindestens einem von ihnen.<br>
+}

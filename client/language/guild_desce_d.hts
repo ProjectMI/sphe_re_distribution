@@ -1,0 +1,63 @@
+hypertext
+{
+Erzmagiergilde<br>
+<br>
+<cl=00FF00>Die erste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Physische Verteidigung: +96<br>
+<tab>Ausdauer: -6<br>
+<tab>Der Rest Fertigkeiten: -4<br>
+<tab>Elemente: +12<br>
+<br>
+<cl=00FF00>Die zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Physische Verteidigung: +190<br>
+<tab>Ausdauer: -10<br>
+<tab>Der Rest Fertigkeiten: -6<br>
+<tab>Elemente: +18<br>
+<br>
+<cl=00FF00>Die Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Der minimale Grad: 31<br>
+<br><cl=ABCDEF>
+<tab>Physische Verteidigung: +297<br>
+<tab>Ausdauer: -14<br>
+<tab>Der Rest Fertigkeiten: -10<br>
+<tab>Elemente: +25<br>
+<br>
+<cl=00FF00>Die vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Der minimale Grad: 41<br>
+<br><cl=ABCDEF>
+<tab>Physische Verteidigung: +512<br>
+<tab>Ausdauer: -18<br>
+<tab>Der Rest Fertigkeiten: -14<br>
+<tab>Elemente: +36<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +808<br>
+<tab>Ausdauer: -24<br>
+<tab>Der Rest Fertigkeiten: -18<br>
+<tab>Elemente: +48<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Maximaler Titel: 15<br>
+<tab><tab>Der minimale Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Physische Verteidigung: +1320<br>
+<tab>Ausdauer: -48<br>
+<tab>Der Rest Fertigkeiten: -24<br>
+<tab>Elemente: +56<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Liste der Gilden<\l><br>
+<sp><l="hts:\\language\guilde.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descd.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descf.hts">Nächste Gilde<\l><br>
+}

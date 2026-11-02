@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>Gestão<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Gestão<cl=A2A2A2><br>
+<tab>O jogo tem dois modos de controle: <cl=FFFFFF>geral<cl=B0B0B0> e <cl=FFFFFF>Batalha<cl=B0B0B0>.  No modo geral, o cursor do mouse tradicional (na forma de uma seta) está presente na tela. Você pode manipular janelas e objetos do jogo. O modo de combate é projetado principalmente para lutas dinâmicas e transições de longa distância. Não há cursor do mouse móvel na tela - o cursor é indicado por uma Mira localizada no centro da tela. Alterne entre os modos usando a tecla TAB (padrão).<br>
+<br><tab><cl=00FF00>Mão<cl=A2A2A2><br>
+<tab>A mão do seu personagem pode ser <cl=FFFFFF>"livre"<cl=B0B0B0> ou <cl=FFFFFF>"ocupado"<cl=B0B0B0>. <cl=FFFFFF>Mão<cl=B0B0B0> "pegue" objetos (por exemplo, armas) que precisam executar constantemente qualquer ação. Quando a mão está ocupada, uma imagem da mão aparece no canto inferior direito da tela, juntamente com o objeto que está nela. Só é possível colocar objetos na mão <l="hts:\\language\inventory.hts">inventário<\l>. Para liberar sua mão, pressione a tecla
+"-".<br>
+<br><tab><cl=00FF00>Gestão no modo geral<cl=A2A2A2><br>
+<tab>A aparência do cursor reflete a ação que seu personagem deseja (ou tem a capacidade) de realizar.<br>
+<tab><cl=FFFFFF>Retroiluminado<cl=B0B0B0> em amarelo, o cursor aponta para um objeto ao seu alcance (3 metros). Você pode <cl=FFFFFF>usar<cl=B0B0B0> este objeto é carregado com o botão esquerdo do mouse. Quando usado, alguns itens (principalmente armas, pós medicinais, mantras) são movidos automaticamente para <cl=FFFFFF>braço<cl=B0B0B0> Seu personagem.<br>
+<tab>Quando <cl=FFFFFFF>na mão há um objeto<cl=B0B0B0> . seu ícone está constantemente "colado" ao cursor. Dependendo do alcance do objeto em sua mão, ele pode ser <cl=FFFFFF>usar<cl=B0B0B0> para influenciar objetos mais ou menos distantes no mundo circundante com um clique do botão esquerdo do mouse.<br>
+<tab><cl=FFFFFF>Olho<cl=B0B0B0> perto do cursor aparece quando você pressiona e mantém pressionada a tecla Shift. Nesse estado você pode <cl=FFFFFF>ver todos<cl=B0B0B0> clique no objeto desejado com o botão esquerdo do mouse. Se o objeto desejado estiver perto o suficiente, você receberá uma descrição completa, mas se o objeto estiver longe, você verá apenas o nome.<br>
+<tab><cl=FFFFFF>Homenzinho<cl=B0B0B0> perto do cursor aparece quando você pressiona e mantém pressionada a tecla Alt. Nesse caso, você pode <cl=FFFFFF>usar<cl=B0B0B0> alvo em si mesmo.<br>
+<tab><cl=FFFFFF>Ao arrastar<cl=B0B0B0> o ícone de um objeto aparece temporariamente perto do cursor. Para arrastar, você precisa clicar no item com o botão esquerdo e, mantendo-o pressionado, movê-lo para o local desejado se a mão estiver ocupada, você não poderá mover o objeto.<br>
+<tab>No modo geral, Você também pode manipular as janelas, em particular - movê-las pela tela, ajustar a aparência conveniente para você. A localização das janelas é salva nas próximas entradas do jogo, a menos que o modo de vídeo seja alterado.
+<br><tab>Pressionar e segurar o botão direito do mouse no modo geral fixa o cursor no centro da tela e permite que você alterne temporariamente para o modo de combate.<br>
+<br><tab><cl=00FF00>Controle em Modo de batalha<cl=A2A2A2><br>
+Neste modo, o cursor discreto está ausente e o cursor pairado está localizado no centro da tela. O mouse é usado para girar. A reação ao movimento do mouse para cima e para baixo pode ser definida nas configurações de controle, em "inversão do mouse".<br>
+<tab>As teclas Shift, Alt e botão esquerdo do mouse são usadas da mesma maneira que no modo geral. Não é possível arrastar objetos no modo de batalha.<br>
+<br><tab><cl=00FF00>Teclas de atalho<cl=A2A2A2><br>
+<tab>Para um rápido <cl=FFFFFF>uso<cl=B0B0B0> você pode usar teclas de atalho para itens em seu inventário. Assim são as teclas 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 no teclado principal. Em combinação com a tecla Ctrl, um total de 20 teclas de atalho podem ser definidas. Para atribuir um objeto a uma tecla de atalho, use <l="hts:\\language\hotkeys.hts">janela de teclas de atalho<\l>.<br>
+<br><tab><cl=00FF00>Punho<cl=A2A2A2><br>
+<tab>Se não for possível usar uma arma por algum motivo, você pode usar seus próprios punhos (til: "`"). Com o punho, você pode infligir danos fracos, mas frequentes ao inimigo.<br>
+}

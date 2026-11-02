@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CARACTERÍSTICAS DEL PERSONAJE<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Características principales<cl=A2A2A2><br>
+<tab>Las principales características del personaje en el mundo de la Esfera incluyen <cl=FFFFFF>Salud<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Saciedad<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>La salud muestra el estado del cuerpo físico del personaje. Este es el indicador más importante. Si se convierte en cero, el personaje <l="hts:\\language\i_reincarn.hts"> muere<\l>. Con el tiempo, la Salud se recupera.<br><br>
+<tab>Prana es la fuerza vital universal que se gasta en la realización de acciones marciales y mágicas. Con la falta de Prana, Tu personaje puede volverse impotente.<br><br>
+<tab>El karma es la medida de los actos buenos y malos. Nadie conoce el estado exacto de su karma. Solo puedes ver el significado Aproximado del Karma: <br>
+<cl=FFFFFF><tab>"Muy mala"<br>
+<tab>"Mala"<br>
+<tab>"Neutral"<br>
+<tab>"Buena"<br>
+<tab>"Bueno"<br><br><cl=B0B0B0>
+<tab>El karma determina dónde <l="hts:\\language\i_reincarn.hts">renace<\l> el personaje después de la muerte, y también afecta la posibilidad de uso <l="hts:\\language\i_mantras.hts">mantras<\l>. Matar a otros personajes o criaturas neutrales empeora el karma, matar monstruos peligrosos puede mejorarlo un poco.<br><br>
+<tab>Cada personaje en la Esfera necesita comida. Cuanto menor sea la Saciedad, más lenta será la recuperación de la Salud del personaje.  Con la Saciedad cero, la Salud no se restaura en absoluto.<br>
+<tab>Con una Saciedad distinta de cero a 1/3 de la máxima, la Salud máxima aumenta en un 5%.<br>
+<tab>Con una Saciedad de 1/3 a 2/3 de la máxima, la Salud máxima aumenta en un 10% y la agilidad de carrera aumenta en un 10%.<br>
+<tab>Con una Saciedad de 2/3 a la máxima, la Salud máxima aumenta en un 15% y la velocidad de carrera aumenta en un 5%.<br>
+<br><tab><cl=00FF00>Título y Grado<cl=A2A2A2><br>
+<tab><cl=FFFFFF>Título<cl=B0B0B0> muestra el nivel de desarrollo en asuntos militares, <tab><cl=FFFFFF>Grado<cl=B0B0B0> - en el arte mágico. Hay 12 títulos y 12 grados, en cada 5 gradaciones, un total de 60 niveles. A continuación se enumeran los títulos y grados (entre paréntesis están sus respectivos niveles).<br>
+<br><tab><cl=F0F010>Títulos<br>
+<tab><cl=00FF00>viajero (1-5)<br>
+<tab>invitado (6-10)<br>
+<tab>ciudadano (11-15)<br>
+<tab>ciudadano (16-20)<br>
+<tab>Escudero (21-25)<br>
+<tab>Chevalier (26-30)<br>
+<tab>Barón (31-35)<br>
+<tab>vizconde (36-40) <br>
+<tab>Conde (41-45)<br>
+<tab>Marqués (46-50)<br>
+<tab>Duque (51-55)<br>
+<tab>Príncipe (56-60)<br>
+<br><tab><cl=F0F010>Grados<br>
+<tab><cl=00FF00>no entrenado (1-5) <br>
+<tab>candidato (6-10) <br>
+<tab>estudiante (11-15) <br>
+<tab>Noviciado (16-20) <br>
+<tab>estudiante (21-25) <br>
+<tab>estudiante (26-30) <br>
+<tab>licenciatura (31-35) <br>
+<tab>Máster (36-40) <br>
+<tab>médico (41-45) <br>
+<tab>profesor (46-50) <br>
+<tab>decano (51-55) <br>
+<tab>rector (56-60) <br><br><cl=B0B0B0>
+<tab>A partir del nivel 21 en el título (Escudero) y del nivel 26 en el grado (licenciatura), los títulos son nobiliarios.<br>
+<tab>Para obtener el siguiente título o título, debe obtener una cierta cantidad <cl=FFFFFF>marcas del título<cl=B0B0B0> y <cl=FFFFFF>grados de grado<cl=B0B0B0>.<br>
+<tab>Al pasar al siguiente nivel se obtiene una cierta cantidad de <cl=FFFFFF>elementales del título<cl=B0B0B0> y <cl=FFFFFF>elementales grado<cl=B0B0B0>. Con su ayuda, puede aumentar los puntos de Su <cl=FFFFFF>habilidades y elementos<cl=B0B0B0>. Obtener un título produce más elementales de título, desarrollar un grado - elementales de grado. En consecuencia, en el primer caso, las habilidades se desarrollan más, y en el segundo, los elementos. Cuando un nuevo personaje entra en el mundo de la Esfera, recibe 4 elementales de título y grado.<br>
+<br><tab><cl=00FF00>Habilidades<cl=A2A2A2><br>
+Muestra tu desarrollo físico, tu habilidad para manejar armas no mágicas y otros objetos. A continuación se enumeran sólo las funciones básicas.<br>
+<tab><cl=FF0000>Poder<cl=B0B0B0> es responsable de la posesión del hacha y, en parte, de la espada y la Ballesta.<br>
+<tab><cl=FF0000>Agilidad<cl=B0B0B0> - posesión de espada y, en parte, de hacha y Ballesta.<br>
+<tab><cl=FF0000>Precisión<cl=B0B0B0> - posesión de Ballesta y armas de asedio (catapulta).<br>
+<tab><cl=FF0000>Resistencia<cl=B0B0B0> - la capacidad de usar escudos, cota de malla y otros medios de protección, así como, en parte, tipos pesados de espadas y hachas.<br>
+<br><tab><cl=00FF00>Elementos<cl=A2A2A2><br>
+<tab>Los niveles elementales reflejan Tus habilidades en diferentes tipos de magia.<br>
+<tab><cl=0000FF>Tierra<cl=B0B0B0> - muestra la capacidad de usar medios mágicos protectores: amuletos, pulseras, etc. la Magia de la Tierra está dirigida principalmente a la defensa, los medios atacantes que usan este elemento son muy raros, pero bastante fuertes.<br>
+<tab><cl=0000FF>Aire<cl=B0B0B0> - muestra la capacidad de usar la magia a distancia, así como la magia asociada con el movimiento en el espacio. <br>
+<tab><cl=0000FF>Agua<cl=B0B0B0> - muestra la capacidad de usar magia curativa. Los medios de ataque que utilizan este elemento son tan raros como en el caso de la Tierra.<br>
+<tab><cl=0000FF>Fuego<cl=B0B0B0> - muestra la capacidad de usar la magia del combate cuerpo a cuerpo, que causa los daños más graves. <br><br>
+<tab>El nivel de habilidades y elementos de Tu personaje determina su Especialización y la forma de existir en la Esfera, por lo que se recomienda pensar cuidadosamente la estrategia de desarrollo <l="hts:\\language\i_starting.hts">desde el principio.<\l><br>
+<br><tab><cl=00FF00>Protección física y protección mágica<cl=A2A2A2><br> 
+<tab>Estos parámetros secundarios determinan la capacidad del personaje para resistir daños físicos (de armas blancas) y mágicos. Estos parámetros dependen de los medios de protección disponibles (armaduras, escudos, amuletos, etc., ver también <l="hts:\\language\puppet.hts">"ventana del personaje"<\l>), así como de <l="hts:\\language\i_mutators.hts">mutadores<\l>.<br>
+<br><tab><cl=00FF00>Clan<cl=A2A2A2><br>
+<tab>Tu personaje, además de avanzar en las jerarquías de título y grado, puede participar en la jerarquía del clan. Para eso necesitas <l="hts:\\language\clan.hts">crear uno nuevo o unirse a un clan existente.<\l><br>
+<br><tab><cl=FFFFFF>Véase también: <l="hts:\\language\statinfo.hts">"Ventana de estadísticas"<\l>.<cl=B0B0B0>
+}

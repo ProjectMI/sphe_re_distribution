@@ -1,0 +1,8 @@
+hypertext
+{
+<tab><cl=F0F010>TOD UND WIEDERGEBURT<cl=A2A2A2><br><br>
+<tab>In der Welt der Kugel ist der Tod für Gäste von der Erde kein irreversibles Ereignis. Wir können durch die unsichtbaren Portale, die der Weber hinterlassen hat, wieder in diese Welt eindringen. Wenn man jedoch in einer Sphäre lebt, sammelt sich jeder Charakter an <l="hts:\\language\i_charact.hts">karma<\l>. Je nach Karmazustand werden Sie in Portalen unterschiedlicher Qualität wiedergeboren, von günstig bis gefährlich (insgesamt fünf Abstufungen). Die Wiedergeburt findet in einem geeigneten Portal in der Nähe des Todesortes statt. Hüten Sie sich vor der Wiedergeburt auf <l="hts:\\language\i_geo.hts">Harone<\l>. <br>
+<tab>Zum Zeitpunkt des Todes kann dein Charakter einen Teil des angesammelten in verlieren <l="hts:\\language\inventory.hts">inventar<\l> eigentum. Das, was direkt auf dem Charakter getragen wird (siehe <l="hts:\\language\puppet.hts">"Charakterfenster"<\l>) geht in der Regel nicht verloren.  Die Größe der Verluste hängt von Ihrem Karma ab: Je besser es ist, desto geringer ist der Verlust. Auch beim Tod geht ein Teil des Angesammelten verloren <l="hts:\\language\i_charact.hts">titel- und Gradmarken.<\l><br>
+<tab>Dinge, die in "ewige Zellen" in <l="hts:\\language\inventory.hts">inventar<\l>, nicht verloren gehen.<br>
+<tab><cl=FFFFFF>Hinweis: Ein Charakter, dessen Titel oder Grad kleiner als Stufe 6 ist (dh <l="hts:\\language\i_charact.hts">gast oder Ungelernter<\l>) verliert beim Tod nichts.<br>
+}

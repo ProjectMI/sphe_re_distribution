@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>MANAGEMENT<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Management<cl=A2A2A2><br>
+<tab>The game has two control modes: <cl=FFFFFF>general<cl=B0B0B0> and <cl=FFFFFF>combat<cl=B0B0B0>.  In general mode, there is a traditional (arrow-shaped) mouse cursor on the screen. You can manipulate windows and game objects. Combat mode is designed mainly for dynamic duels and long-distance transitions. There is no movable mouse cursor on the screen - the cursor is indicated by a crosshair located in the center of the screen. Switching between modes is done using the TAB key (by default).<br>
+<br><tab><cl=00FF00>The hand<cl=A2A2A2><br>
+<tab>Your character's hand can be either <cl=FFFFFF>"free"<cl=B0B0B0> or <cl=FFFFFF>"occupied"<cl=B0B0B0>. The <cl=FFFFFF>hand<cl=B0B0B0> "takes" objects (for example, weapons) with which you need to constantly perform some action. When the "hand is busy", an image of the hand appears in the lower right corner of the screen along with the object that is in it. Only objects in the <l="hts:\\language\inventory.hts">inventory can be placed in the hand<\l>. To release your hand, press
+"-".<br>
+<br><tab><cl=00FF00>Control in general mode<cl=A2A2A2><br>
+<tab>The appearance of the cursor reflects the action that your character wants (or has the ability to) commit.<br>
+<tab><cl=FFFFFF>The<cl=B0B0B0> yellow-highlighted cursor points to an object within your reach (3 meters). You can <cl=FFFFFF>use<cl=B0B0B0> this object by clicking the left mouse button. When used, some items (mainly weapons, healing powders, mantras) automatically move into <cl=FFFFFF><cl=B0B0B0> your character's hand.<br>
+<tab>When there <cl=FFFFFFF>is an object in the hand<cl=B0B0B0>, its icon is constantly "glued" to the cursor. Depending on the range of the object in your hand, it can be <cl=FFFFFF>used<cl=B0B0B0> to influence more or less distant objects in the surrounding world with a click of the left mouse button.<br>
+<tab><cl=FFFFFF>The eye<cl=B0B0B0> near the cursor appears when you press and hold the Shift key. In this state, you can <cl=FFFFFF>look<cl=B0B0B0> at the desired object by clicking the left mouse button. If the object you need is close enough, you will get a full description, but if the object is far away, you will only see the name.<br>
+<tab><cl=FFFFFF>The little man<cl=B0B0B0> next to the cursor appears when you press and hold the Alt key. In this case, you can <cl=FFFFFF>use the<cl=B0B0B0> object on yourself.<br>
+<tab><cl=FFFFFF>When you drag<cl=B0B0B0> an object, its icon temporarily appears near the cursor. To drag and drop, you need to click on the item with the left button and, without releasing it, move it to the right place If the hand is occupied, it is impossible to move the object.<br>
+<tab>In general mode, you can also perform manipulations with windows, in particular, move them around the screen, customize the view that is convenient for you. The location of the windows is saved the next time you enter the game, if the video mode has not changed.
+<br><tab>Pressing and holding the right mouse button in general mode fixes the cursor in the center of the screen and allows you to temporarily switch to combat mode.<br>
+<br><tab><cl=00FF00>Control in combat mode<cl=A2A2A2><br>
+In this mode, there is no unobtrusive cursor, and the hovered cursor is located in the center of the screen. The mouse is used for turns. The reaction to the mouse movement up and down can be set in the control settings, in the "mouse inversion" item.<br>
+<tab>The Shift, Alt and left mouse buttons are used in the same way as in general mode. Dragging objects in combat mode is not possible.<br>
+<br><tab><cl=00FF00>Keyboard shortcuts<cl=A2A2A2><br>
+<tab>To quickly <cl=FFFFFF>use the<cl=B0B0B0> items in your inventory, you can use the "hotkeys". These are the keys 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 on the main keyboard. In combination with the Ctrl key, you can set a total of 20 hotkeys. To assign an object to a "hotkey", use the <l="hts:\\language\hotkeys.hts">hotkey window<\l>.<br>
+<br><tab><cl=00FF00>The Fist<cl=A2A2A2><br>
+<tab>In case the use of weapons is impossible for some reason, you can use your own fists (tilde key: "`"). With the help of a fist, you can inflict weak but frequent damage to the enemy.<br>
+}

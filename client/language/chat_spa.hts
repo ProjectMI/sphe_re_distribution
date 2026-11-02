@@ -1,0 +1,19 @@
+hypertext
+{
+<tab><cl=F0F010>CHAT<cl=A2A2A2><br><br>
+<tab>La ventana de chat tiene dos formas: completa y pequeña. El cambio entre los formularios se realiza a través del botón "chat" en <l="hts:\\language\constwin.hts">panel derecho del sistema<\l>.<br>
+<tab><cl=FFFFFF>En forma pequeña<cl=B0B0B0> Ves las dos últimas líneas de mensajes. Para ingresar su mensaje, presione el botón " / " (predeterminado). Aparecerá un campo de entrada de texto. La entrada finaliza pulsando la tecla Intro. Para cancelar la entrada, haga clic en cerrar ventana o escriba una línea en blanco.<br>
+<tab>Los mensajes se pueden enviar en los siguientes modos:<br>
+<tab><cl=FFFFFF>Susurro<cl=B0B0B0> - Su mensaje será visto por aquellos que se encuentran a Una distancia de no más de 10 metros.<br>
+<tab><cl=FFFFFF>Habla normal<cl=B0B0B0> - Su mensaje será visto por aquellos que se encuentran a Una distancia de no más de 50 metros.<br>
+<tab><cl=FFFFFF>Comercio<cl=B0B0B0> - Mensajes comerciales.<br>
+<tab><cl=FFFFFF>Clan<cl=B0B0B0> - Su mensaje será visto por aquellos que están en El mismo clan con usted.<br><br>
+<tab><cl=FFFFFF>Grupo<cl=B0B0B0> - Su mensaje será visto por aquellos que están en el mismo grupo con Usted.<br><br>
+<tab><cl=FFFFFF>En una gran forma de chat<cl=B0B0B0> Puede ver algunas líneas recientes y puede ver varios cientos de publicaciones recientes usando la barra de desplazamiento. La entrada también se realiza con la tecla " / " o haciendo clic en el campo de entrada, que en este formulario se encuentra en la pantalla constantemente.<br> También puede poner filtros para mensajes usando los botones en la parte superior de la ventana de chat: conversación normal, mensajes para el clan, mensajes del sistema, mensajes de daños, mensajes para el grupo, mensajes comerciales.<br>
+<tab><cl=FFFFFF>Cambiar tipo de conversación<cl=B0B0B0> Puede utilizar las teclas de función:<br>
+<cl=FFFFFF>F2<cl=B0B0B0><tab>- susurro<br>
+<cl=FFFFFF>F3<cl=B0B0B0><tab>- habla normal<br>
+<cl=FFFFFF>F4<cl=B0B0B0><tab>- comercio<br>
+<cl=FFFFFF>F6<cl=B0B0B0><tab>- mensajes para el clan<br>
+<cl=FFFFFF>F7<cl=B0B0B0><tab>- mensajes para el grupo<br>
+}

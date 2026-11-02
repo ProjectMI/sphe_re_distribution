@@ -1,0 +1,48 @@
+hypertext
+{
+<tab><cl=F0F010>ALLEANZE E GUERRE<cl=A2A2A2><br><br>
+
+<tab>Nella lista dei clan <cl=727272>grigio<cl=A2A2A2> i nomi dei clan neutri sono scritti a colori,
+<cl=00FF00>verde<cl=A2A2A2> - i nomi dei clan con cui si è formata un'alleanza,
+<cl=FF0000>rosso<cl=A2A2A2> - i nomi dei clan con cui è in corso la guerra.<br>
+<br>
+<cl=FFFF00>Alleanza<br>
+<cl=A2A2A2>
+<tab>
+Per formare un'alleanza, è necessario possedere almeno un castello.
+L'alleanza consente a un clan amichevole di accedere al Castello di un altro clan amichevole.
+Solo i signori dei clan possono concludere e sciogliere alleanze.
+Non puoi stringere un'alleanza con un clan se c'è una guerra tra i tuoi clan ed è impossibile
+stringere più di cinque alleanze.<br>
+<tab>Per formare un'alleanza, è necessario selezionare un clan nell'elenco e premere il pulsante <cl=A0A000>"Stringere un'alleanza".
+<cl=A2A2A2>Ai signori di questo clan verrà chiesto di confermare l'alleanza.<br>
+<tab>Quando uno di loro conferma l'Unione:<br>
+<cl=ABCDEF>
+- I mostri nei castelli dei clan alleati non attaccheranno i membri dell'alleanza,
+a meno che, ovviamente, non vengano attaccati da un ospite del castello.<br>
+- I signori e i Siniscalchi del clan saranno in grado di inviare messaggi ai membri dell'alleanza
+utilizzare il comando chat / sayally "testo del messaggio".<br>
+- I membri dell'alleanza saranno in grado di utilizzare i teletrasporti del castello degli alleati.<br>
+- La cattura del castello da parte di un clan alleato diventerà impossibile.<br>
+<cl=A2A2A2>
+<tab>Per terminare l'alleanza, è necessario selezionare un clan alleato nella finestra e fare clic sul pulsante <cl=A0A000>"Esci dall'alleanza".
+<cl=A2A2A2>
+<br><br><br>
+<cl=ABCDEF>Guerra<br>
+<cl=A2A2A2>
+<tab>Durante i combattimenti, quando si uccide un nemico, il karma non si deteriora. Il clan non può partecipare
+in più di cinque guerre contemporaneamente.
+Analogamente alle alleanze, solo i signori dei clan possono dichiarare guerra e concludere una tregua.<br>
+<tab>Per dichiarare guerra, è necessario selezionare un clan nell'elenco e premere il pulsante <cl=A0A000>"Dichiarare guerra".
+<cl=A2A2A2>
+Ai signori del clan scelto verrà inviata una dichiarazione di guerra, che possono accettare o rifiutare.<br>
+<tab>Se uno di loro conferma l'inizio della guerra:<br>
+<cl=ABCDEF>
+- L'esperienza persa dal nemico alla morte andrà in parte al vincitore.<br>
+- Il karma non si deteriora quando uccidi i nemici.<br>
+<cl=A2A2A2>
+<tab>Non è possibile dichiarare guerra a un clan con cui si è formata un'alleanza.
+Per concludere una tregua, è necessario selezionare un clan nemico nella finestra e premere il pulsante <cl=A0A000>"Offrire pace".<cl=A2A2A2>
+I signori del clan nemico riceveranno un messaggio che offre pace. Per porre fine alla guerra è sufficiente
+il consenso di almeno uno di loro.<br>
+}

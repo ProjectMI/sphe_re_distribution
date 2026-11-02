@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>GROUP<cl=A2A2A2><br><br>
+<tab>The group window is called by the "G" key (by default) or by the "clan" button in the <l="hts:\\language\constwin.hts">right system panel.<\l><br>
+<tab>If you are not a member of a group, you will see a <cl=FFFFFF>group creation window.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Creating a group<cl=A2A2A2><br>
+<tab>By selecting the <cl=FFFFFF>"create group" item<cl=B0B0B0>, you automatically become the <cl=FFFFFF>head of<cl=B0B0B0> the new group. <cl=FF0000>  <br>
+<tab>After selecting the <cl=FFFFFF>"enter group" item, the<cl=B0B0B0> corresponding inscription is "glued" to the cursor. After that, you should left-click on the <cl=FFFFFF>head of the group<cl=B0B0B0>. He receives your application to join the group and decides on acceptance or non-acceptance. After acceptance, you become an ordinary member of the group.<br>
+<cl=FFFFFF>The head of the group<cl=B0B0B0> can remove any member of the group, as well as dissolve the group. When the group is dissolved, the participant who is currently top of the list becomes the head. The <cl=FFFFFF>maximum number of group members is 5.<cl=B0B0B0><br>
+<br><tab><cl=00FF00>Receiving the title and degree stamps in the group<cl=A2A2A2><br>
+The experience gained for the destruction of monsters is divided among all members of the group located at a distance of no more than 50 meters, in proportion to their level. For the destruction of one monster, the group gets more experience than one character, and the more the more members of the group.<br>
+}

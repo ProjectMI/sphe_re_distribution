@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>INVENTAR<cl=A2A2A2><br><br>
+<tab>Die Zellen in diesem Fenster zeigen die Objekte, die der Charakter bei sich trägt. Gegenstände, die in diese Zelle, können verloren gehen, nachdem <l="hts:\\language\i_reincarn.hts">tod<\l> das Zeichen mit der Wahrscheinlichkeit, abhängig von Ihrem Karma (Karma als besser, die Wahrscheinlichkeit, desto weniger Verluste).<br>
+<tab>Die beiden unteren Reihen sind für die Lagerung von allen Objekten, darunter Waffen. Die Obere Reihe ist fünf Besondere Zellen:<br>
+<tab><cl=FFFFFF>Geld<cl=B0B0B0>.  Ihr Bargeld in Talern.<br>
+<tab><cl=FFFFFF>Torba<cl=B0B0B0>.  Zelle für Torba. Torba haben zusätzliche Plätze für die Lagerung von Gegenständen.<br>
+<tab><cl=FFFFFF>2 Schlüssel<cl=B0B0B0>.  In diesen Zellen können Schlüssel gespeichert werden (maximal zwei) von Hotel-Zimmer oder Zimmer in den Schlössern.<br>
+<tab><cl=FFFFFF>Key Mission<cl=B0B0B0>.  Hier werden die von Ihnen erhaltenen Schlüssel Mission.<br>
+<tab>Um ein Objekt im Inventar, einfach <l="hts:\\language\i_mainp.hts">ziehen<\l> ihn in die gewünschte Zelle. Das Objekt muss der Zelle in seinem beabsichtigten Zweck entsprechen. Wenn keine Übereinstimmung vorhanden ist, wird die Zelle beim Ziehen rot hervorgehoben. Wenn eine übereinstimmung gibt es, die Zelle wird in grün markiert.<br>
+<tab>Waffen und andere Häufig verwendete Gegenstände im Inventar, hat die Bedeutung "zuschreiben" zu <l="hts:\\language\hotkeys.hts">Hot-keys<\l>.<br>
+<tab>Mittlere Reihe im Inventar - 5 Zellen - sind "ewig". Dies bedeutet, dass Dinge, die in diese Zelle, nicht verloren gehen, wenn der Tod, außer dem Geld und Taschen. Wenn die Zelle mit dem Ding hat einen blauen Rahmen angezeigt, bedeutet dies, dass das Ding nicht verloren geht, ist im Falle des Todes. Abhängig vom Karma und der Anordnung des Charakters nicht alle Zellen aktiv sein können. Bei sehr schlechtem Karma ist nur eine Zelle von 5 aktiv, bei gutem ist alles aktiv. Wenn der Charakter befindet sich auf dem Festland Charon, ist das Gegenteil der Fall: bei guten Karma aktiv ist 1 Zelle, und bei sehr schlechten - alle 5.<br>
+}

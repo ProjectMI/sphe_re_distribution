@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>VENDEUR<br>
+<br>
+<cl=FFFFFF>Chez le vendeur, vous pouvez acheter divers articles pour les talers et lui vendre le vôtre (certaines choses ne peuvent pas être vendues).<br>
+Pour acheter un article, cliquez sur la coche à droite de l'article et il apparaîtra dans votre inventaire (I) ou sur la poupée (P). S'il n'y a pas assez de talers, l'objet sera surligné en rouge.<br>
+Pour vendre un objet, faites-le glisser vers une cellule vide dans la fenêtre Vente. Si l'article peut être vendu, le prix proposé par le vendeur apparaîtra.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Aide complète du jeu (F1)<\l><br>
+}

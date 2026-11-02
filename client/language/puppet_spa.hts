@@ -1,0 +1,24 @@
+hypertext
+{
+<tab><cl=F0F010>VENTANA DE PERSONAJE<cl=A2A2A2><br><br>
+<tab>Las celdas en esta ventana muestran las cosas directamente puestas en Tu personaje. Elementos colocados en estas celdas después <l="hts:\\language\i_reincarn.hts">muertes<\l> los personajes prácticamente no se pierden (se pierden con muy poca probabilidad).<br>
+<tab>Las celdas pueden contener los siguientes objetos:<br>
+<tab><cl=FFFFFF>Casco<br>
+<tab>Amuleto<br>
+<tab>Escudo<br>
+<tab>Cota de malla<br>
+<tab>Guantes<br>
+<tab>2 pulseras<br>
+<tab>4 anillos<br>
+<tab>Pantalones<br>
+<tab>Zapatos<br><cl=B0B0B0>
+<tab>Estas cosas pueden mejorar <l="hts:\\language\i_charact.hts"> características <\l> Tu personaje.<br>
+<tab>En la fila vertical a la derecha se pueden colocar los siguientes elementos:<br>
+<tab><cl=FFFFFF>Libro de cartas<cl=B0B0B0> - le permite almacenar tarjetas.<br>
+<tab><cl=FFFFFF>Revista<cl=B0B0B0> - le permite mantener registros de eventos importantes.<br>
+<tab><cl=FFFFFF>Libro de recetas<cl=B0B0B0> - permite almacenar recetas alquímicas y manuscritos.<br>
+<tab><cl=FFFFFF>Libro de mantras<cl=B0B0B0> - permite "memorizar" mantras.<br>
+<tab><cl=FFFFFF>Tintero<cl=B0B0B0> - le permite hacer entradas de diario y dibujar marcas en los mapas.<br><br>
+<tab>La fila vertical de celdas de la izquierda puede llenarse con objetos con propiedades extraordinarias (actualmente reservados).<br>
+<tab>Para poner cualquier objeto en esta ventana, simplemente <l="hts:\\language\i_mainp.hts">arrastre<\l> en la celda correcta. El objeto debe coincidir con la celda para su propósito. Si no hay coincidencia, la celda se resalta en rojo cuando se intenta arrastrar. Si hay una coincidencia, la celda se resalta en verde.<br>
+}

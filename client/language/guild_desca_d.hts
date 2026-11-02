@@ -1,0 +1,81 @@
+hypertext
+{
+<cl=FFFF00>Gild des Attentäters<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Mindestgrad: 16<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit: +10<br>
+<tab>Ausdauer: -12<br>
+<tab>Elemente: -3<br>
+<br>
+<tab>Unsichtbarkeit:<br>
+<tab>Kritischer Treffer: 500 Schaden<br>
+<tab>Gift: Schaden 120<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Mindestgrad: 21<br>
+<br><cl=ABCDEF>
+<tab>Beweglichkeit: +30<br>
+<tab>Ausdauer: -24<br>
+<tab>Elemente: -6<br>
+<br>
+<tab>Unsichtbarkeit: <br>
+<tab>Kritischer Treffer: 750 Schaden<br>
+<tab>Gift: Schaden von 200<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Mindestgrad: 31<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit: +44<br>
+<tab>Ausdauer: -36<br>
+<tab>Elemente: -10<br>
+<br>
+<tab>Unsichtbarkeit: <br>
+<tab>Kritischer Treffer: 1230 Schaden<br>
+<tab>Gift: Schaden 350 <br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Mindestmaß: 41<br>
+<br><cl=ABCDEF>
+<tab>Beweglichkeit: +65<br>
+<tab>Ausdauer: -46<br>
+<tab>Elemente: -14<br>
+<br>
+<tab>Unsichtbarkeit: <br>
+<tab>Kritischer Treffer: 1620 Schaden<br>
+<tab>Gift: 560 Schaden<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Mindestgrad: 51<br>
+<br><cl=ABCDEF>
+<tab>Beweglichkeit: +72<br>
+<tab>Ausdauer: -62<br>
+<tab>Elemente: -21<br>
+<br>
+<tab>Unsichtbarkeit: <br>
+<tab>Kritischer Schlag: Schaden von 2150<br>
+<tab>Gift: 820 Schaden<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Minimaler Grad: 60<br>
+<br><cl=ABCDEF>
+<tab>Geschicklichkeit: +96<br>
+<tab>Ausdauer: -72<br>
+<tab>Elemente: -25<br>
+<br>
+<tab>Unsichtbarkeit: <br>
+<tab>Kritischer Treffer: 2600 Schaden<br>
+<tab>Gift: Schaden von 1150, aus einer Entfernung von 7 Metern., <br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guilda.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descn.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descb.hts">Nächste Gilde<\l><br>
+}

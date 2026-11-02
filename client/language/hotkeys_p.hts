@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>TECLAS DE ATALHO<cl=A2A2A2><br><br>
+<tab>As teclas de atalho são projetadas para "pegar "rapidamente itens previamente" atribuídos " a uma tecla específica.  A janela de teclas de atalho pode ser apresentada na tela de duas formas: grande e pequena. Alternar entre os formulários é feito com a tecla "K" (padrão), ou usando o botão "teclas de atalho" localizado no <l="hts:\\language\constwin.hts">painel sistema esquerdo<\l>.<br>
+<tab>A <cl=FFFFFF>forma pequena<cl=B0B0B0> a janela é uma linha vertical de 10 células, que refletem os objetos colocados, respectivamente, nas teclas 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Quando você pressiona a tecla Ctrl, essa linha muda e mostra os próximos 10 itens "quentes"que podem ser chamados usando a combinação de teclas Ctrl+dígito.<br>
+<tab><cl=FFFFFF>Forma grande<cl=B0B0B0> permite configurar teclas de atalho. Isso é feito movendo o objeto necessário de <l="hts:\\language\inventory.hts">inventário<\l> em qualquer célula. Se uma célula foi ocupada, seu antigo destino é cancelado e substituído por um novo.<br>
+<tab><cl=FFFFFF>Importante:<cl=B0B0B0> as teclas de atalho "lembram" não o objeto em si, mas sua localização. Se você mover um objeto específico de sua posição pessoal no inventário, a tecla de atalho ficará vazia, e vice-versa, se você colocar outro objeto na posição memorizada no inventário, pressionar a tecla de atalho resultará em <cl=FFFFFF>utilização<cl=B0B0B0> novo objeto.<br>
+<tab>O status das teclas de atalho é lembrado quando você sai do jogo.<br>
+}

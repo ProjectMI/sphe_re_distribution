@@ -1,0 +1,88 @@
+hypertext
+{
+Gild nécromancien<br>
+<br>
+
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Prana: +168<br>
+<tab>Protection physique: + 65<br>
+<tab>Protection magique: + 65<br>
+<tab>Force, précision et endurance: -6<br>
+<tab>Terrain: +10<br>
+<tab>Air et feu: -6<br>
+<tab>Attaque magique: + 45<br>
+<br>
+
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Prana: +305<br>
+<tab>Protection physique: +118<br>
+<tab>Protection magique: +120<br>
+<tab>Force, précision et endurance: -20<br>
+<tab>Terrain: +14<br>
+<tab>Air et feu: -14<br>
+<tab>Attaque magique: + 88<br>
+<br>
+
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 572<br>
+<tab>Protection physique: +182<br>
+<tab>Protection magique: +198<br>
+<tab>Force, précision et endurance: -28<br>
+<tab>Terrain: + 26<br>
+<tab>Air et feu: -22<br>
+<tab>Attaque magique: +148<br>
+<br>
+
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 918<br>
+<tab>Protection physique: +246<br>
+<tab>Protection magique: +350<br>
+<tab>Force, précision et endurance: -42<br>
+<tab>Terrain: + 48<br>
+<tab>Air et feu: -58<br>
+<tab>Attaque magique: + 251<br>
+<br>
+
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Prana: +1680<br>
+<tab>Protection physique: +312<br>
+<tab>Protection magique: + 490<br>
+<tab>Force, précision et endurance: -60<br>
+<tab>Terrain: + 72<br>
+<tab>Air et feu: -102<br>
+<tab>Attaque magique: + 520<br>
+<br>
+
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Prana: + 2240<br>
+<tab>Protection physique: +398<br>
+<tab>Protection magique: +889<br>
+<tab>Force, précision et endurance: -96<br>
+<tab>Terrain: +112<br>
+<tab>Air et feu: -144<br>
+<tab>Attaque magique: +988<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildm.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descl.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descn.hts">Prochaine guilde<\l><br>
+}

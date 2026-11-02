@@ -1,0 +1,88 @@
+hypertext
+{
+Necromancer's Guild<br>
+<br>
+
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 16<br>
+<br><cl=ABCDEF>
+<tab>Prana: +168<br>
+<tab>Physical protection: +65<br>
+<tab>Magic Protection: +65<br>
+<tab>Strength, accuracy and endurance: -6<br>
+<tab>Land: +10<br>
+<tab>Air and fire: -6<br>
+<tab>Magic Attack: +45<br>
+<br>
+
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 21<br>
+<br><cl=ABCDEF>
+<tab>Prana: +305<br>
+<tab>Physical protection: +118<br>
+<tab>Magic Protection: +120<br>
+<tab>Strength, accuracy and endurance: -20<br>
+<tab>Land: +14<br>
+<tab>Air and fire: -14<br>
+<tab>Magic Attack: +88<br>
+<br>
+
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 31<br>
+<br><cl=ABCDEF>
+<tab>Prana: +572<br>
+<tab>Physical protection: +182<br>
+<tab>Magic Protection: +198<br>
+<tab>Strength, accuracy and endurance: -28<br>
+<tab>Earth: +26<br>
+<tab>Air and fire: -22<br>
+<tab>Magic Attack: +148<br>
+<br>
+
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 41<br>
+<br><cl=ABCDEF>
+<tab>Prana: +918<br>
+<tab>Physical protection: +246<br>
+<tab>Magic Protection: +350<br>
+<tab>Strength, accuracy and endurance: -42<br>
+<tab>Earth: +48<br>
+<tab>Air and fire: -58<br>
+<tab>Magic Attack: +251<br>
+<br>
+
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 51<br>
+<br><cl=ABCDEF>
+<tab>Prana: +1680<br>
+<tab>Physical protection: +312<br>
+<tab>Magic Protection: +490<br>
+<tab>Strength, accuracy and endurance: -60<br>
+<tab>Land: +72<br>
+<tab>Air and fire: -102<br>
+<tab>Magic Attack: +520<br>
+<br>
+
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Maximum title: 15<br>
+<tab><tab>Minimum degree: 60<br>
+<br><cl=ABCDEF>
+<tab>Prana: +2240<br>
+<tab>Physical protection: +398<br>
+<tab>Magic Protection: +889<br>
+<tab>Strength, accuracy and endurance: -96<br>
+<tab>Land: +112<br>
+<tab>Air and fire: -144<br>
+<tab>Magic Attack: +988<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildm.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descl.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_descn.hts">next guild<\l><br>
+}

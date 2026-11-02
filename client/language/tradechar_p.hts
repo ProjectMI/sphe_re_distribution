@@ -1,0 +1,6 @@
+hypertext
+{
+<tab><cl=F0F010>Venda<cl=A2A2A2><br><br>
+Com esta janela, você pode vender produtos. Para colocar um item À venda, arraste um item do seu <l="hts:\\language\inventory.hts"> inventário<\l> ou de <l="hts:\\language\puppet.hts">janelas de personagens<\l>. Na segunda coluna, você pode definir o preço do produto. Até que você defina um preço, outros personagens Verão seu produto em seu próprio <l="hts:\\language\trade.hts">janela compra<\l> mas não podem comprar. Eles podem oferecer suas opções de preços, que você verá na terceira coluna. Você pode aceitar ou rejeitar uma oferta usando os botões na quarta coluna.<br>
+<tab>Os itens colocados para venda são salvos nesta janela até que você morra ou saia do jogo. Quando um item é colocado à venda e você define um preço, qualquer personagem que se aproxima de você pode comprá-lo a qualquer momento.<br>
+}

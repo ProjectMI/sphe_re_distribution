@@ -1,0 +1,18 @@
+hypertext
+{
+<tab><cl=F0F010>INTERFACE<cl=A2A2A2><br><br>
+<tab><l="hts:\\language\i_mainp.hts">Management<\l><br><br>
+<tab><l="hts:\\language\options.hts">Game Settings Menu<\l><br><br>
+<tab><l="hts:\\language\constwin.hts">System panels<\l><br><br>
+<tab><l="hts:\\language\statinfo.hts">Statistics window<\l><br><br>
+<tab><l="hts:\\language\puppet.hts">Character Window<\l><br><br>
+<tab><l="hts:\\language\inventory.hts">Inventory<\l><br><br>
+<tab><l="hts:\\language\chat.hts">Chat<\l><br><br>
+<tab><l="hts:\\language\hotkeys.hts">Keyboard shortcuts<\l><br><br>
+<tab><l="hts:\\language\clan.hts">Clan Window<\l><br><br>
+<tab><l="hts:\\language\ally.hts">The Window of Alliances and Wars<\l><br><br>
+<tab><l="hts:\\language\group.hts">Group Window<\l><br><br>
+<tab><l="hts:\\language\trade.hts">Trading Window (purchase)<\l><br><br>
+<tab><l="hts:\\language\tradechar.hts">Trading window (sale)<\l><br><br>
+<tab><l="hts:\\language\missions.hts">Mission Receipt window<\l><br><br>
+}

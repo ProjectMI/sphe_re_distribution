@@ -1,0 +1,93 @@
+hypertext
+{
+<cl=FFFF00>Gild Crusader<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +120<br>
+<tab>Mékost: -6<br>
+<tab>Endurance: +10<br>
+<tab>Feu: -8<br>
+<tab>Autres éléments: -4<br>
+<tab><br>
+<tab>Transfert divin: toutes les 3 heures<br>
+<tab>Bouclier de Prana: 10 minutes, toutes les 6 heures<br>
+<tab>Temps de fonctionnement: 5 minutes une fois toutes les 4 heures<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: + 280<br>
+<tab>Mékost: -20<br>
+<tab>Endurance: +30<br>
+<tab>Feu: -10<br>
+<tab>Autres éléments: -6<br>
+<tab><br>
+<tab>Transfert divin: toutes les 3 heures<br>
+<tab>Bouclier de Prana: 15 minutes, toutes les 5 heures<br>
+<tab>Temps de fonctionnement: 10 minutes une fois toutes les 3 heures<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: + 650<br>
+<tab>Mékost: -28<br>
+<tab>Endurance: +44<br>
+<tab>Feu: -12<br>
+<tab>Autres éléments: -10<br>
+<tab><br>
+<tab>Transfert divin: toutes les 2 heures<br>
+<tab>Bouclier de Prana: 20 minutes, toutes les 5 heures<br>
+<tab>Temps de fonctionnement: 10 minutes une fois toutes les 3 heures<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: + 910<br>
+<tab>Mékost: -42<br>
+<tab>Endurance: + 62<br>
+<tab>Feu: -16<br>
+<tab>Autres éléments: -15<br>
+<tab><br>
+<tab>Transfert divin: toutes les 2 heures<br>
+<tab>Bouclier de Prana: 30 minutes, toutes les 4 heures<br>
+<tab>Temps de fonctionnement: 10 minutes une fois toutes les 3 heures<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +1450<br>
+<tab>Mékost: -60<br>
+<tab>Endurance: + 72<br>
+<tab>Feu: -24<br>
+<tab>Autres éléments: -20<br>
+<tab><br>
+<tab>Transfert divin: toutes les 2 heures<br>
+<tab>Bouclier de Prana: 40 minutes, toutes les 4 heures<br>
+<tab>Course de temps: pendant 15 minutes une fois toutes les 2 heures<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection magique: +2100<br>
+<tab>Mékost: -96<br>
+<tab>Endurance: + 84<br>
+<tab>Feu: -36<br>
+<tab>Autres éléments: -24<br>
+<tab><br>
+<tab>Transfert divin: toutes les 1 heure<br>
+<tab>Bouclier de Prana: 50 minutes, toutes les 3 heures<br>
+<tab>Course de temps: pendant 20 minutes une fois toutes les 2 heures<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildb.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_desca.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descc.hts">Prochaine guilde<\l><br>
+}

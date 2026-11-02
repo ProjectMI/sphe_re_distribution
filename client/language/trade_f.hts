@@ -1,0 +1,7 @@
+hypertext
+{
+<tab><cl=F0F010>ACHAT<cl=A2A2A2><br><br>
+Avec cette fenêtre, vous pouvez acheter des biens auprès des habitants de la Sphère et d'autres personnages. Dans la colonne de gauche se trouvent les icônes des produits. Pour obtenir la Description du produit, vous devez <cl=FFFFFF>voir<cl=B0B0B0>. La colonne suivante affiche le prix de cet article. Vient ensuite le champ pour entrer l'offre de prix. En cliquant dessus avec le bouton gauche de la souris, vous pouvez enchérir.<br>
+<tab>L'achat d'un produit est effectué en cliquant sur la coche "acheter" ou en faisant glisser sur l'icône du produit de la poche avec Votre argent. S'il n'y a pas assez d'argent, la coche sera ombrée.<br>
+<tab>Vous pouvez également vendre votre article. Pour ce faire, en même temps que <cl=FFFFFF>fenêtre d'achat<cl=B0B0B0> Vous devez ouvrir <l="hts:\\language\tradechar.hts">fenêtre de vente <\l> (touche "T"par défaut).<br>
+}

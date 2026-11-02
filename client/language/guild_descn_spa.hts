@@ -1,0 +1,100 @@
+hypertext
+{
+Gild Bandiera<br>
+<br>
+
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +98<br>
+<tab>Protección física: +76<br>
+<tab>Protección mágica: +112<br>
+<tab>Fuerza y precisión: -6<br>
+<tab>Agilidad: -4<br>
+<tab>Resistencia: + 4<br>
+<tab>Tierra y agua: -4<br>
+<tab>Aire y fuego: -6<br>
+<tab>Ataque mágico: -46<br>
+<br>
+
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +225<br>
+<tab>Protección física: +196<br>
+<tab>Protección mágica: +218<br>
+<tab>Fuerza y precisión: -20<br>
+<tab>Agilidad: -6<br>
+<tab>Resistencia: + 6<br>
+<tab>Tierra y agua: -6<br>
+<tab>Aire y fuego: -14<br>
+<tab>Ataque mágico: -98<br>
+<br>
+
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +372<br>
+<tab>Protección física: +372<br>
+<tab>Protección mágica: +374<br>
+<tab>Fuerza y precisión: -28<br>
+<tab>Agilidad: -10<br>
+<tab>Resistencia: +10<br>
+<tab>Tierra y agua: -10<br>
+<tab>Aire y fuego: -22<br>
+<tab>Ataque mágico: -222<br>
+<br>
+
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +618<br>
+<tab>Protección física: +558<br>
+<tab>Protección mágica: +788<br>
+<tab>Fuerza y precisión: -42<br>
+<tab>Agilidad: -15<br>
+<tab>Resistencia: +15<br>
+<tab>Tierra y agua: -15<br>
+<tab>Aire y fuego: -42<br>
+<tab>Ataque mágico: -468<br>
+<br>
+
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +980<br>
+<tab>Protección física: +734<br>
+<tab>Protección mágica: +1002<br>
+<tab>Fuerza y precisión: -60<br>
+<tab>Agilidad: -20<br>
+<tab>Resistencia: +20<br>
+<tab>Tierra y agua: -20<br>
+<tab>Aire y fuego: -60<br>
+<tab>Ataque mágico: -926<br>
+<br>
+
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Salud: +1440<br>
+<tab>Protección física: +1024<br>
+<tab>Protección mágica: +1420<br>
+<tab>Fuerza y precisión: -96<br>
+<tab>Agilidad: -24<br>
+<tab>Resistencia: +24<br>
+<tab>Tierra y agua: -24<br>
+<tab>Aire y fuego: -86<br>
+<tab>Ataque mágico: -1282<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildn.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_descm.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desca.hts">Siguiente gremio<\l><br>
+}

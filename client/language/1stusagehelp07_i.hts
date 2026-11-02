@@ -1,0 +1,10 @@
+hypertext
+{
+<cl=00FF00>Venditore<br>
+<br>
+<cl=FFFFFF>Dal venditore, puoi acquistare vari oggetti per i talleri e vendergli i tuoi (alcune cose non possono essere vendute).<br>
+Per acquistare un oggetto, fai clic sul segno di spunta a destra dell'oggetto e apparirà nel tuo inventario (I) O sulla bambola (P). Se non ci sono abbastanza talleri, l'oggetto apparirà rosso.<br>
+Per vendere un oggetto, trascinalo su una cella vuota nella finestra vendita. Se l'articolo può essere venduto, apparirà il prezzo offerto dal venditore.<br>
+<br>
+<l="hts:\\language\helpindex.hts">Guida completa al gioco (F1)<\l><br>
+}

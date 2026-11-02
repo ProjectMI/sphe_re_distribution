@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>Inventario<cl=A2A2A2><br><br>
+<tab>Le celle in questa finestra mostrano gli oggetti che il personaggio porta con sé. Gli oggetti inseriti in queste celle potrebbero perdersi dopo <l="hts:\\language\i_reincarn.hts">morti<\l> un personaggio con una probabilità che dipende dal tuo karma (migliore è il karma, minore è la probabilità di perdita).<br>
+<tab>Le due file inferiori sono progettate per contenere qualsiasi oggetto, comprese le armi. La riga superiore è composta da cinque celle speciali:<br>
+<tab><cl=FFFFFF>Soldi<cl=B0B0B0>.  Il tuo denaro è in talleri.<br>
+<tab><cl=FFFFFF>Torba<cl=B0B0B0>.  Cella per torba. I Torb hanno celle aggiuntive per riporre gli oggetti.<br>
+<tab><cl=FFFFFF>2 chiavi<cl=B0B0B0>.  Queste celle possono contenere le chiavi (non più di due) delle camere d'albergo o delle camere nelle serrature.<br>
+<tab><cl=FFFFFF>Chiave di missione<cl=B0B0B0>.  Qui è dove viene memorizzata la chiave della missione che hai ricevuto.<br>
+<tab>Per mettere qualsiasi oggetto nell'inventario, semplicemente <l="hts:\\language\i_mainp.hts">trascina e rilascia<\l> nella cella desiderata. L'oggetto deve corrispondere alla cella per il suo scopo. Se non c'è corrispondenza, la cella viene evidenziata in rosso quando si tenta di trascinare. Se c'è una corrispondenza, la cella viene evidenziata in verde.<br>
+<tab>Le armi e altri oggetti comunemente usati nell'inventario hanno senso "attribuire" a <l="hts:\\language\hotkeys.hts">tasti di scelta rapida<\l>.<br>
+<tab>La riga centrale nell'inventario - 5 celle-è "eterna". Ciò significa che le cose messe in queste celle non si perdono alla morte, a parte denaro e sacchetti. Se la cella con la cosa ha un bordo blu, significa che la cosa non andrà persa in caso di morte. A seconda del karma e della posizione del personaggio, non tutte le celle possono essere attive. Con un karma molto povero, solo una cella su 5 è attiva, con una buona, Tutti sono attivi. Se il personaggio si trova sulla terraferma di Caronte, è vero il contrario: con un buon karma, 1 cella è attiva e con una cella molto cattiva, tutte e 5.<br>
+}

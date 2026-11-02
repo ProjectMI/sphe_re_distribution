@@ -1,0 +1,69 @@
+hypertext
+{
+Armourer's Guild<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 16<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +65<br>
+<tab>Magic Protection: +98<br>
+<tab>Physical Attack: +82<br>
+<tab>Skills: -6<br>
+<tab>Elements: -4<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 21<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +120<br>
+<tab>Magic Protection: +225<br>
+<tab>Physical Attack: +150<br>
+<tab>Skills: -14<br>
+<tab>Elements: -6<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 31<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +198<br>
+<tab>Magic Protection: +372<br>
+<tab>Physical Attack: +248<br>
+<tab>Skills: -22<br>
+<tab>Elements: -10<br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 41<br>
+<tab><tab>Maximum degree: 15 <br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +350<br>
+<tab>Magic Protection: +618<br>
+<tab>Physical Attack: +412<br>
+<tab>Skills: -42<br>
+<tab>Elements: -15<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 51<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +490<br>
+<tab>Magic Protection: +980<br>
+<tab>Physical Attack: +653<br>
+<tab>Skills: -60<br>
+<tab>Elements: -20<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 60<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +889<br>
+<tab>Magic Protection: +1440<br>
+<tab>Physical Attack: +960<br>
+<tab>Skills: -86<br>
+<tab>Elements: -24<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildj.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_desci.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_desck.hts">next guild<\l><br>
+}

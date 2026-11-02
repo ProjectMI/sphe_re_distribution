@@ -1,0 +1,6 @@
+hypertext
+{
+<tab><cl=F0F010>VENTE<cl=A2A2A2><br><br>
+Avec cette fenêtre, vous pouvez vendre des produits. Pour mettre le produit en vente, faites glisser dans n'importe quelle cellule libre un objet de Votre <l="hts:\\language\inventory.hts"> inventaire<\l> ou de <l="hts:\\language\puppet.hts">les fenêtres du personnage<\l>. Dans la deuxième colonne, vous pouvez définir le prix de l'article. Tant que Vous n'avez pas fixé le prix, les autres personnages verront Votre article dans leur <l="hts:\\language\trade.hts">fenêtre d'achat<\l>, mais ne sera pas en mesure d'acheter. Ils peuvent offrir leurs options de prix, Que vous verrez dans la troisième colonne. Vous pouvez accepter ou refuser l'offre en utilisant les boutons de la quatrième colonne.<br>
+<tab>Les objets mis en vente sont conservés dans cette fenêtre jusqu'au moment où vous mourez ou quittez le jeu. Lorsqu'un article est mis en vente et que Vous avez fixé un prix, tout personnage qui s'approche de Vous peut l'acheter à tout moment.<br>
+}

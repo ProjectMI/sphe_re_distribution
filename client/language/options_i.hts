@@ -1,0 +1,15 @@
+hypertext
+{
+<tab><cl=F0F010>MENU PRINCIPALE DEL GIOCO<cl=A2A2A2><br><br>
+<tab>Selezione dell'elemento <cl=FFFFFF>Nel gioco<cl=B0B0B0> consente di tornare alla "sfera".<br><br>
+<tab><cl=00FF00>Grafica<cl=B0B0B0>.<br>
+<tab><cl=FFFFFF>Risoluzione<cl=B0B0B0>. In questo punto, è possibile scegliere tra una serie di modalità video supportate dalla scheda video, la risoluzione dello schermo desiderata. Maggiore è la risoluzione scelta, maggiore sarà la qualità della grafica sullo schermo, ma più lenta sarà l'output dell'immagine. Pertanto, se non sei soddisfatto della velocità del gioco, prova a ridurre la risoluzione. Quando si modifica la risoluzione, il gioco verrà riavviato.<br>
+<tab><cl=FFFFFF>Profondità di colore<cl=B0B0B0>. Una maggiore profondità di colore migliorerà la qualità dell'immagine grafica, ma può influire sulla velocità di output dell'immagine. Se non sei soddisfatto della velocità del gioco, prova a ridurre la profondità del colore. Quando viene modificato, il gioco verrà riavviato. <br>
+<tab><cl=FFFFFF>Qualità delle ombre<cl=B0B0B0>. Un altro parametro che consente di modificare la velocità del gioco. Puoi scegliere tra ombre di bassa, media e alta qualità o semplicemente disattivare le ombre.<br>
+<tab><cl=FFFFFF>Erba<cl=B0B0B0>. Se l'output dell'immagine fuori città è lento, prova a disabilitare l'immagine dell'erba. <br><br>
+<tab><cl=00FF00>Suono<cl=B0B0B0>. In questo punto, è possibile modificare individualmente il volume di riproduzione <cl=FFFFFF>Musica<cl=B0B0B0> e <cl=FFFFFF>Effetti sonori<cl=B0B0B0> e anche spegnere / accendere <cl=B0B0B0>Mixaggio audio hardware<cl=B0B0B0>.<br><br>
+<tab><cl=00FF00>Gestione<cl=B0B0B0>. Questa voce ti consentirà di sovrascrivere i tasti predefiniti e di attivare/disattivare <cl=FFFFFF>Inversione del mouse<cl=B0B0B0>. In qualsiasi momento può essere restituito <cl=FFFFFF>Impostazioni predefinite<cl=B0B0B0> facendo clic sulla voce di menu con lo stesso nome.<br><br>
+<tab><cl=00FF00> Interfaccia<cl=B0B0B0>. Con questo punto è possibile disabilitare / abilitare l'output <cl=FFFFFF>Nomi sopra le loro teste<cl=B0B0B0> personaggi; Abilita / Disabilita <cl=FFFFFF>Apertura automatica della porta<cl=B0B0B0> quando ti avvicini; spegnere/accendere <cl=FFFFFF>Suoni dell'interfaccia<cl=B0B0B0> e <cl=FFFFFF>Sovrapposizione automatica delle finestre<cl=B0B0B0>. Quest'ultimo significa che se diverse finestre sullo schermo si sovrappongono, solo l'ultima rimarrà visibile e il resto "apparirà" quando lo chiudi. Articolo <cl=FFFFFF>Finestre predefinite<cl=B0B0B0> ripristina la posizione reciproca delle finestre sullo schermo.<br><br>
+<tab>Articolo <cl=FFFFFF>Autori<cl=B0B0B0> mostrerà un elenco di coloro che hanno creato una "sfera"per te.<br><br>
+<tab>Per uscire dal gioco, selezionare <cl=FFFFFF>Uscita<cl=B0B0B0>.<br><br>
+}

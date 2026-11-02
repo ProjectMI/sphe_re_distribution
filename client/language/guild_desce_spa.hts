@@ -1,0 +1,63 @@
+hypertext
+{
+Guild Archimaga<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +96<br>
+<tab>Resistencia: -6<br>
+<tab>Otras habilidades: -4<br>
+<tab>Elementos: +12<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +190<br>
+<tab>Resistencia: -10<br>
+<tab>Otras habilidades: -6<br>
+<tab>Elementos: +18<br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +297<br>
+<tab>Resistencia: -14<br>
+<tab>Otras habilidades: -10<br>
+<tab>Elementos: +25<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +512<br>
+<tab>Resistencia: -18<br>
+<tab>Otras habilidades: -14<br>
+<tab>Elementos: +36<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +808<br>
+<tab>Resistencia: -24<br>
+<tab>Otras habilidades: -18<br>
+<tab>Elementos: +48<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título máximo: 15<br>
+<tab><tab>Grado mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Protección física: +1320<br>
+<tab>Resistencia: -48<br>
+<tab>Otras habilidades: -24<br>
+<tab>Elementos: +56<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guilde.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_descd.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descf.hts">Siguiente gremio<\l><br>
+}

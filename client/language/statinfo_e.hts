@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>STATISTICS WINDOW<cl=A2A2A2><br><br>
+<tab>This window reflects the <l="hts:\\language\i_charact.hts">characteristics of<\l> your character. To open this window, use the "H" key (by default).<br>
+<br><tab><cl=00FF00>Title and Degree<cl=A2A2A2><br>
+<tab>The upper part of the window shows the Title and magic Degree of your character, as well as the number of title and degree marks, both gained and required to move to the next level.<br>
+<br><tab><cl=00FF00>Karma and clan<cl=A2A2A2><br>
+<tab>Next, Karma is shown and, if your character is in any clan, the name of the <l="hts:\\language\clan.hts">clan<\l>.<br>
+The levels of karma are distributed as follows:
+<br>less than -1000: very bad
+<br>-1000 to -500: bad
+<br>-500 to 500: neutral
+<br>from 500 to 1000: good
+<br>More than 1000: good
+<br>
+<br><tab><cl=00FF00>Health, Prana, Satiety<cl=A2A2A2><br>
+<tab>Next, the Health, Prana and Satiety of the character are shown (current and maximum values).<br>
+<br><tab><cl=00FF00>Attack and defense<cl=A2A2A2><br>
+<tab>In the middle part of the window, you can see the numerical values of your character's attack and defense strength.<br> 
+In the "combat attack" and "magic attack" items, numbers appear when you pick up a weapon or magical items that can cause damage or have a healing effect. Damage is reflected by a negative number, the therapeutic effect is reflected by a positive number.<br>
+<tab>The items <l="hts:\\language\i_charact.hts">"combat defense" and "magic defense"<\l> show the corresponding levels of your defense. These parameters depend on the available protective means (see "<l="hts:\\language\puppet.hts">Character Window<\l>"), as well as on <l="hts:\\language\i_mutators.hts">mutators<\l>.<br>
+<br><tab><cl=00FF00>Abilities and elements<cl=A2A2A2><br>
+<tab>The lower part of the window displays the current values of the level of mastery of <l="hts:\\language\i_charact.hts">abilities and elements<\l>, as well as the number of title elementals and degree elementals.<br>
+<tab>In the same place, you can distribute title elementals by abilities, and degree elementals by elements.
+}

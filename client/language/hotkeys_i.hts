@@ -1,0 +1,9 @@
+hypertext
+{
+<tab><cl=F0F010>TASTI DI SCELTA RAPIDA<cl=A2A2A2><br><br>
+<tab>I tasti di scelta rapida sono progettati per "strappare" rapidamente gli oggetti precedentemente "attribuiti" a un particolare tasto.  La finestra dei tasti di scelta rapida può essere presentata sullo schermo in due forme: grande e piccola. Il passaggio da un modulo all'altro viene effettuato con il tasto "K" (predefinito) o con il pulsante "tasti di scelta rapida" situato su <l="hts:\\language\constwin.hts">Pannello di sistema sinistro<\l>.<br>
+<tab>In <cl=FFFFFF>piccola forma<cl=B0B0B0> la finestra è una fila verticale di 10 celle in cui si riflettono gli oggetti posizionati, rispettivamente, sui tasti 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Quando si preme il tasto Ctrl, questa riga cambia e mostra i successivi 10 Elementi "caldi"che possono essere richiamati con la combinazione di tasti Ctrl+"numero".<br>
+<tab><cl=FFFFFF>Grande forma<cl=B0B0B0> consente di impostare i tasti di scelta rapida. Questo viene fatto spostando l'oggetto richiesto da <l="hts:\\language\inventory.hts">inventario<\l> in qualsiasi cella. Se una cella è stata occupata, la sua vecchia assegnazione viene annullata e sostituita con una nuova.<br>
+<tab><cl=FFFFFF>Importante:<cl=B0B0B0> i tasti di scelta rapida "ricordano" non l'oggetto stesso, ma la sua posizione. Quando si sposta un determinato oggetto dalla sua posizione personale nell'inventario, il tasto di scelta rapida diventerà vuoto e viceversa, se si posiziona un altro oggetto nella posizione memorizzata nell'inventario, premendo il tasto di scelta rapida si verificherà <cl=FFFFFF>utilizzo<cl=B0B0B0> un nuovo oggetto.<br>
+<tab>Lo stato dei tasti di scelta rapida viene ricordato quando si esce dal gioco.<br>
+}

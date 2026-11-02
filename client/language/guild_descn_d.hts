@@ -1,0 +1,100 @@
+hypertext
+{
+Gild bandiera<br>
+<br>
+
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +98<br>
+<tab>Physischer Schutz: +76<br>
+<tab>Magische Verteidigung: +112<br>
+<tab>Stärke und Genauigkeit: -6<br>
+<tab>Geschicklichkeit: -4<br>
+<tab>Ausdauer: +4<br>
+<tab>Erde und Wasser: -4<br>
+<tab>Luft und Feuer: -6<br>
+<tab>Magischer Angriff: -46<br>
+<br>
+
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +225<br>
+<tab>Physischer Schutz: +196<br>
+<tab>+218 Magische Verteidigung<br>
+<tab>Stärke und Genauigkeit: -20<br>
+<tab>Geschicklichkeit: -6<br>
+<tab>Ausdauer: +6<br>
+<tab>Erde und Wasser: -6<br>
+<tab>Luft und Feuer: -14<br>
+<tab>Magischer Angriff: -98<br>
+<br>
+
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +372<br>
+<tab>Physischer Schutz: +372<br>
+<tab>+374 Magische Verteidigung<br>
+<tab>Stärke und Genauigkeit: -28<br>
+<tab>Geschicklichkeit: -10<br>
+<tab>Ausdauer: +10<br>
+<tab>Erde und Wasser: -10<br>
+<tab>Luft und Feuer: -22<br>
+<tab>Magischer Angriff: -222<br>
+<br>
+
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +618<br>
+<tab>Physischer Schutz: +558<br>
+<tab>+788 Magische Verteidigung<br>
+<tab>Stärke und Genauigkeit: -42<br>
+<tab>Geschicklichkeit: -15<br>
+<tab>Ausdauer: +15<br>
+<tab>Erde und Wasser: -15<br>
+<tab>Luft und Feuer: -42<br>
+<tab>Magischer Angriff: -468<br>
+<br>
+
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +980<br>
+<tab>Physischer Schutz: +734<br>
+<tab>+1002 Magische Verteidigung<br>
+<tab>Stärke und Genauigkeit: -60<br>
+<tab>Beweglichkeit: -20<br>
+<tab>Ausdauer: +20<br>
+<tab>Erde und Wasser: -20<br>
+<tab>Luft und Feuer: -60<br>
+<tab>Magischer Angriff: -926<br>
+<br>
+
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Gesundheit: +1440<br>
+<tab>Physischer Schutz: +1024<br>
+<tab>+1420 Magische Verteidigung<br>
+<tab>Stärke und Genauigkeit: -96<br>
+<tab>Geschicklichkeit: -24<br>
+<tab>Ausdauer: +24<br>
+<tab>Erde und Wasser: -24<br>
+<tab>Luft und Feuer: -86<br>
+<tab>Magischer Angriff: -1282<br>
+<br>
+
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildn.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_descm.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desca.hts">Nächste Gilde<\l><br>
+}

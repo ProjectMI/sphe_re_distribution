@@ -1,0 +1,69 @@
+hypertext
+{
+Gild des Büchsenmachers<br>
+<br>
+<cl=00FF00>Erste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 16<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +65<br>
+<tab>+98 Magische Verteidigung<br>
+<tab>+82 Physischer Angriff<br>
+<tab>Fertigkeiten: -6<br>
+<tab>Elemente: -4<br>
+<br>
+<cl=00FF00>Zweite Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 21<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +120<br>
+<tab>+225 Magische Verteidigung<br>
+<tab>+150 Physischer Angriff<br>
+<tab>Fertigkeiten: -14<br>
+<tab>Elemente: -6<br>
+<br>
+<cl=00FF00>Dritte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 31<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +198<br>
+<tab>+372 Magische Verteidigung<br>
+<tab>+248 Physischer Angriff<br>
+<tab>Fertigkeiten: -22<br>
+<tab>Elemente: -10<br>
+<br>
+<cl=00FF00>Vierte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 41<br>
+<tab><tab>Maximaler Grad: 15 <br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +350<br>
+<tab>+618 Magische Verteidigung<br>
+<tab>+412 Physischer Angriff<br>
+<tab>Fertigkeiten: -42<br>
+<tab>Elemente: -15<br>
+<br>
+<cl=00FF00>Fünfte Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 51<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +490<br>
+<tab>+980 Magische Verteidigung<br>
+<tab>+653 Physischer Angriff<br>
+<tab>Fertigkeiten: -60<br>
+<tab>Elemente: -20<br>
+<br>
+<cl=00FF00>Sechste Stufe<br>
+<tab><tab><cl=A2A2A2>Minimaler Titel: 60<br>
+<tab><tab>Maximaler Grad: 15<br>
+<br><cl=ABCDEF>
+<tab>Physischer Schutz: +889<br>
+<tab>+1440 Magische Verteidigung<br>
+<tab>+960 Physischer Angriff<br>
+<tab>Fertigkeiten: -86<br>
+<tab>Elemente: -24<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Zurück zur Gildenliste<\l><br>
+<sp><l="hts:\\language\guildj.hts">Zurück zur Beschreibung der Gilde<\l><br>
+<br>
+<l="hts:\\language\guild_desci.hts">Vorherige Gilde<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desck.hts">Nächste Gilde<\l><br>
+}

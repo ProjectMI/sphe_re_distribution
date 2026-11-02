@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>VERWALTUNG<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Verwaltung<cl=A2A2A2><br>
+<tab>Das Spiel hat zwei Steuermodi: <cl=FFFFFF>allgemein<cl=B0B0B0> und <cl=FFFFFF>kampf<cl=B0B0B0>.  Im allgemeinen Modus befindet sich auf dem Bildschirm ein traditioneller (pfeilförmiger) Mauszeiger. Sie können Fenster und Spielobjekte manipulieren. Der Kampfmodus ist hauptsächlich für dynamische Kämpfe und lange Übergänge gedacht. Es gibt keinen beweglichen Mauszeiger auf dem Bildschirm, da der Cursor durch ein Fadenkreuz in der Mitte des Bildschirms gekennzeichnet ist. Verwenden Sie die Tabulatortaste (Standardeinstellung), um zwischen den Modi zu wechseln.<br>
+<br><tab><cl=00FF00>Hand<cl=A2A2A2><br>
+<tab>Die Hand deines Charakters kann entweder sein <cl=FFFFFF>"frei"<cl=B0B0B0> oder <cl=FFFFFF>"beschäftigt"<cl=B0B0B0>. <cl=FFFFFF>Mit der Hand<cl=B0B0B0> sie "nehmen" Objekte (z. B. Waffen), mit denen Sie ständig eine Aktion ausführen müssen. Wenn die Hand besetzt ist, wird in der unteren rechten Ecke des Bildschirms ein Bild der Hand mit dem darin befindlichen Objekt angezeigt. Sie können nur Objekte in der Hand platzieren, die sich in der Hand befinden <l="hts:\\language\inventory.hts">inventar<\l>. Um die Hand freizugeben, drücken Sie die Taste
+"-".<br>
+<br><tab><cl=00FF00>Steuerung im allgemeinen Modus<cl=A2A2A2><br>
+<tab>Das Aussehen des Cursors spiegelt die Aktion wider, die dein Charakter ausführen möchte (oder kann).<br>
+<tab><cl=FFFFFF>Hervorgehoben<cl=B0B0B0> in gelber Farbe zeigt der Cursor auf ein Objekt in Ihrer Reichweite (3 Meter). Sie können <cl=FFFFFF>verwenden<cl=B0B0B0> klicken Sie mit der linken Maustaste auf dieses Objekt. Bei der Verwendung werden einige Gegenstände (hauptsächlich Waffen, Heilpulver, Mantras) automatisch in die <cl=FFFFFF>hand<cl=B0B0B0> Deinen Charakter.<br>
+<tab>Wann <cl=FFFFFFF>in der Hand befindet sich ein Objekt<cl=B0B0B0> . sein Piktogramm wird ständig am Cursor "geklebt". Abhängig von der Reichweite des Objekts in Ihrer Hand können Sie es verwenden <cl=FFFFFF>verwenden<cl=B0B0B0> um mehr oder weniger entfernte Objekte in der Umgebung zu beeinflussen, klicken Sie mit der linken Maustaste.<br>
+<tab><cl=FFFFFF>Das Auge<cl=B0B0B0> wenn Sie die Umschalttaste gedrückt halten, wird sie neben dem Cursor angezeigt. In diesem Zustand können Sie <cl=FFFFFF>sehen<cl=B0B0B0> klicken Sie mit der linken Maustaste auf das gewünschte Objekt. Wenn das gewünschte Objekt nahe genug ist, erhalten Sie eine vollständige Beschreibung, wenn das Objekt weit entfernt ist - Sie werden nur den Namen sehen.<br>
+<tab><cl=FFFFFF>Mann<cl=B0B0B0> wenn Sie die Alt-Taste gedrückt halten, wird sie neben dem Cursor angezeigt. Dabei können Sie <cl=FFFFFF>verwenden<cl=B0B0B0> das Objekt selbst.<br>
+<tab><cl=FFFFFF>Beim Ziehen<cl=B0B0B0> ein Objekt wird vorübergehend in der Nähe des Cursors angezeigt. Um das Objekt zu ziehen, klicken Sie mit der linken Maustaste auf das Objekt und lassen es nicht los, um es an die gewünschte Stelle zu verschieben, wenn die Hand besetzt ist, kann das Objekt nicht verschoben werden.<br>
+<tab>Im allgemeinen Modus können Sie auch die Fenster manipulieren, insbesondere indem Sie sie über den Bildschirm bewegen und die für Sie bequeme Ansicht anpassen. Die Position der Fenster wird bei den nächsten Spieleingängen beibehalten, sofern sich der Videomodus nicht geändert hat.
+<br><tab>Wenn Sie im allgemeinen Modus die rechte Maustaste gedrückt halten, wird der Cursor in der Mitte des Bildschirms fixiert und Sie können vorübergehend in den Kampfmodus wechseln.<br>
+<br><tab><cl=00FF00>Steuerung im Kampfmodus<cl=A2A2A2><br>
+In diesem Modus wird kein gehasster Cursor angezeigt, und der Mauszeiger befindet sich in der Mitte des Bildschirms. Die Maus wird zum Drehen verwendet. Die Reaktion auf Mausbewegungen kann in den Steuerungseinstellungen unter "Mausumkehrung" eingestellt werden.<br>
+<tab>Die Tasten Umschalt, Alt und linke Maustaste werden auf die gleiche Weise wie im allgemeinen Modus verwendet. Es ist nicht möglich, Objekte im Kampfmodus zu ziehen.<br>
+<br><tab><cl=00FF00>Hotkeys<cl=A2A2A2><br>
+<tab>Für schnelle <cl=FFFFFF>verwendung<cl=B0B0B0> gegenstände, die sich in deinem Inventar befinden, können mit "Hotkeys" verwendet werden. Dies sind die Tasten 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 auf der Haupttastatur. In Kombination mit der Strg-Taste können insgesamt 20 Tastenkombinationen festgelegt werden. Um ein Objekt einem Hotkey zuzuweisen, verwenden Sie <l="hts:\\language\hotkeys.hts">hotkey-Fenster<\l>.<br>
+<br><tab><cl=00FF00>Faust<cl=A2A2A2><br>
+<tab>Falls die Verwendung einer Waffe aus irgendeinem Grund nicht möglich ist, kannst du deine eigenen Fäuste benutzen (Tilda-Taste: "`"). Mit der Faust kannst du dem Gegner schwache, aber häufige Schäden zufügen.<br>
+}

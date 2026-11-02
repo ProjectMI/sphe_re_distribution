@@ -1,0 +1,93 @@
+hypertext
+{
+<cl=FFFF00>Gild el cruzado<br>
+<br>
+<cl=00FF00>Primera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +120<br>
+<tab>Meca: -6<br>
+<tab>Resistencia: +10<br>
+<tab>Fuego: -8<br>
+<tab>Otros elementos: -4<br>
+<tab><br>
+<tab>Transferencia divina: cada 3 horas<br>
+<tab>Escudo de Prana: durante 10 minutos, una vez cada 6 horas<br>
+<tab>Tiempo de funcionamiento: por 5 minutos una vez cada 4 horas<br>
+<br>
+<cl=00FF00>Segunda etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +280<br>
+<tab>Meca: -20<br>
+<tab>Resistencia: +30<br>
+<tab>Fuego: -10<br>
+<tab>Otros elementos: -6<br>
+<tab><br>
+<tab>Transferencia divina: cada 3 horas<br>
+<tab>Escudo de Prana: durante 15 minutos, una vez cada 5 horas<br>
+<tab>Tiempo de funcionamiento: por 10 minutos una vez cada 3 horas<br>
+<br>
+<cl=00FF00>Tercera etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +650<br>
+<tab>Meca: -28<br>
+<tab>Resistencia: +44<br>
+<tab>Fuego: -12<br>
+<tab>Otros elementos: -10<br>
+<tab><br>
+<tab>Transferencia divina: cada 2 horas<br>
+<tab>Escudo de Prana: durante 20 minutos, una vez cada 5 horas<br>
+<tab>Tiempo de funcionamiento: por 10 minutos una vez cada 3 horas<br>
+<br>
+<cl=00FF00>Cuarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +910<br>
+<tab>Meca: -42<br>
+<tab>Resistencia: +62<br>
+<tab>Fuego: -16<br>
+<tab>Otros elementos: -15<br>
+<tab><br>
+<tab>Transferencia divina: cada 2 horas<br>
+<tab>Escudo de Prana: durante 30 minutos, una vez cada 4 horas<br>
+<tab>Tiempo de funcionamiento: por 10 minutos una vez cada 3 horas<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +1450<br>
+<tab>Meca: -60<br>
+<tab>Resistencia: +72<br>
+<tab>Fuego: -24<br>
+<tab>Otros elementos: -20<br>
+<tab><br>
+<tab>Transferencia divina: cada 2 horas<br>
+<tab>Escudo de Prana: durante 40 minutos, una vez cada 4 horas<br>
+<tab>Tiempo de funcionamiento: por 15 minutos una vez cada 2 horas<br>
+<br>
+<cl=00FF00>Sexto grado<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grado máximo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protección mágica: +2100<br>
+<tab>Meca: -96<br>
+<tab>Resistencia: +84<br>
+<tab>Fuego: -36<br>
+<tab>Otros elementos: -24<br>
+<tab><br>
+<tab>Transferencia divina: una vez cada 1 hora<br>
+<tab>Escudo de Prana: durante 50 minutos, cada 3 horas<br>
+<tab>Tiempo de funcionamiento: por 20 minutos una vez cada 2 horas<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Volver a la lista de gremios<\l><br>
+<sp><l="hts:\\language\guildb.hts">Volver a la descripción del gremio<\l><br>
+<br>
+<l="hts:\\language\guild_desca.hts">Anterior gremio<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descc.hts">Siguiente gremio<\l><br>
+}

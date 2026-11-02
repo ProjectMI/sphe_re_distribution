@@ -1,0 +1,22 @@
+hypertext
+{
+<tab><cl=F0F010>TORNEOS<cl=A2A2A2><br><br>
+<tab>El torneo es una gran oportunidad para probar su fuerza en un duelo con un oponente digno.
+Para participar en el torneo, debe solicitar la participación del Organizador.
+Los organizadores se encuentran cerca de las principales ciudades de Hiperión junto al teletransportador del torneo.
+Después de registrarse, queda por esperar el anuncio del Inicio del torneo, se escribirá en el chat.
+Todos los participantes deben moverse a la arena con la ayuda de un teletransportador de torneo cerca del Organizador.
+
+Tenga en cuenta que durante el torneo, todos los que esperan su turno no pueden correr a la arena o ayudar a otros jugadores.
+Un torneo puede ser de los siguientes tipos:<br>
+Duelo: los jugadores luchan uno contra uno<br>
+El ganador es el jugador que ha sobrevivido o que tiene más salud.
+Si huyes de la arena, se cuenta la derrota.<br>
+En el torneo están prohibidos algunos mantras y habilidades que le permiten ganar al instante.
+Además, las cosas del castillo se pueden usar, pero no darán efecto.<br><br>
+Rey de la montaña: todos luchan entre sí<br><br>
+El ganador recibirá el premio indicado en la ventana de registro.<br><br>
+
+<l="hts:\\language\tournament_gvg.hts">Grupo<\l>: los jugadores se dividen en dos grupos que luchan entre sí.<br>
+<br>
+}

@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CARATTERISTICHE DEL PERSONAGGIO<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Caratteristiche principali<cl=A2A2A2><br>
+<tab>Le caratteristiche principali del personaggio nel mondo della sfera includono <cl=FFFFFF>Salute<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Sazietà<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>La salute mostra lo stato del corpo fisico di un personaggio. Questo è l'indicatore più importante. Se diventa zero, il personaggio <l="hts:\\language\i_reincarn.hts"> muore<\l>. Nel tempo, la salute viene ripristinata.<br><br>
+<tab>Prana è una forza vitale universale che viene spesa quando si eseguono azioni marziali e magiche. Con una carenza di Prana, il tuo personaggio può diventare impotente.<br><br>
+<tab>Il karma è la misura delle azioni buone e cattive. Nessuno conosce lo stato esatto del suo karma. Puoi vedere solo il valore approssimativo del Karma: <br>
+<cl=FFFFFF><tab>"Molto male"<br>
+<tab>"Cattivo"<br>
+<tab>"Neutrale"<br>
+<tab>"Buono"<br>
+<tab>"Buono"<br><br><cl=B0B0B0>
+<tab>Il karma determina dove <l="hts:\\language\i_reincarn.hts">rinasce<\l> personaggio dopo la morte e influenza anche la possibilità di utilizzo <l="hts:\\language\i_mantras.hts">mantra<\l>. Uccidere altri personaggi o creature neutre peggiora il karma, uccidere mostri pericolosi può migliorarlo un po'.<br><br>
+<tab>Ogni personaggio nel regno ha bisogno di cibo. Più bassa è la sazietà, più lento è il recupero della salute del personaggio.  Con Zero sazietà, la salute non viene ripristinata affatto.<br>
+<tab>Con una sazietà diversa da zero fino a 1/3 del massimo, la salute massima aumenta del 5%.<br>
+<tab>Con una sazietà da 1/3 a 2/3 del massimo, la salute massima aumenta del 10% e la velocità di corsa aumenta del 10%.<br>
+<tab>Con una sazietà di 2/3 al massimo, la salute massima aumenta del 15% e la velocità di corsa aumenta del 5%.<br>
+<br><tab><cl=00FF00>Titolo E Laurea<cl=A2A2A2><br>
+<tab><cl=FFFFFF>Titolo<cl=B0B0B0> mostra il livello di sviluppo negli affari militari, <tab><cl=FFFFFF>Grado<cl=B0B0B0> - nell'arte magica. Ci sono 12 titoli e 12 gradi, ciascuno con 5 gradi, per un totale di 60 livelli. Di seguito sono elencati i titoli e i gradi (i livelli corrispondenti sono tra parentesi).<br>
+<br><tab><cl=F0F010>Titoli<br>
+<tab><cl=00FF00>il vagabondo (1-5)<br>
+<tab>ospite (6-10)<br>
+<tab>cittadino (11-15)<br>
+<tab>cittadino (16-20)<br>
+<tab>scudiero (21-25)<br>
+<tab>Chevalier (26-30)<br>
+<tab>Barone (31-35)<br>
+<tab>Visconte (36-40) <br>
+<tab>Conte (41-45)<br>
+<tab>marchese (46-50)<br>
+<tab>duca (51-55)<br>
+<tab>Principe (56-60)<br>
+<br><tab><cl=F0F010>Gradi<br>
+<tab><cl=00FF00>non istruito (1-5) <br>
+<tab>candidato (6-10) <br>
+<tab>allievo (11-15) <br>
+<tab>novizio (16-20) <br>
+<tab>partecipante (21-25) <br>
+<tab>studente (26-30) <br>
+<tab>Laurea breve (31-35) <br>
+<tab>Master (36-40) <br>
+<tab>dottore (41-45) <br>
+<tab>professore (46-50) <br>
+<tab>decano (51-55) <br>
+<tab>rettore (56-60) <br><br><cl=B0B0B0>
+<tab>A partire dal livello 21 per titolo (scudiero) e dal livello 26 per grado (scapolo), i ranghi sono nobili.<br>
+<tab>Per ottenere un altro titolo o grado, devi ottenere un certo numero di <cl=FFFFFF>marchi del titolo<cl=B0B0B0> e <cl=FFFFFF>gradi gradi<cl=B0B0B0>.<br>
+<tab>Quando si passa al livello successivo si ottiene una certa quantità di <cl=FFFFFF>elementali del titolo<cl=B0B0B0> e <cl=FFFFFF>gradi elementali<cl=B0B0B0>. Con il loro aiuto, puoi aumentare i tuoi punti <cl=FFFFFF>abilità ed elementi<cl=B0B0B0>. Ottenere il titolo dà più elementali del titolo, lo sviluppo del grado-elementali del grado. Di conseguenza, nel primo caso, le abilità si sviluppano di più e nel secondo - gli elementi. Quando un nuovo personaggio entra nel mondo della sfera, riceve 4 elementali ciascuno del titolo e del grado.<br>
+<br><tab><cl=00FF00>Abilità<cl=A2A2A2><br>
+Mostra lo sviluppo fisico, la tua capacità di essere controllato con armi non magiche e altri oggetti. Di seguito sono elencate solo le funzioni di base.<br>
+<tab><cl=FF0000>Forza<cl=B0B0B0> - responsabile dell'uso dell'ascia e, in parte, della Spada e della balestra.<br>
+<tab><cl=FF0000>Agilità<cl=B0B0B0> - maneggiare una spada e, in parte, un'ascia e una balestra.<br>
+<tab><cl=FF0000>Precisione<cl=B0B0B0> - possesso di balestra e armi d'assedio (catapulta).<br>
+<tab><cl=FF0000>Resistenza<cl=B0B0B0> - la capacità di usare scudi, cotta di maglia e altri mezzi protettivi, nonché, in parte, tipi pesanti di spade e asce.<br>
+<br><tab><cl=00FF00>Elementi<cl=A2A2A2><br>
+<tab>I livelli elementali riflettono le tue abilità in vari tipi di magia.<br>
+<tab><cl=0000FF>Terra<cl=B0B0B0> - mostra la capacità di usare mezzi magici protettivi: amuleti, braccialetti, ecc. La magia della Terra è principalmente finalizzata alla difesa, i mezzi d'attacco che usano questo elemento sono molto rari, ma piuttosto potenti.<br>
+<tab><cl=0000FF>Aria<cl=B0B0B0> - mostra la capacità di usare la magia a distanza e la magia associata allo spostamento nello spazio. <br>
+<tab><cl=0000FF>Acqua<cl=B0B0B0> - mostra la capacità di usare la magia curativa. Anche i mezzi attaccanti che usano questo elemento sono rari, come nel caso della Terra.<br>
+<tab><cl=0000FF>Fuoco<cl=B0B0B0> - mostra la capacità di usare la magia da mischia, che porta i danni più forti. <br><br>
+<tab>Il livello delle abilità e degli elementi del tuo personaggio determina la sua specializzazione e il modo di esistere nella sfera, quindi si consiglia di pensare attentamente alla strategia di sviluppo <l="hts:\\language\i_starting.hts">fin dall'inizio.<\l><br>
+<br><tab><cl=00FF00>Difesa fisica e difesa magica<cl=A2A2A2><br> 
+<tab>Questi parametri secondari determinano la capacità del personaggio di resistere ai danni fisici (da armi da taglio) e magici. Questi parametri dipendono dalle difese disponibili (armature, scudi, amuleti, ecc., vedi anche <l="hts:\\language\puppet.hts">"finestra del personaggio"<\l>) e anche da <l="hts:\\language\i_mutators.hts">mutatori<\l>.<br>
+<br><tab><cl=00FF00>Clan<cl=A2A2A2><br>
+<tab>Il tuo personaggio, oltre a avanzare nelle gerarchie del titolo e del grado, può partecipare alla gerarchia del clan. Per questo è necessario <l="hts:\\language\clan.hts">crea un nuovo o unisciti a un clan esistente.<\l><br>
+<br><tab><cl=FFFFFF>Vedi anche: <l="hts:\\language\statinfo.hts">"Finestra statistiche"<\l>.<cl=B0B0B0>
+}

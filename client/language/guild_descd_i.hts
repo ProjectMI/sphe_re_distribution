@@ -1,0 +1,99 @@
+hypertext
+{
+Gilda del cacciatore<br>
+<br>
+<cl=00FF00>Primo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 16<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protezione fisica: +40<br>
+<tab>Protezione magica: + 82<br>
+<tab>Forza: -6<br>
+<tab>Precisione: + 6<br>
+<tab>Resistenza: -4<br>
+<tab>Elementi: -4<br>
+<tab><br>
+<tab>Occhio di Belkin: attacco fisico + 80, per 1 ora, una volta ogni 4 ore<br>
+<tab>Doppio braccio: 10 minuti, una volta ogni 10 ore<br>
+<tab>Wanderer: 20 minuti, una volta ogni 6 ore<br>
+<br>
+<cl=00FF00>Secondo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 21<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Difesa fisica: + 74<br>
+<tab>Protezione magica: +150<br>
+<tab>Forza: -10<br>
+<tab>Precisione: +10<br>
+<tab>Resistenza: -6<br>
+<tab>Elementi: -6<br>
+<tab><br>
+<tab>Occhio di Belkin: attacco fisico +120, per 1 ora, una volta ogni 4 ore<br>
+<tab>Doppio braccio: 10 minuti, una volta ogni 8 ore<br>
+<tab>Wanderer: 30 minuti, una volta ogni 6 ore<br>
+<br>
+<cl=00FF00>Terzo stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 31<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protezione fisica: +180<br>
+<tab>Difesa magica: + 248<br>
+<tab>Forza: -14<br>
+<tab>Precisione: +14<br>
+<tab>Resistenza: -20<br>
+<tab>Elementi: -10<br>
+<tab><br>
+<tab>Occhio di Belkin: attacco fisico +250, per 1 ora, una volta ogni 3 ore<br>
+<tab>Doppio braccio: 15 minuti, una volta ogni 7 ore<br>
+<tab>Wanderer: 35 minuti, una volta ogni 5 ore<br>
+<br>
+<cl=00FF00>Quarto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 41<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protezione fisica: + 220<br>
+<tab>Difesa magica: +412<br>
+<tab>Forza: -18<br>
+<tab>Precisione: +18<br>
+<tab>Resistenza: -28<br>
+<tab>Elementi: -15<br>
+<tab><br>
+<tab>Occhio di Belkin: attacco fisico + 420, per 1 ora, una volta ogni 3 ore<br>
+<tab>Doppio braccio: 15 minuti, una volta ogni 7 ore<br>
+<tab>Wanderer: 40 minuti, una volta ogni 4 ore<br>
+<br>
+<cl=00FF00>Quinto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 51<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protezione fisica: + 340<br>
+<tab>Protezione magica: + 653<br>
+<tab>Forza: -24<br>
+<tab>Precisione: +24<br>
+<tab>Resistenza: -42<br>
+<tab>Elementi: -20<br>
+<tab><br>
+<tab>Occhio di Belkin: attacco fisico + 750, per 1 ora, una volta ogni 2 ore<br>
+<tab>Doppio braccio: 15 minuti, una volta ogni 7 ore<br>
+<tab>Wanderer: 35 minuti, una volta ogni 3 ore<br>
+<br>
+<cl=00FF00>Sesto stadio<br>
+<tab><tab><cl=A2A2A2>Titolo minimo: 60<br>
+<tab><tab>Grado massimo: 15<br>
+<br><cl=ABCDEF>
+<tab>Protezione fisica: +480<br>
+<tab>Protezione magica: + 960<br>
+<tab>Forza: -48<br>
+<tab>Precisione: + 48<br>
+<tab>Resistenza: -60<br>
+<tab>Elementi: -24<br>
+<tab><br>
+<tab>Belkin Eye: attacco fisico +1200, per 40 minuti, una volta ogni 2 ore<br>
+<tab>Doppio braccio: 30 minuti, una volta ogni 5 ore<br>
+<tab>Wanderer: 30 minuti, una volta ogni 2 ore<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Torna all'elenco delle Gilde<\l><br>
+<sp><l="hts:\\language\guildd.hts">Torna alla descrizione della gilda<\l><br>
+<br>
+<l="hts:\\language\guild_descc.hts">Gilda precedente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desce.hts">Prossima gilda<\l><br>
+}

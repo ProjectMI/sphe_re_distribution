@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>TABLAS<cl=A2A2A2><br><br>
+<tab>A través de la tabla se controla el castillo. Haciendo clic en el botón <cl=FFFFFF>Clan<cl=B0B0B0> . se puede ver el nombre del clan que posee el castillo. Botón <cl=FFFFFF>Propiedad<cl=B0B0B0> mostrará una lista de los personajes que se encuentran actualmente en las posesiones del castillo. A través de <cl=FFFFFF>Tasas<cl=B0B0B0> es posible establecer el monto de la tarifa que se pagará a los personajes que no pertenecen al clan que capturó el castillo por estar en el territorio del castillo.<br>
+
+<br>Para aumentar el poder defensivo del castillo, debe pagar los siguientes impuestos:<br>
+<cl=FFFFFF><br>
+Impuesto a la tierra<br>
+Impuesto a la puerta<br>
+Impuesto a la tabla<br>
+Impuesto de mazmorras<br>
+}

@@ -1,0 +1,63 @@
+hypertext
+{
+Gild Bárbara<br>
+<br>
+<cl=00FF00>Primeira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 16<br>
+<tab><tab>Grau mínimo: 16<br>
+<br><cl=ABCDEF>
+<tab>Força: +10<br>
+<tab>Destreza: -4<br>
+<tab>Terra: + 2<br>
+<tab>Fogo: -12<br>
+<br>
+<cl=00FF00>Segunda fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 21<br>
+<tab><tab>Grau mínimo: 21<br>
+<br><cl=ABCDEF>
+<tab>Força: + 30<br>
+<tab>Destreza: -6<br>
+<tab>Terra: + 6<br>
+<tab>Fogo: -24 <br>
+<br>
+<cl=00FF00>Terceira fase<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 31<br>
+<tab><tab>Grau mínimo: 31<br>
+<br><cl=ABCDEF>
+<tab>Força: + 44<br>
+<tab>Destreza: -12<br>
+<tab>Terra: + 20<br>
+<tab>Fogo: -36<br>
+<br>
+<cl=00FF00>Quarta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 41<br>
+<tab><tab>Grau mínimo: 41<br>
+<br><cl=ABCDEF>
+<tab>Força: + 65<br>
+<tab>Destreza: -30<br>
+<tab>Terra: + 28<br>
+<tab>Fogo: -48<br>
+<br>
+<cl=00FF00>Quinta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 51<br>
+<tab><tab>Grau mínimo: 51<br>
+<br><cl=ABCDEF>
+<tab>Força: + 72<br>
+<tab>Destreza: -47<br>
+<tab>Terra: + 42<br>
+<tab>Fogo: -56<br>
+<br>
+<cl=00FF00>Sexta etapa<br>
+<tab><tab><cl=A2A2A2>Título mínimo: 60<br>
+<tab><tab>Grau mínimo: 60<br>
+<br><cl=ABCDEF>
+<tab>Força: + 96<br>
+<tab>Destreza: -68<br>
+<tab>Terra: + 50<br>
+<tab>Fogo: -70<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Voltar à lista de guildas<\l><br>
+<sp><l="hts:\\language\guildf.hts">Voltar à descrição da guilda<\l><br>
+<br>
+<l="hts:\\language\guild_desce.hts">Guilda anterior<\l>  <cl=FFFF00>| <l="hts:\\language\guild_descg.hts">Próxima guilda<\l><br>
+}

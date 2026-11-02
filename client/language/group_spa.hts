@@ -1,0 +1,12 @@
+hypertext
+{
+<tab><cl=F0F010>GRUPO<cl=A2A2A2><br><br>
+<tab>La ventana del grupo se llama con la tecla "G" (por defecto) o con el botón "clan" en <l="hts:\\language\constwin.hts">panel del sistema derecho.<\l><br>
+<tab>Si no estás en un grupo, verás <cl=FFFFFF>ventana de creación de grupo.<cl=B0B0B0>  <br>
+<br><tab><cl=00FF00>Crear un grupo<cl=A2A2A2><br>
+<tab>Seleccionando el elemento <cl=FFFFFF>"crear un grupo"<cl=B0B0B0> . Automáticamente te conviertes <cl=FFFFFF>capítulo<cl=B0B0B0> en un nuevo grupo. <cl=FF0000>  <br>
+<tab>Después de seleccionar el elemento <cl=FFFFFF>"entrar en el grupo"<cl=B0B0B0> al cursor "se pega" la inscripción correspondiente. Después de eso, debe hacer clic izquierdo en <cl=FFFFFF>jefe de grupo<cl=B0B0B0>. Recibe Su solicitud para unirse al grupo y decide si acepta o no. Una vez aceptado, te conviertes en un miembro ordinario del grupo.<br>
+<cl=FFFFFF>Jefe de grupo<cl=B0B0B0> puede eliminar a cualquier miembro del grupo y disolver el grupo. Cuando se disuelve el grupo, el líder se convierte en el miembro, en este momento el más alto en la lista. <cl=FFFFFF>El número máximo de miembros del grupo es de 5.<cl=B0B0B0><br>
+<br><tab><cl=00FF00>Obtención de sellos de título y grado en el grupo<cl=A2A2A2><br>
+La experiencia obtenida por la destrucción de los monstruos se divide entre todos los miembros del grupo que se encuentran a una distancia de no más de 50 metros, en proporción a su nivel. Por la destrucción de un monstruo, el grupo gana más experiencia que un personaje, y más cuanto más miembros del grupo.<br>
+}

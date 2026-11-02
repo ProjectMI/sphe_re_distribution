@@ -1,0 +1,68 @@
+hypertext
+{
+<tab><cl=F0F010>CHARAKTEREIGENSCHAFTEN<cl=A2A2A2><br><br>
+<br><tab><cl=00FF00>Hauptmerkmale<cl=A2A2A2><br>
+<tab>Zu den Hauptmerkmalen des Charakters in der Welt der Sphäre gehören <cl=FFFFFF>Gesundheit<cl=B0B0B0>, <cl=FFFFFF>Prana<cl=B0B0B0>, <cl=FFFFFF>Sättigung<cl=B0B0B0>, <cl=FFFFFF>Karma<cl=B0B0B0>.<br>
+<tab>Gesundheit zeigt den Zustand des physischen Körpers des Charakters an. Dies ist der wichtigste Indikator. Wenn es Null wird, wird der Charakter <l="hts:\\language\i_reincarn.hts"> stirbt<\l>. Mit der Zeit wird die Gesundheit wiederhergestellt.<br><br>
+<tab>Prana ist eine universelle Lebenskraft, die bei Kampfhandlungen und magischen Handlungen verbraucht wird. Wenn es an Prana mangelt, kann dein Charakter hilflos werden.<br><br>
+<tab>Karma ist das Maß guter und böser Taten. Niemand kennt den genauen Zustand seines Karmas. Sie können nur die ungefähre Bedeutung von Karma sehen: <br>
+<cl=FFFFFF><tab>"Sehr schlecht"<br>
+<tab>"Schlecht"<br>
+<tab>"Neutral"<br>
+<tab>"Gut"<br>
+<tab>"Gut"<br><br><cl=B0B0B0>
+<tab>Karma bestimmt, wo <l="hts:\\language\i_reincarn.hts">wiedergeboren<\l> der Charakter nach dem Tod und beeinflusst auch die Nutzungsmöglichkeit <l="hts:\\language\i_mantras.hts">mantras<\l>. Das Töten anderer Charaktere oder neutraler Kreaturen verschlechtert das Karma, das Töten gefährlicher Monster kann es ein wenig verbessern.<br><br>
+<tab>Jeder Charakter in der Sphäre braucht Nahrung. Je niedriger die Sättigung ist, desto langsamer wird die Gesundheit des Charakters wiederhergestellt.  Bei null Sättigung wird die Gesundheit überhaupt nicht wiederhergestellt.<br>
+<tab>Bei einer Sättigung ungleich Null auf 1/3 der maximalen Sättigung erhöht sich die maximale Gesundheit um 5%.<br>
+<tab>Bei einer Sättigung von 1/3 bis 2/3 der maximalen maximalen Gesundheit wird die maximale Gesundheit um 10% erhöht und die Laufgeschwindigkeit um 10% erhöht.<br>
+<tab>Bei einer Sättigung von 2/3 bis maximal erhöht sich die maximale Gesundheit um 15% und die Laufgeschwindigkeit um 5%.<br>
+<br><tab><cl=00FF00>Titel und Grad<cl=A2A2A2><br>
+<tab><cl=FFFFFF>Titel<cl=B0B0B0> zeigt den Entwicklungsstand im militärischen Bereich an, <tab><cl=FFFFFF>Grad<cl=B0B0B0> - in der magischen Kunst. Es gibt 12 Titel und 12 Grade, in jeder 5 Abstufung, insgesamt 60 Stufen. Die Titel und Abschlüsse sind unten aufgeführt (die entsprechenden Ebenen stehen in Klammern).<br>
+<br><tab><cl=F0F010>Titel<br>
+<tab><cl=00FF00>wanderer (1-5)<br>
+<tab>gast (6-10)<br>
+<tab>bürger (11-15)<br>
+<tab>bürger (16-20)<br>
+<tab>squire (21-25)<br>
+<tab>chevalier (26-30)<br>
+<tab>baron (31-35)<br>
+<tab>viscount (36-40) <br>
+<tab>graf (41-45)<br>
+<tab>marquis (46-50)<br>
+<tab>herzog (51-55)<br>
+<tab>prinz (56-60)<br>
+<br><tab><cl=F0F010>Grad<br>
+<tab><cl=00FF00>ungelernte (1-5) <br>
+<tab>kandidat (6-10) <br>
+<tab>schüler (11-15) <br>
+<tab>anfänger (16-20) <br>
+<tab>teilnehmer (21-25) <br>
+<tab>student (26-30) <br>
+<tab>bachelor (31-35) <br>
+<tab>master (36-40) <br>
+<tab>doktor (41-45) <br>
+<tab>professor (46-50) <br>
+<tab>dekan (51-55) <br>
+<tab>rektor (56-60) <br><br><cl=B0B0B0>
+<tab>Ab Stufe 21 nach Titel (Squire) und Stufe 26 nach Grad (Bachelor) sind die Titel adelig.<br>
+<tab>Um einen weiteren Titel oder Abschluss zu erhalten, müssen Sie eine bestimmte Anzahl an Punkten erreichen <cl=FFFFFF>titel-Briefmarken<cl=B0B0B0> und <cl=FFFFFF>grade Briefmarken<cl=B0B0B0>.<br>
+<tab>Wenn Sie auf eine neue Ebene gelangen, erhalten Sie eine bestimmte Menge <cl=FFFFFF>die Elementaren des Titels<cl=B0B0B0> und <cl=FFFFFF>elementaren Grad<cl=B0B0B0>. Mit ihrer Hilfe können Sie Ihre Punkte erhöhen <cl=FFFFFF>fähigkeiten und Elemente<cl=B0B0B0>. Das Erhalten des Titels gibt mehr Elementare des Titels, die Entwicklung des Grades - die Elementaren des Grades. Dementsprechend entwickeln sich im ersten Fall Fähigkeiten mehr und im zweiten Fall Elemente. Wenn ein neuer Charakter die Welt der Kugel betritt, erhält er jeweils 4 elementare Titel und Grade.<br>
+<br><tab><cl=00FF00>Fähigkeiten<cl=A2A2A2><br>
+Zeigen körperliche Entwicklung, Ihre Fähigkeit, mit nichtmagischen Waffen und anderen Gegenständen zu bewältigen. Im Folgenden sind nur die grundlegenden Funktionen aufgeführt.<br>
+<tab><cl=FF0000>Stärke<cl=B0B0B0> - verantwortlich für den Besitz einer Axt und zum Teil eines Schwertes und einer Armbrust.<br>
+<tab><cl=FF0000>Geschicklichkeit<cl=B0B0B0> - besitz eines Schwertes und zum Teil einer Axt und einer Armbrust.<br>
+<tab><cl=FF0000>Treffsicherheit<cl=B0B0B0> - besitz einer Armbrust und Belagerungswaffen (Katapult).<br>
+<tab><cl=FF0000>Ausdauer<cl=B0B0B0> - die Fähigkeit, Schilde, Kettenhemde und andere Schutzmittel sowie teilweise schwere Arten von Schwertern und Äxten zu benutzen.<br>
+<br><tab><cl=00FF00>Elemente<cl=A2A2A2><br>
+<tab>Die Elementarstufen spiegeln Ihre Fähigkeiten in verschiedenen Arten von Magie wider.<br>
+<tab><cl=0000FF>Land<cl=B0B0B0> - zeigt die Fähigkeit, magische Schutzmittel zu benutzen: Amulette, Armbänder usw. Die Magie der Erde ist hauptsächlich auf Verteidigung ausgerichtet, die angreifenden Mittel, die dieses Element benutzen, sind sehr selten, aber ziemlich stark.<br>
+<tab><cl=0000FF>Luft<cl=B0B0B0> - zeigt die Fähigkeit, Fernkampfmagie zu genießen, sowie die Magie, die mit der Bewegung im Raum verbunden ist. <br>
+<tab><cl=0000FF>Wasser<cl=B0B0B0> - zeigt die Fähigkeit, Heilmagie zu benutzen. Angreifer, die dieses Element verwenden, sind ebenso selten wie die Erde.<br>
+<tab><cl=0000FF>Feuer<cl=B0B0B0> - zeigt die Fähigkeit, Nahkampfmagie zu nutzen, die den stärksten Schaden verursacht. <br><br>
+<tab>Das Niveau der Fähigkeiten und Elemente deines Charakters bestimmt seine Spezialisierung und Art des Daseins in der Sphäre, daher wird empfohlen, die Entwicklungsstrategie sorgfältig zu überdenken <l="hts:\\language\i_starting.hts">von Anfang an.<\l><br>
+<br><tab><cl=00FF00>Physischer Schutz und magischer Schutz<cl=A2A2A2><br> 
+<tab>Diese sekundären Parameter bestimmen die Fähigkeit des Charakters, physischen (kalten Waffen) und magischen Schäden zu widerstehen. Diese Parameter hängen von den verfügbaren Schutzmitteln (Rüstung, Schilde, Amulette usw.) ab, siehe auch <l="hts:\\language\puppet.hts">"charakterfenster"<\l>) und auch von <l="hts:\\language\i_mutators.hts">mutatoren<\l>.<br>
+<br><tab><cl=00FF00>Der Clan<cl=A2A2A2><br>
+<tab>Neben dem Aufstieg in die Hierarchien von Titel und Grad kann dein Charakter an einer Clanhierarchie teilnehmen. Um dies zu tun, benötigen Sie <l="hts:\\language\clan.hts">erstellen Sie einen neuen oder treten Sie einem bestehenden Clan bei.<\l><br>
+<br><tab><cl=FFFFFF>Siehe auch: <l="hts:\\language\statinfo.hts">"Statistikfenster"<\l>.<cl=B0B0B0>
+}

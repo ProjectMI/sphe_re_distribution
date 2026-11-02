@@ -1,0 +1,69 @@
+hypertext
+{
+Gild armurier<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 16<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: + 65<br>
+<tab>Protection magique: + 98<br>
+<tab>Attaque physique: +82<br>
+<tab>Compétences: -6<br>
+<tab>Éléments: -4<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 21<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +120<br>
+<tab>Protection magique: +225<br>
+<tab>Attaque physique: +150<br>
+<tab>Compétences: -14<br>
+<tab>Éléments: -6<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 31<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +198<br>
+<tab>Protection magique: +372<br>
+<tab>Attaque physique: +248<br>
+<tab>Compétences: -22<br>
+<tab>Éléments: -10<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 41<br>
+<tab><tab>Degré maximum: 15 <br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +350<br>
+<tab>Protection magique: + 618<br>
+<tab>Attaque physique: +412<br>
+<tab>Compétences: -42<br>
+<tab>Éléments: -15<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 51<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: + 490<br>
+<tab>Protection magique: +980<br>
+<tab>Attaque physique: + 653<br>
+<tab>Compétences: -60<br>
+<tab>Éléments: -20<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre minimum: 60<br>
+<tab><tab>Degré maximum: 15<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +889<br>
+<tab>Protection magique: +1440<br>
+<tab>Attaque physique: +960<br>
+<tab>Compétences: -86<br>
+<tab>Éléments: -24<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildj.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_desci.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desck.hts">Prochaine guilde<\l><br>
+}

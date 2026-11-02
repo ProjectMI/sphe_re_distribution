@@ -1,0 +1,5 @@
+hypertext
+{
+<tab><cl=F0F010>CONTENEDOR<cl=A2A2A2><br><br>
+<tab><cl=FFFFFF>Contenedor<cl=B0B0B0> puede ser un Torba, una bolsa, un cofre, es decir, cualquier recipiente en el que se puedan colocar otros objetos. El contenedor se abre y cierra con un clic izquierdo. Cada contenedor tiene su propio peso, así como el peso máximo posible (junto con las cosas que contiene). Puedes conocer estos pesos si <l="hts:\\language\i_mainp.hts">"ver"<\l> en el contenedor. No podrá colocar un objeto en un contenedor si se excede su peso máximo.<br>Algunos contenedores tienen celdas especiales para ciertos artículos, por ejemplo, en los cofres de las habitaciones de hotel, las últimas celdas sirven para ingredientes alquímicos y polvos mágicos.<br>
+}

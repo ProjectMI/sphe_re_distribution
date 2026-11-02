@@ -1,0 +1,25 @@
+hypertext
+{
+<tab><cl=F0F010>VENTANA DE ESTADÍSTICAS<cl=A2A2A2><br><br>
+<tab>En esta ventana se reflejan <l="hts:\\language\i_charact.hts">características<\l> Tu personaje. Para abrir esta ventana, use la tecla "H" (predeterminada).<br>
+<br><tab><cl=00FF00>Título y Grado<cl=A2A2A2><br>
+<tab>En la parte superior de la ventana se muestran el Título y El grado mágico de Tu personaje, así como el número de sellos de título y grado, tanto reclutados como necesarios para pasar al siguiente nivel.<br>
+<br><tab><cl=00FF00>Karma y clan<cl=A2A2A2><br>
+<tab>A continuación se muestra el Karma y, si Tu personaje pertenece a algún clan, el nombre <l="hts:\\language\clan.hts">clan<\l>.<br>
+Los niveles de karma se distribuyen de la siguiente manera:
+<br>menos de -1000: muy malo
+<br>-1000 a -500: malo
+<br>-500 a 500: neutral
+<br>500 a 1000: bueno
+<br>más de 1000: bueno
+<br>
+<br><tab><cl=00FF00>Salud, Prana, Saciedad<cl=A2A2A2><br>
+<tab>A continuación se muestran la Salud, el Prana y la Saciedad del personaje (valores actuales y máximos).<br>
+<br><tab><cl=00FF00>Ataque y defensa<cl=A2A2A2><br>
+<tab>En la parte central de la ventana se ven los valores numéricos de la fuerza de ataque y defensa de Tu personaje.<br> 
+En los puntos ataque de combate y ataque mágico, los números aparecen cuando tomas armas u objetos mágicos que pueden causar daño o tener un efecto curativo. El daño se refleja en un número negativo, el efecto curativo en un número positivo.<br>
+<tab>Párrafos <l="hts:\\language\i_charact.hts">"defensa de combate" y "defensa mágica"<\l> muestra los niveles apropiados de tu protección. Estos parámetros dependen de los medios de protección disponibles (ver "<l="hts:\\language\puppet.hts">Ventana de personaje<\l>"), así como de <l="hts:\\language\i_mutators.hts">mutadores<\l>.<br>
+<br><tab><cl=00FF00>Habilidades y elementos<cl=A2A2A2><br>
+<tab>En la parte inferior de la ventana se muestran los valores de propiedad actuales <l="hts:\\language\i_charact.hts">habilidades y elementos<\l>, así como el número de elementales de título y elementales de grado.<br>
+<tab>Allí también puedes distribuir los elementales de título por habilidad y los elementales de grado por elementos.
+}

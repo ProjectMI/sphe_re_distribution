@@ -1,0 +1,69 @@
+hypertext
+{
+Gild druide<br>
+<br>
+<cl=00FF00>Première étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 16<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +82<br>
+<tab>Compétences: -4<br>
+<tab>Terre et Eau: +10<br>
+<tab>Air et Feu: -6<br>
+<tab>Attaque magique: + 25<br>
+<br>
+<cl=00FF00>Deuxième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 21<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +150<br>
+<tab>Compétences: -6<br>
+<tab>Terre et Eau: + 20<br>
+<tab>Air et Feu: -16<br>
+<tab>Attaque magique: + 50<br>
+<br>
+<cl=00FF00>Troisième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 31<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: +248<br>
+<tab>Compétences: -10<br>
+<tab>Terre et Eau: +32<br>
+<tab>Air et Feu: -28<br>
+<tab>Attaque magique: + 84<br>
+<br>
+<cl=00FF00>Quatrième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 41<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: + 412<br>
+<tab>Compétences: -14<br>
+<tab>Terre et Eau: + 44<br>
+<tab>Air et Feu: -36<br>
+<tab>Attaque magique: +130<br>
+<br>
+<cl=00FF00>Cinquième échelon<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 51<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: + 653<br>
+<tab>Compétences: -18<br>
+<tab>Terre et Eau: + 56<br>
+<tab>Air et Feu: -48<br>
+<tab>Attaque magique: + 220<br>
+<br>
+<cl=00FF00>Sixième étape<br>
+<tab><tab><cl=A2A2A2>Titre maximum: 15<br>
+<tab><tab>Degré minimum: 60<br>
+<br><cl=ABCDEF>
+<tab>Protection physique: + 960<br>
+<tab>Compétences: -24<br>
+<tab>Terre et Eau: + 68<br>
+<tab>Air et Feu: -68<br>
+<tab>Attaque magique: + 530<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Retour à la liste des guildes<\l><br>
+<sp><l="hts:\\language\guildg.hts">Retour à la Description de la guilde<\l><br>
+<br>
+<l="hts:\\language\guild_descf.hts">Guilde précédente<\l>  <cl=FFFF00>| <l="hts:\\language\guild_desch.hts">Prochaine guilde<\l><br>
+}

@@ -1,0 +1,99 @@
+hypertext
+{
+Hunter's Guild<br>
+<br>
+<cl=00FF00>The first stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 16<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +40<br>
+<tab>Magic Protection: +82<br>
+<tab>Strength: -6<br>
+<tab>Accuracy: +6<br>
+<tab>Endurance: -4<br>
+<tab>Elements: -4<br>
+<tab><br>
+<tab>Belkin's eye: physical attack +80, for 1 hour, every 4 hours<br>
+<tab>Double arrow: 10 minutes, once every 10 hours<br>
+<tab>Wanderer: 20 minutes, once every 6 hours<br>
+<br>
+<cl=00FF00>The second stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 21<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +74<br>
+<tab>Magic Protection: +150<br>
+<tab>Strength: -10<br>
+<tab>Accuracy: +10<br>
+<tab>Endurance: -6<br>
+<tab>Elements: -6<br>
+<tab><br>
+<tab>Belkin's eye: physical attack +120, for 1 hour, every 4 hours<br>
+<tab>Double arrow: 10 minutes, once every 8 hours<br>
+<tab>Wanderer: 30 minutes, once every 6 hours<br>
+<br>
+<cl=00FF00>The third stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 31<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +180<br>
+<tab>Magic Protection: +248<br>
+<tab>Strength: -14<br>
+<tab>Accuracy: +14<br>
+<tab>Endurance: -20<br>
+<tab>Elements: -10<br>
+<tab><br>
+<tab>Belkin's eye: physical attack +250, for 1 hour, every 3 hours<br>
+<tab>Double arrow: 15 minutes, once every 7 hours<br>
+<tab>Wanderer: 35 minutes, once every 5 hours<br>
+<br>
+<cl=00FF00>The fourth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 41<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +220<br>
+<tab>Magic Protection: +412<br>
+<tab>Strength: -18<br>
+<tab>Accuracy: +18<br>
+<tab>Endurance: -28<br>
+<tab>Elements: -15<br>
+<tab><br>
+<tab>Squirrel eye: physical attack +420, for 1 hour, every 3 hours<br>
+<tab>Double arrow: 15 minutes, once every 7 hours<br>
+<tab>Wanderer: 40 minutes, once every 4 hours<br>
+<br>
+<cl=00FF00>The fifth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 51<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +340<br>
+<tab>Magic Protection: +653<br>
+<tab>Power: -24<br>
+<tab>Accuracy: +24<br>
+<tab>Endurance: -42<br>
+<tab>Elements: -20<br>
+<tab><br>
+<tab>Belkin's eye: physical attack +750, for 1 hour, every 2 hours<br>
+<tab>Double arrow: 15 minutes, once every 7 hours<br>
+<tab>Wanderer: 35 minutes, once every 3 hours<br>
+<br>
+<cl=00FF00>The sixth stage<br>
+<tab><tab><cl=A2A2A2>Minimum title: 60<br>
+<tab><tab>Maximum degree: 15<br>
+<br><cl=ABCDEF>
+<tab>Physical protection: +480<br>
+<tab>Magic Protection: +960<br>
+<tab>Strength: -48<br>
+<tab>Accuracy: +48<br>
+<tab>Endurance: -60<br>
+<tab>Elements: -24<br>
+<tab><br>
+<tab>Belkin's eye: physical attack +1200, for 40 minutes, every 2 hours<br>
+<tab>Double arrow: 30 minutes, once every 5 hours<br>
+<tab>Wanderer: 30 minutes, once every 2 hours<br>
+<br>
+<sp><l="hts:\\language\guilds.hts">Back to the list of guilds<\l><br>
+<sp><l="hts:\\language\guildd.hts">Back to the guild description<\l><br>
+<br>
+<l="hts:\\language\guild_descc.hts">Previous Guild<\l>  <cl=FFFF00>| The <l="hts:\\language\guild_desce.hts">next guild<\l><br>
+}

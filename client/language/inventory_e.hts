@@ -1,0 +1,13 @@
+hypertext
+{
+<tab><cl=F0F010>INVENTORY<cl=A2A2A2><br><br>
+<tab>The cells in this window show the objects that the character carries with him. Items placed in these cells can be lost after the <l="hts:\\language\i_reincarn.hts">death of the<\l> character with a probability depending on your karma (the better the karma, the less likely the losses are).<br>
+<tab>The two lower rows are designed to store any objects, including weapons. The top row is five special cells:<br>
+<tab><cl=FFFFFF>Money<cl=B0B0B0>.  Your cash is in thalers.<br>
+<tab><cl=FFFFFF>A bag<cl=B0B0B0>.  A cell for a bag. The bags have additional cells for storing items.<br>
+<tab><cl=FFFFFF>2 keys<cl=B0B0B0>.  Keys (no more than two) can be stored in these cells from hotel rooms or from rooms in castles.<br>
+<tab><cl=FFFFFF>The mission key<cl=B0B0B0>.  The key of the mission you received is stored here.<br>
+<tab>To place an object in the inventory, simply <l="hts:\\language\i_mainp.hts">drag<\l> it to the desired cell. The object must correspond to the cell according to its purpose. If there is no match, the cell is highlighted in red when dragging is attempted. If there is a match, the cell is highlighted in green.<br>
+<tab>Weapons and other frequently used items in the inventory, it makes sense to "attribute" to the <l="hts:\\language\hotkeys.hts">hotkeys<\l>.<br>
+<tab>The middle row in the inventory - 5 cells - are "eternal". This means that the things placed in these cells are not lost at death, except for money and bags. If the cell with the item has a blue border, it means that the item will not be lost in case of death. Depending on the karma and location of the character, not all cells may be active. With very bad karma, only one cell out of 5 is active, with good karma, all are active. If the character is located on the Charon mainland, then the opposite is true: with good karma, 1 cell is active, and with very bad karma, all 5 are active.<br>
+}
